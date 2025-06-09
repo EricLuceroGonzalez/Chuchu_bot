@@ -1,0 +1,9 @@
+.env
+.pyc
+__pycache__
+.DS_Store
+Pipfile
+Pipfile.lock
+
+frases_chuchu.json
+todas_las_citas.json

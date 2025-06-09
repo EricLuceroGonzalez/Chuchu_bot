@@ -1,0 +1,452 @@
+INFO:
+***** ***** ***** 2025-06-09 14:19:58 ***** ***** *****
+INFO:Creating tweet with text: 🔖 Pero ahora estamos, otra vez, en Carnac, caminando entre las
+piedras
+lentamente, fumando, tomando fotografías,
+pasándonos revista, haciendo el inventario, preparando 
+nuestra cuenta final, el balance, la herencia que nos dejamos 
+y que otro día vendremos a recoger nuevamente.
+Libro: Medio Siglo (1979)., media_ids: https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235568/Chuchu_bot/00004ChuchuPortada_n5qpuh.png
+INFO:
+***** ***** ***** 2025-06-09 14:35:19 ***** ***** *****
+INFO:Creating tweet with text: Repito: No lo sé.
+ Libro: Medio Siglo (1979).
+INFO:
+***** ***** ***** 2025-06-09 14:36:41 ***** ***** *****
+INFO:Creating tweet with text: Oh, tú, allende el mar.
+ Libro: Medio Siglo (1979).
+INFO:***** ***** ***** 2025-06-09 14:37:12 ***** ***** *****
+INFO:Creating tweet with text: 🧳 Pregúntale que a dónde.
+ Libro: Medio Siglo (1979).
+INFO:***** ***** ***** 2025-06-09 14:37:20 ***** ***** *****
+INFO:Creating tweet with text: Yo me voy a morir eternamente.
+ Libro: Ars Amandi (1985).
+INFO:***** ***** ***** 2025-06-09 14:37:26 ***** ***** *****
+INFO:Creating tweet with text: Yo no podría amarte si yo no fuera comunista.
+ Libro: Ars Amandi (1985)., media_ids: https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749236450/Chuchu_bot/0005ChuchuArsAmandi.png
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...1932054438270607361
+INFO:***** ***** ***** 2025-06-09 14:53:55 ***** ***** *****
+INFO:Creating tweet with text: Yo quiero cosas nada más, mirarlas.
+ Libro: Medio Siglo (1979)., media_ids: https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235568/Chuchu_bot/00004ChuchuPortada_n5qpuh.png
+INFO:Downloading image from Cloud..
+ERROR:Error uploading image: [Errno 2] No such file or directory: 'https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235568/Chuchu_bot/00004ChuchuPortada_n5qpuh.png'
+INFO:Deleted temporary image file: /Users/ericlucero/Documents/Academic/Python_Fun/Bot_Chuchu/temp_image.jpg
+INFO:***** ***** ***** 2025-06-09 14:55:26 ***** ***** *****
+INFO:Creating tweet with text: Toda teoría creacionista sobra; y el piloto lo sabe directamente, con las manos.
+ Libro: Teoría del vuelo (1979).
+INFO:***** ***** ***** 2025-06-09 14:55:41 ***** ***** *****
+INFO:Creating tweet with text: ¿Cómo quieres que te quiera con lo poco que ha dejado tanto diente despiadado sobre aquello que yo era?
+ Libro: Ars Amandi (1985)., media_ids: https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749236450/Chuchu_bot/0005ChuchuArsAmandi.png
+INFO:Downloading image from Cloud..
+ERROR:Error uploading image: [Errno 2] No such file or directory: 'https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749236450/Chuchu_bot/0005ChuchuArsAmandi.png'
+INFO:Deleted temporary image file: /Users/ericlucero/Documents/Academic/Python_Fun/Bot_Chuchu/temp_image.jpg
+INFO:***** ***** ***** 2025-06-09 14:58:13 ***** ***** *****
+INFO:Creating tweet with text: 📌 Mi cuerpo y yo te amamos.
+ Libro: Medio Siglo (1979)., media_ids: https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235568/Chuchu_bot/00004ChuchuPortada_n5qpuh.png
+INFO:Downloading image from Cloud..
+ERROR:Error uploading image: [Errno 2] No such file or directory: 'https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235568/Chuchu_bot/00004ChuchuPortada_n5qpuh.png'
+INFO:Deleted temporary image file: /Users/ericlucero/Documents/Academic/Python_Fun/Bot_Chuchu/temp_image.jpg
+INFO:***** ***** ***** 2025-06-09 15:00:26 ***** ***** *****
+INFO:Creating tweet with text: Mañana, ayer, todo es hoy. No nace el tiempo, ni muere.
+ Libro: Amor No A Ti, Contigo (1965)., media_ids: https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235568/Chuchu_bot/00004ChuchuPortada_n5qpuh.png
+INFO:Downloading image from Cloud..https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235568/Chuchu_bot/00004ChuchuPortada_n5qpuh.png
+ERROR:Error uploading image: [Errno 2] No such file or directory: 'https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235568/Chuchu_bot/00004ChuchuPortada_n5qpuh.png'
+INFO:Deleted temporary image file: /Users/ericlucero/Documents/Academic/Python_Fun/Bot_Chuchu/temp_image.jpg
+
+INFO:***** ***** ***** 2025-06-09 15:02:33 ***** ***** *****
+INFO:Creating tweet with text: La felicidad es una forma de masturbarse; la alegría, una forma de amar el mundo.
+ Libro: Ideas para rodar (Aforismos bicornes) (1963)., media_ids: https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235570/Chuchu_bot/00003ChuchuPortada_knlbuo.png
+INFO:Downloading image from Cloud..https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235570/Chuchu_bot/00003ChuchuPortada_knlbuo.png
+INFO:response status code: 200
+ERROR:On uploading image: [Errno 2] No such file or directory: 'https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235570/Chuchu_bot/00003ChuchuPortada_knlbuo.png'
+INFO:Deleted temporary image file: /Users/ericlucero/Documents/Academic/Python_Fun/Bot_Chuchu/temp_image.jpg
+
+INFO:***** ***** ***** 2025-06-09 15:05:08 ***** ***** *****
+INFO:Creating tweet with text: Lo advierto, pues. Lo advierto.
+ Libro: Medio Siglo (1979)., media_ids: https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235568/Chuchu_bot/00004ChuchuPortada_n5qpuh.png
+INFO:Downloading image from Cloud..https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235568/Chuchu_bot/00004ChuchuPortada_n5qpuh.png
+INFO:response status code: 200
+ERROR:On uploading image: [Errno 2] No such file or directory: 'https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235568/Chuchu_bot/00004ChuchuPortada_n5qpuh.png'
+ERROR:Error deleting temp image file: name 'image_path' is not defined
+
+INFO:***** ***** ***** 2025-06-09 15:06:55 ***** ***** *****
+INFO:Creating tweet with text: que amándote, amo la tierra y a todos sus pobladores.
+ Libro: Ars Amandi (1985)., media_ids: https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749236450/Chuchu_bot/0005ChuchuArsAmandi.png
+INFO:Downloading image from Cloud..https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749236450/Chuchu_bot/0005ChuchuArsAmandi.png
+INFO:response status code: 200
+INFO:response content: b'\x89PNG\r\n\x1a\n\x00\x00\x00\rIHDR\x00\x00\x03n\x00\x00\x05~\x08\x06\x00\x00\x00\x0eWm\xc6\x00\x00\x0cLiCCPICC Profile\x00\x00H\x89\x95W\x07XS\xc9\x16\x9e[R!\x04\x08D@J\xe8M\x10\x91\x12@J\x08-\x80\xf4"\x88JH\x02\x84\x12cBP\xb1\xa3\x8b\n\xae]D'...
+INFO:Saving image to temporary file: /Users/ericlucero/Documents/Academic/Python_Fun/Bot_Chuchu/temp_image.jpg
+ERROR:Error uploading image to Twitter: [Errno 2] No such file or directory: 'https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749236450/Chuchu_bot/0005ChuchuArsAmandi.png'
+ERROR:Error deleting temp image file: name 'image_path' is not defined
+
+INFO:***** ***** ***** 2025-06-09 15:08:33 ***** ***** *****
+INFO:Creating tweet with text: Adiós, amor, me despido de ti, de mi, de los dos. A los tres un mismo adiós en tres muertes dividido.
+ Libro: Ars Amandi (1985)., media_ids: https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749236450/Chuchu_bot/0005ChuchuArsAmandi.png
+INFO:Downloading image from Cloud..https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749236450/Chuchu_bot/0005ChuchuArsAmandi.png
+INFO:response status code: 200
+INFO:response content: b'\x89PNG\r\n\x1a\n\x00\x00\x00\rIHDR\x00\x00\x03n\x00\x00\x05~\x08\x06\x00\x00\x00\x0eWm\xc6\x00\x00\x0cLiCCPICC Profile\x00\x00H\x89\x95W\x07XS\xc9\x16\x9e[R!\x04\x08D@J\xe8M\x10\x91\x12@J\x08-\x80\xf4"\x88JH\x02\x84\x12cBP\xb1\xa3\x8b\n\xae]D'...
+INFO:Saving image to temporary file: /Users/ericlucero/Documents/Academic/Python_Fun/Bot_Chuchu/temp_image.jpg
+INFO:Uploading image to Twitter...1932062267677216768
+ERROR:Error deleting temp image file: name 'image_path' is not defined
+
+INFO:***** ***** ***** 2025-06-09 15:09:19 ***** ***** *****
+INFO:Creating tweet with text: 🔍 Amar es una manera de ser.
+ Libro: Ideas para rodar (Aforismos bicornes) (1963)., media_ids: https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235570/Chuchu_bot/00003ChuchuPortada_knlbuo.png
+INFO:Downloading image from Cloud..https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235570/Chuchu_bot/00003ChuchuPortada_knlbuo.png
+INFO:response status code: 200
+INFO:response content: b'\x89PNG\r\n\x1a\n\x00\x00\x00\rIHDR\x00\x00\x03h\x00\x00\x05(\x08\x06\x00\x00\x00\xd9\x9e\xf6k\x00\x00\x0cLiCCPICC Profile\x00\x00H\x89\x95W\x07XS\xc9\x16\x9e[R!\x04\x08D@J\xe8M\x10\x91\x12@J\x08-\x80\xf4"\x88JH\x02\x84\x12cBP\xb1\xa3\x8b\n\xae]D'...
+INFO:Saving image to temporary file: /Users/ericlucero/Documents/Academic/Python_Fun/Bot_Chuchu/temp_image.jpg
+INFO:Uploading image to Twitter...1932062464822190080
+INFO:Deleted temporary image file: /Users/ericlucero/Documents/Academic/Python_Fun/Bot_Chuchu/temp_image.jpg
+
+INFO:***** ***** ***** 2025-06-09 15:10:19 ***** ***** *****
+INFO:Connected to Twitter API successfully!
+INFO:Creating tweet with text: 📜 Mi vida es un túnel de escape...
+ Libro: Medio Siglo (1979)., media_ids: https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235568/Chuchu_bot/00004ChuchuPortada_n5qpuh.png
+INFO:Downloading image from Cloud..https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235568/Chuchu_bot/00004ChuchuPortada_n5qpuh.png
+INFO:response status code: 200
+INFO:response content: b'\x89PNG\r\n\x1a\n\x00\x00\x00\rIHDR\x00\x00\x04\x1c\x00\x00\x06t\x08\x06\x00\x00\x00E\xa3\x14\x1b\x00\x00\x0cLiCCPICC Profile\x00\x00H\x89\x95W\x07XS\xc9\x16\x9e[R!\x04\x08D@J\xe8M\x10\x91\x12@J\x08-\x80\xf4"\x88JH\x02\x84\x12cBP\xb1\xa3\x8b\n\xae]D'...
+INFO:Saving image to temporary file: /Users/ericlucero/Documents/Academic/Python_Fun/Bot_Chuchu/temp_image.jpg
+INFO:Uploading image to Twitter...1932062714320318465
+INFO:Deleted temporary image file: /Users/ericlucero/Documents/Academic/Python_Fun/Bot_Chuchu/temp_image.jpg
+
+INFO:***** ***** ***** 2025-06-09 17:12:42 ***** ***** *****
+INFO:Connected to Twitter API successfully!
+INFO:Creating tweet with text: José de Jesús Martínez, poetoide amargado y viejo, torpe, cansado y pendejo, come mierda y bebe orines.
+ Libro: Ars Amandi (1985)., media_ids: https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749236450/Chuchu_bot/0005ChuchuArsAmandi.png
+INFO:Downloading image from Cloud..https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749236450/Chuchu_bot/0005ChuchuArsAmandi.png
+INFO:response status code: 200
+INFO:response content: b'\x89PNG\r\n\x1a\n\x00\x00\x00\rIHDR\x00\x00\x03n\x00\x00\x05~\x08\x06\x00\x00\x00\x0eWm\xc6\x00\x00\x0cLiCCPICC Profile\x00\x00H\x89\x95W\x07XS\xc9\x16\x9e[R!\x04\x08D@J\xe8M\x10\x91\x12@J\x08-\x80\xf4"\x88JH\x02\x84\x12cBP\xb1\xa3\x8b\n\xae]D'...
+INFO:Saving image to temporary file: /Users/ericlucero/Documents/Academic/Python_Fun/Bot_Chuchu/temp_image.jpg
+INFO:Uploading image to Twitter...1932093513715322880
+INFO:Deleted temporary image file: /Users/ericlucero/Documents/Academic/Python_Fun/Bot_Chuchu/temp_image.jpg
+
+INFO:***** ***** ***** 2025-06-09 17:16:51 ***** ***** *****
+INFO:Connected to MongoDB successfully!
+INFO:Connected to Twitter API successfully!
+INFO:Creating tweet with text: V no me dices nada.
+ Libro: Medio Siglo (1979)., media_ids: https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235568/Chuchu_bot/00004ChuchuPortada_n5qpuh.png
+INFO:Downloading image from Cloud..https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235568/Chuchu_bot/00004ChuchuPortada_n5qpuh.png
+INFO:Image response status code: 200
+INFO:Uploading image to Twitter...
+INFO:***** ***** ***** 2025-06-09 18:44:05 ***** ***** *****
+INFO:Connected to MongoDB successfully!
+INFO:Connected to Twitter API successfully!
+INFO:Creating tweet with text: Repito: No lo sé.
+ Libro: Medio Siglo (1979).
+INFO:***** ***** ***** 2025-06-09 18:45:06 ***** ***** *****
+INFO:Connected to MongoDB successfully!
+INFO:Connected to Twitter API successfully!
+INFO:Creating tweet with text: La felicidad es una forma de masturbarse; la alegría, una forma de amar el mundo.
+ Libro: Ideas para rodar (Aforismos bicornes) (1963)., media_ids: https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235570/Chuchu_bot/00003ChuchuPortada_knlbuo.png
+INFO:Downloading image from Cloud..https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235570/Chuchu_bot/00003ChuchuPortada_knlbuo.png
+INFO:Image response status code: 200
+INFO:Uploading image to Twitter...
+INFO:***** ***** ***** 2025-06-09 19:08:27 ***** ***** *****
+INFO:Connected to MongoDB successfully!
+INFO:Connected to Twitter API successfully!
+INFO:Creating tweet with text: El amor es un método.
+Libro: Ideas para rodar (Aforismos bicornes) (1963)., media_ids: https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235570/Chuchu_bot/00003ChuchuPortada_knlbuo.png
+INFO:Downloading image from Cloud..https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235570/Chuchu_bot/00003ChuchuPortada_knlbuo.png
+INFO:Image response status code: 200
+INFO:Uploading image to Twitter...
+INFO:***** ***** ***** 2025-06-09 19:10:03 ***** ***** *****
+INFO:Connected to MongoDB successfully!
+INFO:Connected to Twitter API successfully!
+INFO:Creating tweet with text: Me dijeron que Dios.
+Libro: Medio Siglo (1979)., media_ids: https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235568/Chuchu_bot/00004ChuchuPortada_n5qpuh.png
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+WARNING:Temporary image file https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235568/Chuchu_bot/00004ChuchuPortada_n5qpuh.png does not exist.
+INFO:Temporary image file removed.
+INFO:***** ***** ***** 2025-06-09 19:11:09 ***** ***** *****
+INFO:Connected to MongoDB successfully!
+INFO:Connected to Twitter API successfully!
+INFO:Creating tweet with text: Hipócritas, los negamos, los traicionamos, miedosos; bajémonos ya del alma, vámonos ya con nosotros.
+Libro: Amor No A Ti, Contigo (1965)., media_ids: https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235568/Chuchu_bot/00004ChuchuPortada_n5qpuh.png
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+WARNING:Temporary image file does not exist.
+INFO:Temporary image file removed.
+INFO:***** ***** ***** 2025-06-09 19:12:09 ***** ***** *****
+INFO:Connected to MongoDB successfully!
+INFO:Connected to Twitter API successfully!
+INFO:Creating tweet with text: Llamamos hombre fraccionado o quebrado a quien, no pudiendo consigo mismo, tiene que dividirse para vencerse.
+Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:***** ***** ***** 2025-06-09 19:12:14 ***** ***** *****
+INFO:Connected to MongoDB successfully!
+INFO:Connected to Twitter API successfully!
+INFO:Creating tweet with text: El rico quiere dar caridad. El pobre quiere recibir justicia.
+Libro: Ideas para rodar (Aforismos bicornes) (1963)., media_ids: https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235570/Chuchu_bot/00003ChuchuPortada_knlbuo.png
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+WARNING:Temporary image file does not exist.
+INFO:Temporary image file removed.
+INFO:***** ***** ***** 2025-06-09 19:12:37 ***** ***** *****
+INFO:Connected to MongoDB successfully!
+INFO:Connected to Twitter API successfully!
+INFO:Creating tweet with text: Con este miércoles anónimo se corona la historia.
+Libro: Medio Siglo (1979).
+INFO:***** ***** ***** 2025-06-09 19:12:44 ***** ***** *****
+INFO:Connected to MongoDB successfully!
+INFO:Connected to Twitter API successfully!
+INFO:Creating tweet with text: 🗞️ Repito: No lo sé.
+
+Libro: Medio Siglo (1979)., media_ids: https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235568/Chuchu_bot/00004ChuchuPortada_n5qpuh.png
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Temporary image file removed.
+INFO:***** ***** ***** 2025-06-09 19:13:32 ***** ***** *****
+INFO:Connected to MongoDB successfully!
+INFO:Connected to Twitter API successfully!
+INFO:Creating tweet with text: El pobre pide pan y le dan espíritu. Pide ropa pero le dan razones.
+Libro: Ideas para rodar (Aforismos bicornes) (1963)., media_ids: https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235570/Chuchu_bot/00003ChuchuPortada_knlbuo.png
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:***** ***** ***** 2025-06-09 19:24:22 ***** ***** *****
+INFO:Connected to MongoDB successfully!
+INFO:Connected to Twitter API successfully!
+INFO:Creating tweet with text: Fumas, te paseas, y no es eso.
+Libro: Medio Siglo (1979).
+INFO:***** ***** ***** 2025-06-09 19:24:46 ***** ***** *****
+INFO:Connected to MongoDB successfully!
+INFO:Connected to Twitter API successfully!
+INFO:Creating tweet with text: me alimentan los dolores de los muertos en la guerra, que amándote, amo la tierra y a todos sus pobladores.
+ 📖Libro: Ars Amandi (1985)., media_ids: https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749236450/Chuchu_bot/0005ChuchuArsAmandi.png
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:***** ***** ***** 2025-06-09 19:34:54 ***** ***** *****
+INFO:Connected to MongoDB successfully!
+INFO:Connected to Twitter API successfully!
+INFO:Creating tweet with text: "📰 Hijo de mí, pero huérfano, padre de mí sin familia.
+"
+ Libro: Amor No A Ti, Contigo (1965)., media_ids: https://res.cloudinary.com/dcvnw6hvt/image/upload/v1749235568/Chuchu_bot/00004ChuchuPortada_n5qpuh.png
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:***** ***** ***** 2025-06-09 19:37:34 ***** ***** *****
+INFO:Connected to MongoDB successfully!
+INFO:Connected to Twitter API successfully!
+INFO:Creating tweet with text: "Hasta la bondad del rico es perversa."
+ 📖Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:***** ***** ***** 2025-06-09 19:39:19 ***** ***** *****
+INFO:Connected to MongoDB successfully!
+INFO:Connected to Twitter API successfully!
+INFO:Creating tweet with text: "Eres un cero a la izquierda."
+ Libro: Medio Siglo (1979).
+INFO:***** ***** ***** 2025-06-09 19:41:55 ***** ***** *****
+INFO:Connected to MongoDB successfully!
+INFO:Connected to Twitter API successfully!
+INFO:***** ***** ***** 2025-06-09 19:43:00 ***** ***** *****
+INFO:Connected to MongoDB successfully!
+INFO:Connected to Twitter API successfully!
+INFO:Creating tweet...
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:***** ***** ***** 2025-06-09 19:43:09 ***** ***** *****
+INFO:Connected to MongoDB successfully!
+INFO:Connected to Twitter API successfully!
+INFO:Creating tweet...
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:***** ***** ***** 2025-06-09 19:43:18 ***** ***** *****
+INFO:Connected to MongoDB successfully!
+INFO:Connected to Twitter API successfully!
+INFO:Creating tweet...
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:***** ***** ***** 2025-06-09 19:43:22 ***** ***** *****
+INFO:Connected to MongoDB successfully!
+INFO:Connected to Twitter API successfully!
+INFO:Creating tweet...
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:***** ***** ***** 2025-06-09 19:43:26 ***** ***** *****
+INFO:Connected to MongoDB successfully!
+INFO:Connected to Twitter API successfully!
+INFO:Creating tweet...
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:***** ***** ***** 2025-06-09 20:21:56 ***** ***** *****
+INFO:Connected to MongoDB successfully!
+INFO:Connected to Twitter API successfully!
+INFO:Creating tweet with text:
+ "Tocan en mí, golpean."
+ Libro: Medio Siglo (1979).
+INFO:***** ***** ***** 2025-06-09 20:25:35 ***** ***** *****
+INFO:Connected to MongoDB successfully!
+INFO:Connected to Twitter API successfully!
+INFO:Creating tweet with text:
+ "Cuando nos damos un beso nuestras vidas se estremecen, se tiñen de punta a punta y el beso se nos extiende."
+ Libro: Amor No A Ti, Contigo (1965).
+INFO:***** ***** ***** 2025-06-09 20:27:03 ***** ***** *****
+INFO:Connected to MongoDB successfully!
+INFO:Connected to Twitter API successfully!
+INFO:Creating tweet with text:
+ "El amor íntegro se conoce con el cuerpo y se aprieta con el alma."
+ Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:***** ***** ***** 2025-06-09 20:27:54 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "🧳 El amor hace, no se hace.
+"
+ Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:***** ***** ***** 2025-06-09 20:29:04 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "En una playa remota la marea sube."
+ Libro: Medio Siglo (1979).
+INFO:***** ***** ***** 2025-06-09 20:29:07 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "El amor no tiene principio ni fin."
+ 📝Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:***** ***** ***** 2025-06-09 20:29:17 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Viejo, supongo. Feo."
+ 🧾Libro: Medio Siglo (1979).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:***** ***** ***** 2025-06-09 20:29:25 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "🗞️ El tacto, el amor, la precisión: para que el motor no pierda sus revoluciones."
+ Libro: Teoría del vuelo (1979).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:***** ***** ***** 2025-06-09 20:29:37 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Las ilusiones son abstractas; los misterios, concretos."
+ Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:***** ***** ***** 2025-06-09 20:29:45 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Ni Dios nos gana en la muerte. Allí ni siquiera compite."
+ Libro: Teoría del vuelo (1979).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:***** ***** ***** 2025-06-09 20:34:08 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "🌀 La filosofía del pueblo es su hambre organizada."
+ Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:***** ***** ***** 2025-06-09 20:34:28 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Vete a morir a otra cama."
+ Libro: Medio Siglo (1979).
+INFO:***** ***** ***** 2025-06-09 20:37:56 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "🎯 Y acomodas la cultura, los valores, los inventos, 
+como ollas, vasos, cosas que después de todo sí que sirven."
+ 📕Libro: Medio Siglo (1979).
+INFO:***** ***** ***** 2025-06-09 20:39:57 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "La inteligencia del rico, demasiado sutil y vacía, nunca ha podido ni siquiera tocarla."
+ Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:***** ***** ***** 2025-06-09 20:40:20 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🎞️"Aunque dure poquísimo, no importa."
+ 📕Libro: Medio Siglo (1979).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:***** ***** ***** 2025-06-09 20:40:56 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Eso a usted no le importa, niña."
+ Libro: Medio Siglo (1979).
+INFO:***** ***** ***** 2025-06-09 20:41:31 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Señores, es lo único que tengo."
+ Libro: Medio Siglo (1979).
+INFO:_id:68472569d46fb54fd972c5b4, id:472
+INFO:***** ***** ***** 2025-06-09 20:41:59 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Dios, abstracción de abstracciones. Hambre, concreción de concreciones. En la sociedad íntegra no habrá Dios ni hambre."
+ Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:id/_id:172/6847252fd46fb54fd972c488
+INFO:***** ***** ***** 2025-06-09 20:42:13 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "El amor de almas (ojo puro) es idealismo vulgar."
+ Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:id/_id:241/6847253dd46fb54fd972c4cd
+INFO:***** ***** ***** 2025-06-09 20:42:25 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Amor, lo que yo seré ya me ha llegado, no viene."
+ Libro: Amor No A Ti, Contigo (1965).
+INFO:id/_id:308/68472549d46fb54fd972c510
+INFO:***** ***** ***** 2025-06-09 20:42:29 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Amor, mujer amada, busco..."
+ Libro: Medio Siglo (1979).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:id/_id:551/68472578d46fb54fd972c603
+INFO:***** ***** ***** 2025-06-09 20:53:35 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Todo lo que toco existe."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:634/68472587d46fb54fd972c656
+INFO:***** ***** ***** 2025-06-09 20:59:16 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Callar y decir tu nombre."
+ Libro: Ars Amandi (1985).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:id/_id:689/68472592d46fb54fd972c68d
