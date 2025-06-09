@@ -42,10 +42,10 @@ def get_one_document():
             create_tweet(random_item[0], x_client, x_api)
 
             # Update the document to set "publicado" to True and +1 to "enviado"
-            # collection.update_one(
-            #     {"_id": random_item[0]["_id"]},
-            #     {"$set": {"publicado": True}, "$inc": {"enviado": 1}},
-            # )
+            collection.update_one(
+                {"_id": random_item[0]["_id"]},
+                {"$set": {"publicado": True}, "$inc": {"enviado": 1}},
+            )
             logging.info(f"id/_id:{random_item[0]["id"]}/{random_item[0]["_id"]}")
             return random_item[0]
         # If publicado is True, loop again to get another random item
