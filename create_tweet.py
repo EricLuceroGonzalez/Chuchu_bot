@@ -42,8 +42,8 @@ def create_tweet(text, twitter_client, twitter_api, media_ids=None):
         logging.info(f"Creating tweet with text:\n {tweet_text}")
         temp_image = f"{os.path.dirname(__file__)}/temp_image.jpg"
         mediaID = media_upload(text["portada"], temp_image, twitter_api)
-        # twitter_client.create_tweet(text=tweet_text, media_ids=[mediaID])
+        twitter_client.create_tweet(text=tweet_text, media_ids=[mediaID])
     else:  # No media, just text
         logging.info(f"Creating tweet with text:\n {tweet_text}")
-        # twitter_client.create_tweet(text=tweet_text)
+        twitter_client.create_tweet(text=tweet_text)
     return "e"

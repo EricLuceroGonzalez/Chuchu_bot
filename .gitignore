@@ -4,6 +4,8 @@ __pycache__
 .DS_Store
 Pipfile
 Pipfile.lock
-
+.venv
+env/
+venv/
 frases_chuchu.json
 todas_las_citas.json
