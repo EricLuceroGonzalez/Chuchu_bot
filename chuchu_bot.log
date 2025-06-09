@@ -5,3 +5,10 @@ INFO:Creating tweet with text:
  "Mi corazón es una rata que agoniza en el fondo de la noche."
  Libro: Medio Siglo (1979).
 INFO:id/_id:443/68472563d46fb54fd972c597
+INFO:***** ***** ***** 2025-06-09 21:51:39 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Aun cuando Dios existiera, no tendría sentido amarlo o pensar en él. Y ni siquiera existe."
+ Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:id/_id:248/6847253ed46fb54fd972c4d4
