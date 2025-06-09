@@ -450,3 +450,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:id/_id:689/68472592d46fb54fd972c68d
+INFO:***** ***** ***** 2025-06-09 21:18:07 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Mi corazón es una rata que agoniza en el fondo de la noche."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:443/68472563d46fb54fd972c597
