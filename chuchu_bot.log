@@ -19,3 +19,10 @@ INFO:Creating tweet with text:
  "Este ensayo tiene como objetivo al hombre íntegro o entero, y como objeto al hombre fracción o quebrado."
  Libro: Ideas para rodar (Aforismos bicornes) (1963).
 INFO:id/_id:4/6847250fd46fb54fd972c3e0
+INFO:***** ***** ***** 2025-06-10 15:22:31 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Con esta ficha humilde se gana la partida."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:375/68472556d46fb54fd972c553
