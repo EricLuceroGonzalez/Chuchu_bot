@@ -26,3 +26,13 @@ INFO:Creating tweet with text:
  "Con esta ficha humilde se gana la partida."
  Libro: Medio Siglo (1979).
 INFO:id/_id:375/68472556d46fb54fd972c553
+INFO:***** ***** ***** 2025-06-10 21:18:29 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "No me aterra que Dios no exista, sino que no exista yo."
+ Libro: Teoría del vuelo (1979).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:id/_id:274/68472543d46fb54fd972c4ee
