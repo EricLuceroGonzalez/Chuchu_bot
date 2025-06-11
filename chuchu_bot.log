@@ -50,3 +50,13 @@ INFO:Creating tweet with text:
  "Pensar en ti y en cualquier otra cosa."
  Libro: Ars Amandi (1985).
 INFO:id/_id:691/68472592d46fb54fd972c68f
+INFO:***** ***** ***** 2025-06-11 21:18:12 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "La técnica del vuelo tuvo que desentenderse de Dios para despegar al hombre de la tierra."
+ Libro: Teoría del vuelo (1979).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:id/_id:288/68472546d46fb54fd972c4fc
