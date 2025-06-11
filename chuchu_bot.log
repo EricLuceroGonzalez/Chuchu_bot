@@ -36,3 +36,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:id/_id:274/68472543d46fb54fd972c4ee
+INFO:***** ***** ***** 2025-06-11 02:46:33 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Mañana, ayer, todo es hoy. No nace el tiempo, ni muere."
+ Libro: Amor No A Ti, Contigo (1965).
+INFO:id/_id:307/68472549d46fb54fd972c50f
