@@ -60,3 +60,12 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:id/_id:288/68472546d46fb54fd972c4fc
+INFO:***** ***** ***** 2025-06-12 02:45:27 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Te he preguntado sólo qué hiciste con el vuelto,
+de dónde has sacado plata para comprar la cinta que llevas en el
+pelo."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:495/6847256dd46fb54fd972c5cb
