@@ -76,3 +76,10 @@ INFO:Creating tweet with text:
  💾"Ellos te han hecho hermosa."
  🔖Libro: Ars Amandi (1985).
 INFO:id/_id:675/6847258fd46fb54fd972c67f
+INFO:***** ***** ***** 2025-06-12 21:18:23 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "La compasión ha sido una mentira para acallar la conciencia del burgués. El dolor del mundo es tal y tal el remordimiento del burgués, que para justificar la compasión no ha vacilado éste ante el sacrificio."
+ Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:id/_id:180/68472531d46fb54fd972c490
