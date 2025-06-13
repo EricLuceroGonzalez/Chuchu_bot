@@ -83,3 +83,13 @@ INFO:Creating tweet with text:
  "La compasión ha sido una mentira para acallar la conciencia del burgués. El dolor del mundo es tal y tal el remordimiento del burgués, que para justificar la compasión no ha vacilado éste ante el sacrificio."
  Libro: Ideas para rodar (Aforismos bicornes) (1963).
 INFO:id/_id:180/68472531d46fb54fd972c490
+INFO:***** ***** ***** 2025-06-13 02:46:38 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 👀"La caridad se funda en la compasión de uno; la justicia, en el derecho del otro."
+ 👓Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:id/_id:197/68472534d46fb54fd972c4a1
