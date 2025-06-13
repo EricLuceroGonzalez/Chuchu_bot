@@ -103,3 +103,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:id/_id:391/68472559d46fb54fd972c563
+INFO:***** ***** ***** 2025-06-13 21:18:00 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "[El amor] Piensa, no se piensa."
+ Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:id/_id:232/6847253bd46fb54fd972c4c4
