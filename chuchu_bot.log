@@ -93,3 +93,13 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:id/_id:197/68472534d46fb54fd972c4a1
+INFO:***** ***** ***** 2025-06-13 15:21:52 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🎯"Mi alma llegó hasta aquí."
+ 📗Libro: Medio Siglo (1979).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:id/_id:391/68472559d46fb54fd972c563
