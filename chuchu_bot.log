@@ -110,3 +110,13 @@ INFO:Creating tweet with text:
  "[El amor] Piensa, no se piensa."
  Libro: Ideas para rodar (Aforismos bicornes) (1963).
 INFO:id/_id:232/6847253bd46fb54fd972c4c4
+INFO:***** ***** ***** 2025-06-14 02:40:46 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Dale duro."
+ Libro: Medio Siglo (1979).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:id/_id:511/68472570d46fb54fd972c5db
