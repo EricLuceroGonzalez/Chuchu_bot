@@ -120,3 +120,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:id/_id:511/68472570d46fb54fd972c5db
+INFO:***** ***** ***** 2025-06-14 15:19:03 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🌀"La próxima vez que nazca..."
+ 📖Libro: Medio Siglo (1979).
+INFO:id/_id:423/6847255fd46fb54fd972c583
