@@ -134,3 +134,10 @@ INFO:Creating tweet with text:
  "Y más extraños."
  Libro: Medio Siglo (1979).
 INFO:id/_id:540/68472575d46fb54fd972c5f8
+INFO:***** ***** ***** 2025-06-15 02:54:02 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Doy todo lo que tengo."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:622/68472585d46fb54fd972c64a
