@@ -141,3 +141,10 @@ INFO:Creating tweet with text:
  "Doy todo lo que tengo."
  Libro: Medio Siglo (1979).
 INFO:id/_id:622/68472585d46fb54fd972c64a
+INFO:***** ***** ***** 2025-06-15 15:19:10 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Mentira. No me gusta. Está feísimo."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:507/6847256fd46fb54fd972c5d7
