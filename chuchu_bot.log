@@ -148,3 +148,13 @@ INFO:Creating tweet with text:
  "Mentira. No me gusta. Está feísimo."
  Libro: Medio Siglo (1979).
 INFO:id/_id:507/6847256fd46fb54fd972c5d7
+INFO:***** ***** ***** 2025-06-15 21:16:50 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Es absurdo, formalmente contradictorio, integrar la sociedad a base de unir —por muy estrecho, auténtico y legítimo que sea el acuerdo— al pueblo con los ricos."
+ Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:id/_id:142/6847252ad46fb54fd972c46a
