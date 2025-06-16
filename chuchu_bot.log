@@ -165,3 +165,10 @@ INFO:Creating tweet with text:
  "En un principio fue el silencio, éste."
  Libro: Medio Siglo (1979).
 INFO:id/_id:640/68472589d46fb54fd972c65c
+INFO:***** ***** ***** 2025-06-16 15:22:54 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Oh, tú, allende el mar."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:539/68472575d46fb54fd972c5f7
