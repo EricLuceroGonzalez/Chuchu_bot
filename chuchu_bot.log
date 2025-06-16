@@ -158,3 +158,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:id/_id:142/6847252ad46fb54fd972c46a
+INFO:***** ***** ***** 2025-06-16 02:50:28 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "En un principio fue el silencio, éste."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:640/68472589d46fb54fd972c65c
