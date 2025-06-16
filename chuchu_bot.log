@@ -172,3 +172,13 @@ INFO:Creating tweet with text:
  "Oh, tú, allende el mar."
  Libro: Medio Siglo (1979).
 INFO:id/_id:539/68472575d46fb54fd972c5f7
+INFO:***** ***** ***** 2025-06-16 21:18:21 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🌟"La propaganda del rico ha estado tan bien organizada que ya hasta los pobres son caritativos."
+ 🧾Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:id/_id:71/6847251cd46fb54fd972c423
