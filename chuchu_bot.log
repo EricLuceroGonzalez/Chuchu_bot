@@ -182,3 +182,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:id/_id:71/6847251cd46fb54fd972c423
+INFO:***** ***** ***** 2025-06-17 02:46:51 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Se nos tuvo, lo teníamos, nos tenían."
+ Libro: Ars Amandi (1985).
+INFO:id/_id:720/68472598d46fb54fd972c6ac
