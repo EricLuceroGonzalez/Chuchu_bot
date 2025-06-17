@@ -189,3 +189,10 @@ INFO:Creating tweet with text:
  "Se nos tuvo, lo teníamos, nos tenían."
  Libro: Ars Amandi (1985).
 INFO:id/_id:720/68472598d46fb54fd972c6ac
+INFO:***** ***** ***** 2025-06-17 15:23:46 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Las he amado, en efecto."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:614/68472584d46fb54fd972c642
