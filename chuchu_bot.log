@@ -196,3 +196,13 @@ INFO:Creating tweet with text:
  "Las he amado, en efecto."
  Libro: Medio Siglo (1979).
 INFO:id/_id:614/68472584d46fb54fd972c642
+INFO:***** ***** ***** 2025-06-17 21:18:48 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🎯"La sociedad burguesa tiene los pies (pobres) hundidos en el fango y la cabeza (ricos) envuelta en nubes, (humo)."
+ 👓Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:id/_id:131/68472527d46fb54fd972c45f
