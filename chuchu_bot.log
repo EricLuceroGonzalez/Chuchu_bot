@@ -220,3 +220,10 @@ INFO:Creating tweet with text:
  💾"Toda teoría creacionista sobra; y el piloto lo sabe directamente, con las manos."
  🧾Libro: Teoría del vuelo (1979).
 INFO:id/_id:257/68472540d46fb54fd972c4dd
+INFO:***** ***** ***** 2025-06-18 21:18:12 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Cuando se le introduce el acelerador, la máquina entera tiembla y despierta como los niños."
+ Libro: Teoría del vuelo (1979).
+INFO:id/_id:255/6847253fd46fb54fd972c4db
