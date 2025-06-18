@@ -206,3 +206,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:id/_id:131/68472527d46fb54fd972c45f
+INFO:***** ***** ***** 2025-06-18 02:45:40 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "El amor es un método."
+ Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:id/_id:93/68472520d46fb54fd972c439
