@@ -38,7 +38,7 @@ def create_tweet(text, twitter_client, twitter_api, media_ids=None):
         tweet_text = f'"{text["texto"]}"\n Libro: {text["libro"]} ({text["año"]}).'
 
     # Construir tweet completo
-    if random.random() < 0.3:  # 30% chance to include image
+    if random.random() < 0.1:  # 10% chance to include image
         logging.info(f"Creating tweet with text:\n {tweet_text}")
         temp_image = f"{os.path.dirname(__file__)}/temp_image.jpg"
         mediaID = media_upload(text["portada"], temp_image, twitter_api)
