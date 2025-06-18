@@ -213,3 +213,10 @@ INFO:Creating tweet with text:
  "El amor es un método."
  Libro: Ideas para rodar (Aforismos bicornes) (1963).
 INFO:id/_id:93/68472520d46fb54fd972c439
+INFO:***** ***** ***** 2025-06-18 15:23:21 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 💾"Toda teoría creacionista sobra; y el piloto lo sabe directamente, con las manos."
+ 🧾Libro: Teoría del vuelo (1979).
+INFO:id/_id:257/68472540d46fb54fd972c4dd
