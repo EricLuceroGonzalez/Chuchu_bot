@@ -227,3 +227,10 @@ INFO:Creating tweet with text:
  "Cuando se le introduce el acelerador, la máquina entera tiembla y despierta como los niños."
  Libro: Teoría del vuelo (1979).
 INFO:id/_id:255/6847253fd46fb54fd972c4db
+INFO:***** ***** ***** 2025-06-19 02:46:53 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "V no me dices nada."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:586/6847257ed46fb54fd972c626
