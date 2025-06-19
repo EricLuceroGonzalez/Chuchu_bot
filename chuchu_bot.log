@@ -244,3 +244,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:id/_id:544/68472576d46fb54fd972c5fc
+INFO:***** ***** ***** 2025-06-19 21:17:29 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "No sabe lo que es la muerte."
+ Libro: Ars Amandi (1985).
+INFO:id/_id:688/68472592d46fb54fd972c68c
