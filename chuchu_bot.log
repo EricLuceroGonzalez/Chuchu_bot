@@ -234,3 +234,13 @@ INFO:Creating tweet with text:
  "V no me dices nada."
  Libro: Medio Siglo (1979).
 INFO:id/_id:586/6847257ed46fb54fd972c626
+INFO:***** ***** ***** 2025-06-19 15:21:43 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Hoy otra cosa pienso, compañero."
+ Libro: Medio Siglo (1979).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:id/_id:544/68472576d46fb54fd972c5fc
