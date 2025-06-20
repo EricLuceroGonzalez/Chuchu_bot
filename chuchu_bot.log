@@ -265,3 +265,10 @@ INFO:Creating tweet with text:
  🎯"Estas son las rutas a las rutas a las rutas."
  🧾Libro: Medio Siglo (1979).
 INFO:id/_id:470/68472568d46fb54fd972c5b2
+INFO:***** ***** ***** 2025-06-20 21:17:12 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Tú no podrías amarme si yo no fuera comunista."
+ Libro: Ars Amandi (1985).
+INFO:id/_id:692/68472593d46fb54fd972c690
