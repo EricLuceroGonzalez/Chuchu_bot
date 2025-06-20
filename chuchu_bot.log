@@ -258,3 +258,10 @@ INFO:Creating tweet with text:
  💾"Todo lo que toco existe."
  📚Libro: Medio Siglo (1979).
 INFO:id/_id:634/68472587d46fb54fd972c656
+INFO:***** ***** ***** 2025-06-20 15:21:18 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🎯"Estas son las rutas a las rutas a las rutas."
+ 🧾Libro: Medio Siglo (1979).
+INFO:id/_id:470/68472568d46fb54fd972c5b2
