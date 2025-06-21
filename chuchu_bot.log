@@ -286,3 +286,11 @@ INFO:Creating tweet with text:
  "Aun cuando Dios existiera, no tendría sentido amarlo."
  Libro: Ideas para rodar (Aforismos bicornes) (1963).
 INFO:id/_id:100/68472522d46fb54fd972c440
+INFO:***** ***** ***** 2025-06-21 21:16:34 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Porque ese día descubrimos, o inventamos, por lo menos la
+mitad del mundo que aún subsiste y palpita."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:352/68472552d46fb54fd972c53c
