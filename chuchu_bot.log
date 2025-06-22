@@ -294,3 +294,10 @@ INFO:Creating tweet with text:
 mitad del mundo que aún subsiste y palpita."
  Libro: Medio Siglo (1979).
 INFO:id/_id:352/68472552d46fb54fd972c53c
+INFO:***** ***** ***** 2025-06-22 02:54:42 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Tú y yo no nos amamos."
+ Libro: Ars Amandi (1985).
+INFO:id/_id:737/6847259bd46fb54fd972c6bd
