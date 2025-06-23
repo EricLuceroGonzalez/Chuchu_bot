@@ -315,3 +315,10 @@ INFO:Creating tweet with text:
  "La alegría no espera la perfección para existir."
  Libro: Ideas para rodar (Aforismos bicornes) (1963).
 INFO:id/_id:107/68472523d46fb54fd972c447
+INFO:***** ***** ***** 2025-06-23 02:55:24 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Es por el propio bien de usted que se lo digo."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:531/68472574d46fb54fd972c5ef
