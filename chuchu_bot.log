@@ -322,3 +322,11 @@ INFO:Creating tweet with text:
  "Es por el propio bien de usted que se lo digo."
  Libro: Medio Siglo (1979).
 INFO:id/_id:531/68472574d46fb54fd972c5ef
+INFO:***** ***** ***** 2025-06-23 15:23:25 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Te olvidas de que lo amasamos juntos y de que lo horneamos en
+el mismo miedo."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:356/68472552d46fb54fd972c540
