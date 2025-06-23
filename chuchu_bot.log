@@ -330,3 +330,10 @@ INFO:Creating tweet with text:
 el mismo miedo."
  Libro: Medio Siglo (1979).
 INFO:id/_id:356/68472552d46fb54fd972c540
+INFO:***** ***** ***** 2025-06-23 21:18:26 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 💾"Poseo el amor y la fuente del amor."
+ 📚Libro: Ars Amandi (1985).
+INFO:id/_id:700/68472594d46fb54fd972c698
