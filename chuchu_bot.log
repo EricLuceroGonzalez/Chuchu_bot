@@ -344,3 +344,10 @@ INFO:Creating tweet with text:
  "Querrá informarse."
  Libro: Medio Siglo (1979).
 INFO:id/_id:607/68472582d46fb54fd972c63b
+INFO:***** ***** ***** 2025-06-24 15:23:11 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Me vendieron el puente de Brooklyn."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:415/6847255ed46fb54fd972c57b
