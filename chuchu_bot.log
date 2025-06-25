@@ -372,3 +372,10 @@ INFO:Creating tweet with text:
  🎯"La muerte es eso: soledad."
  👓Libro: Medio Siglo (1979).
 INFO:id/_id:612/68472583d46fb54fd972c640
+INFO:***** ***** ***** 2025-06-25 21:18:24 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Pero cuando amanezca. Por favor."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:566/6847257ad46fb54fd972c612
