@@ -358,3 +358,10 @@ INFO:Creating tweet with text:
  🎯"yo me siento cucaracha y me doy asco y vergüenza. Nombro a tu cuerpo cuchara con la que voy a comer,"
  📕Libro: Ars Amandi (1985).
 INFO:id/_id:750/6847259ed46fb54fd972c6ca
+INFO:***** ***** ***** 2025-06-25 02:48:29 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Ponte aquí, frente a mí."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:591/6847257fd46fb54fd972c62b
