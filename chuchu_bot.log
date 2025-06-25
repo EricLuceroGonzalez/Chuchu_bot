@@ -365,3 +365,10 @@ INFO:Creating tweet with text:
  "Ponte aquí, frente a mí."
  Libro: Medio Siglo (1979).
 INFO:id/_id:591/6847257fd46fb54fd972c62b
+INFO:***** ***** ***** 2025-06-25 15:23:16 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🎯"La muerte es eso: soledad."
+ 👓Libro: Medio Siglo (1979).
+INFO:id/_id:612/68472583d46fb54fd972c640
