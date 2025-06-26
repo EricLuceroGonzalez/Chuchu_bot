@@ -386,3 +386,13 @@ INFO:Creating tweet with text:
  "Para que no me escape."
  Libro: Medio Siglo (1979).
 INFO:id/_id:392/68472559d46fb54fd972c564
+INFO:***** ***** ***** 2025-06-26 15:22:13 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 📌"La sociedad íntegra es una sociedad justa, no caritativa."
+ 📓Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:id/_id:77/6847251dd46fb54fd972c429
