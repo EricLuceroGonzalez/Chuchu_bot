@@ -396,3 +396,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:id/_id:77/6847251dd46fb54fd972c429
+INFO:***** ***** ***** 2025-06-26 21:18:25 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Esto es... No, no lo diré."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:567/6847257bd46fb54fd972c613
