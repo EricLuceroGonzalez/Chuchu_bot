@@ -379,3 +379,10 @@ INFO:Creating tweet with text:
  "Pero cuando amanezca. Por favor."
  Libro: Medio Siglo (1979).
 INFO:id/_id:566/6847257ad46fb54fd972c612
+INFO:***** ***** ***** 2025-06-26 02:47:17 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Para que no me escape."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:392/68472559d46fb54fd972c564
