@@ -403,3 +403,10 @@ INFO:Creating tweet with text:
  "Esto es... No, no lo diré."
  Libro: Medio Siglo (1979).
 INFO:id/_id:567/6847257bd46fb54fd972c613
+INFO:***** ***** ***** 2025-06-27 02:48:10 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 📌"No hay justicia donde hay caridad institucionalizada."
+ 📖Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:id/_id:110/68472523d46fb54fd972c44a
