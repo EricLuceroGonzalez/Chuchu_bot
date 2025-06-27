@@ -410,3 +410,10 @@ INFO:Creating tweet with text:
  📌"No hay justicia donde hay caridad institucionalizada."
  📖Libro: Ideas para rodar (Aforismos bicornes) (1963).
 INFO:id/_id:110/68472523d46fb54fd972c44a
+INFO:***** ***** ***** 2025-06-27 15:21:42 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Esa manera tuya de caminar encorvado."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:488/6847256cd46fb54fd972c5c4
