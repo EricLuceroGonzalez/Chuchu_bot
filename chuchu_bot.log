@@ -431,3 +431,10 @@ INFO:Creating tweet with text:
  "Porque debo tenerla. Lo sospecho."
  Libro: Medio Siglo (1979).
 INFO:id/_id:555/68472578d46fb54fd972c607
+INFO:***** ***** ***** 2025-06-28 15:19:30 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🌀"Te amo, sin mí, la que no eres, y a la orilla del olvido, al borde siempre del sueño, habrá un amor encendido, aunque no nos conozcamos y nos miremos en frío."
+ 📝Libro: Amor No A Ti, Contigo (1965).
+INFO:id/_id:305/68472549d46fb54fd972c50d
