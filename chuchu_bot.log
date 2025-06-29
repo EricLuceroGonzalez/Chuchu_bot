@@ -445,3 +445,10 @@ INFO:Creating tweet with text:
  🌀"El pensamiento sin acción es esterilidad."
  🧾Libro: Ideas para rodar (Aforismos bicornes) (1963).
 INFO:id/_id:108/68472523d46fb54fd972c448
+INFO:***** ***** ***** 2025-06-29 02:57:43 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Ya todo está claro."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:384/68472558d46fb54fd972c55c
