@@ -462,3 +462,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:id/_id:7/68472510d46fb54fd972c3e3
+INFO:***** ***** ***** 2025-06-29 21:17:19 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Las vería siempre igual, a la misma distancia."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:604/68472582d46fb54fd972c638
