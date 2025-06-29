@@ -452,3 +452,13 @@ INFO:Creating tweet with text:
  "Ya todo está claro."
  Libro: Medio Siglo (1979).
 INFO:id/_id:384/68472558d46fb54fd972c55c
+INFO:***** ***** ***** 2025-06-29 15:19:18 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "El que sufre termina por especializarse en el sentimiento y en la lamentación. El que comprende termina por especializarse en la inteligencia y en la explotación."
+ Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:id/_id:7/68472510d46fb54fd972c3e3
