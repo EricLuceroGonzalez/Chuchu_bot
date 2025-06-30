@@ -469,3 +469,10 @@ INFO:Creating tweet with text:
  "Las vería siempre igual, a la misma distancia."
  Libro: Medio Siglo (1979).
 INFO:id/_id:604/68472582d46fb54fd972c638
+INFO:***** ***** ***** 2025-06-30 02:53:35 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Aquí estamos todos."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:516/68472571d46fb54fd972c5e0
