@@ -483,3 +483,10 @@ INFO:Creating tweet with text:
  "El amor no es joya que se luce, es herramienta que produce."
  Libro: Ideas para rodar (Aforismos bicornes) (1963).
 INFO:id/_id:86/6847251fd46fb54fd972c432
+INFO:***** ***** ***** 2025-06-30 21:18:07 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🌟"Yo no quiero salir, yo vivo aquí, yo soy de aquí."
+ 🔖Libro: Medio Siglo (1979).
+INFO:id/_id:434/68472561d46fb54fd972c58e
