@@ -504,3 +504,10 @@ INFO:Creating tweet with text:
  "Estoy clavado aquí, lo he dicho ya."
  Libro: Medio Siglo (1979).
 INFO:id/_id:619/68472585d46fb54fd972c647
+INFO:***** ***** ***** 2025-07-01 21:18:13 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "No significas nada."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:437/68472562d46fb54fd972c591
