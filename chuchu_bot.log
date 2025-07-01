@@ -497,3 +497,10 @@ INFO:Creating tweet with text:
  "Te veo pálida, delgada."
  Libro: Medio Siglo (1979).
 INFO:id/_id:366/68472554d46fb54fd972c54a
+INFO:***** ***** ***** 2025-07-01 15:22:44 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Estoy clavado aquí, lo he dicho ya."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:619/68472585d46fb54fd972c647
