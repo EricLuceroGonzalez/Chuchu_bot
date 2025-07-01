@@ -490,3 +490,10 @@ INFO:Creating tweet with text:
  🌟"Yo no quiero salir, yo vivo aquí, yo soy de aquí."
  🔖Libro: Medio Siglo (1979).
 INFO:id/_id:434/68472561d46fb54fd972c58e
+INFO:***** ***** ***** 2025-07-01 03:00:08 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Te veo pálida, delgada."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:366/68472554d46fb54fd972c54a
