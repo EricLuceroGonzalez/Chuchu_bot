@@ -525,3 +525,10 @@ INFO:Creating tweet with text:
  🎞️"Si el hombre existe y ama, no queda sitio para Dios. Y el hombre existe y ama."
  📚Libro: Ideas para rodar (Aforismos bicornes) (1963).
 INFO:id/_id:246/6847253ed46fb54fd972c4d2
+INFO:***** ***** ***** 2025-07-02 21:18:17 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 👀"El amor burgués se disfraza de compasión."
+ 📖Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:id/_id:126/68472526d46fb54fd972c45a
