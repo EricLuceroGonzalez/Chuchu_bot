@@ -518,3 +518,10 @@ INFO:Creating tweet with text:
  👀"Esa manera tuya de mirarme y de no decirme nada."
  📝Libro: Medio Siglo (1979).
 INFO:id/_id:489/6847256cd46fb54fd972c5c5
+INFO:***** ***** ***** 2025-07-02 15:22:49 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🎞️"Si el hombre existe y ama, no queda sitio para Dios. Y el hombre existe y ama."
+ 📚Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:id/_id:246/6847253ed46fb54fd972c4d2
