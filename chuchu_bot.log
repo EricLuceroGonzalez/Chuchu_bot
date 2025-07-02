@@ -511,3 +511,10 @@ INFO:Creating tweet with text:
  "No significas nada."
  Libro: Medio Siglo (1979).
 INFO:id/_id:437/68472562d46fb54fd972c591
+INFO:***** ***** ***** 2025-07-02 02:47:52 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 👀"Esa manera tuya de mirarme y de no decirme nada."
+ 📝Libro: Medio Siglo (1979).
+INFO:id/_id:489/6847256cd46fb54fd972c5c5
