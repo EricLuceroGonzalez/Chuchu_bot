@@ -539,3 +539,10 @@ INFO:Creating tweet with text:
  "El amor hace, no se hace."
  Libro: Ideas para rodar (Aforismos bicornes) (1963).
 INFO:id/_id:88/6847251fd46fb54fd972c434
+INFO:***** ***** ***** 2025-07-03 15:22:16 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "El segundo (amor de almas), es extenso, frío y duradero, porque la inteligencia ve (teoría), pero no toca ni, por consiguiente, gasta."
+ Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:id/_id:148/6847252bd46fb54fd972c470
