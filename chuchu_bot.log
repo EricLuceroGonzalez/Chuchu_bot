@@ -532,3 +532,10 @@ INFO:Creating tweet with text:
  👀"El amor burgués se disfraza de compasión."
  📖Libro: Ideas para rodar (Aforismos bicornes) (1963).
 INFO:id/_id:126/68472526d46fb54fd972c45a
+INFO:***** ***** ***** 2025-07-03 02:49:48 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "El amor hace, no se hace."
+ Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:id/_id:88/6847251fd46fb54fd972c434
