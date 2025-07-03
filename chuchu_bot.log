@@ -546,3 +546,13 @@ INFO:Creating tweet with text:
  "El segundo (amor de almas), es extenso, frío y duradero, porque la inteligencia ve (teoría), pero no toca ni, por consiguiente, gasta."
  Libro: Ideas para rodar (Aforismos bicornes) (1963).
 INFO:id/_id:148/6847252bd46fb54fd972c470
+INFO:***** ***** ***** 2025-07-03 21:17:49 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Bella, perfecta, absoluta pero altanera paloma. Con su mirada me doma esta paloma de guerra"
+ Libro: Ars Amandi (1985).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:id/_id:744/6847259cd46fb54fd972c6c4
