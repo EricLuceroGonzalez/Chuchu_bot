@@ -570,3 +570,13 @@ INFO:Creating tweet with text:
  "Que se apagan en la lucha y que en la lucha amanecen."
  Libro: Amor No A Ti, Contigo (1965).
 INFO:id/_id:339/6847254fd46fb54fd972c52f
+INFO:***** ***** ***** 2025-07-04 21:18:16 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Compadecer a un muerto es absurdo; compadecer a sus familiares, inmoral. Lo único honrado es padecer la muerte."
+ Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:id/_id:178/68472531d46fb54fd972c48e
