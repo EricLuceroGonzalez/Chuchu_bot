@@ -556,3 +556,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:id/_id:744/6847259cd46fb54fd972c6c4
+INFO:***** ***** ***** 2025-07-04 02:47:47 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Desperdigado como estaba, perdido, dividido, desatado, viviendo en mil direcciones opuestas,"
+ Libro: Ars Amandi (1985).
+INFO:id/_id:667/6847258ed46fb54fd972c677
