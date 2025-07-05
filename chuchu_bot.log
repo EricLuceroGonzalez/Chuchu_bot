@@ -580,3 +580,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:id/_id:178/68472531d46fb54fd972c48e
+INFO:***** ***** ***** 2025-07-05 02:42:25 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "La felicidad recuerda, la alegría proyecta."
+ Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:id/_id:81/6847251ed46fb54fd972c42d
