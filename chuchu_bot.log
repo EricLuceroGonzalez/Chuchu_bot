@@ -594,3 +594,10 @@ INFO:Creating tweet with text:
  "Y tú no dejes nunca de mirarme."
  Libro: Medio Siglo (1979).
 INFO:id/_id:651/6847258bd46fb54fd972c667
+INFO:***** ***** ***** 2025-07-05 21:17:36 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Antes, sin embargo, ha de eliminarse la pasión del pobre que la compasión del rico, porque ésta es de mentira y aquélla de verdad."
+ Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:id/_id:192/68472533d46fb54fd972c49c
