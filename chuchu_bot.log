@@ -587,3 +587,10 @@ INFO:Creating tweet with text:
  "La felicidad recuerda, la alegría proyecta."
  Libro: Ideas para rodar (Aforismos bicornes) (1963).
 INFO:id/_id:81/6847251ed46fb54fd972c42d
+INFO:***** ***** ***** 2025-07-05 15:19:33 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Y tú no dejes nunca de mirarme."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:651/6847258bd46fb54fd972c667
