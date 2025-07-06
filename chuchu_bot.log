@@ -608,3 +608,10 @@ INFO:Creating tweet with text:
  "Para salvarme."
  Libro: Medio Siglo (1979).
 INFO:id/_id:644/68472589d46fb54fd972c660
+INFO:***** ***** ***** 2025-07-06 15:19:48 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Niños, asomados a mis ojos, te miran cuando te desnudas."
+ Libro: Ars Amandi (1985).
+INFO:id/_id:670/6847258ed46fb54fd972c67a
