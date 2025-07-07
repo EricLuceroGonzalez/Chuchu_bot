@@ -632,3 +632,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:id/_id:422/6847255fd46fb54fd972c582
+INFO:***** ***** ***** 2025-07-07 15:21:23 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "El hombre entero, íntegro, piensa con cariño, ama con inteligencia y hace las cosas con amor y con cordura."
+ Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:id/_id:139/68472529d46fb54fd972c467
