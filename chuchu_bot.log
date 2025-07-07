@@ -622,3 +622,13 @@ INFO:Creating tweet with text:
  "[El amor] No se tiene amor, se lo es."
  Libro: Ideas para rodar (Aforismos bicornes) (1963).
 INFO:id/_id:233/6847253bd46fb54fd972c4c5
+INFO:***** ***** ***** 2025-07-07 02:54:05 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Por una sola culeada."
+ Libro: Medio Siglo (1979).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:id/_id:422/6847255fd46fb54fd972c582
