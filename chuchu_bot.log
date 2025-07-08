@@ -660,3 +660,10 @@ INFO:Creating tweet with text:
  "No me comprenderá, señor Martínez."
  Libro: Medio Siglo (1979).
 INFO:id/_id:523/68472572d46fb54fd972c5e7
+INFO:***** ***** ***** 2025-07-08 21:18:54 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "El ojo da la teoría; el tacto, la práctica."
+ Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:id/_id:167/6847252fd46fb54fd972c483
