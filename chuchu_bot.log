@@ -646,3 +646,10 @@ INFO:Creating tweet with text:
  💾"Me encuentras recuerdos, cosas ni aun por mí conocidas."
  👓Libro: Amor No A Ti, Contigo (1965).
 INFO:id/_id:345/68472550d46fb54fd972c535
+INFO:***** ***** ***** 2025-07-08 02:49:07 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Debes amarlas, pues. Es todo lo que tienes”."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:613/68472583d46fb54fd972c641
