@@ -653,3 +653,10 @@ INFO:Creating tweet with text:
  "Debes amarlas, pues. Es todo lo que tienes”."
  Libro: Medio Siglo (1979).
 INFO:id/_id:613/68472583d46fb54fd972c641
+INFO:***** ***** ***** 2025-07-08 15:22:35 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "No me comprenderá, señor Martínez."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:523/68472572d46fb54fd972c5e7
