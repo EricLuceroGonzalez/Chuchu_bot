@@ -667,3 +667,10 @@ INFO:Creating tweet with text:
  "El ojo da la teoría; el tacto, la práctica."
  Libro: Ideas para rodar (Aforismos bicornes) (1963).
 INFO:id/_id:167/6847252fd46fb54fd972c483
+INFO:***** ***** ***** 2025-07-09 02:51:00 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Pensar y querer no deben ser dos momentos —por muy de acuerdo que estén—. Ha de ser un acto único e indivisible, emotivo-inteligente."
+ Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:id/_id:152/6847252cd46fb54fd972c474
