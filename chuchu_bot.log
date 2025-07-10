@@ -695,3 +695,10 @@ INFO:Creating tweet with text:
  "La caridad es tres veces mala."
  Libro: Ideas para rodar (Aforismos bicornes) (1963).
 INFO:id/_id:69/6847251cd46fb54fd972c421
+INFO:***** ***** ***** 2025-07-10 15:24:11 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 📌"Llamamos hombre entero o íntegro a quien tiene el ser hecho de una sola pieza."
+ 📚Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:id/_id:2/6847250fd46fb54fd972c3de
