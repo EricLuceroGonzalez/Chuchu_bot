@@ -723,3 +723,10 @@ INFO:Creating tweet with text:
  "Yo no entiendo por qué sale el sol todos los días."
  Libro: Medio Siglo (1979).
 INFO:id/_id:476/68472569d46fb54fd972c5b8
+INFO:***** ***** ***** 2025-07-11 21:18:57 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Está en el bingo, está en el cine, está con sus amigas..."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:373/68472556d46fb54fd972c551
