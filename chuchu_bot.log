@@ -740,3 +740,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:id/_id:368/68472555d46fb54fd972c54c
+INFO:***** ***** ***** 2025-07-12 15:20:31 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "con nuestra propia medida donde comer nuestras penas. Como intestinos, las venas nos dejan depositada"
+ Libro: Ars Amandi (1985).
+INFO:id/_id:771/684725a2d46fb54fd972c6df
