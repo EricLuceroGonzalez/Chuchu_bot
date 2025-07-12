@@ -730,3 +730,13 @@ INFO:Creating tweet with text:
  "Está en el bingo, está en el cine, está con sus amigas..."
  Libro: Medio Siglo (1979).
 INFO:id/_id:373/68472556d46fb54fd972c551
+INFO:***** ***** ***** 2025-07-12 02:53:40 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Te botaría del trabajo, yo sé lo que te digo."
+ Libro: Medio Siglo (1979).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:id/_id:368/68472555d46fb54fd972c54c
