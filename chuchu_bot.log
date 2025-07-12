@@ -747,3 +747,10 @@ INFO:Creating tweet with text:
  "con nuestra propia medida donde comer nuestras penas. Como intestinos, las venas nos dejan depositada"
  Libro: Ars Amandi (1985).
 INFO:id/_id:771/684725a2d46fb54fd972c6df
+INFO:***** ***** ***** 2025-07-12 21:17:27 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "El saber del piloto vale más que el de un teólogo o un metafísico."
+ Libro: Teoría del vuelo (1979).
+INFO:id/_id:284/68472545d46fb54fd972c4f8
