@@ -761,3 +761,10 @@ INFO:Creating tweet with text:
  "De verdad, no juego."
  Libro: Medio Siglo (1979).
 INFO:id/_id:505/6847256fd46fb54fd972c5d5
+INFO:***** ***** ***** 2025-07-13 15:19:57 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🎯"Amándote, ha sido amándote, besándote fue que supo mi mejor yo y el más hondo."
+ 📕Libro: Amor No A Ti, Contigo (1965).
+INFO:id/_id:313/6847254ad46fb54fd972c515
