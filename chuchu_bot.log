@@ -782,3 +782,10 @@ INFO:Creating tweet with text:
  "El hombre íntegro no es un inteligente ni un apasionado, sino un apasionado inteligente o un inteligente apasionado."
  Libro: Ideas para rodar (Aforismos bicornes) (1963).
 INFO:id/_id:151/6847252bd46fb54fd972c473
+INFO:***** ***** ***** 2025-07-14 15:24:03 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "y con el alma podrida recuerdo nuestro amor tierno. ¡Chucha, qué poco lo eterno! ¡Mierda, qué larga la vida!"
+ Libro: Ars Amandi (1985).
+INFO:id/_id:757/6847259fd46fb54fd972c6d1
