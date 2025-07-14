@@ -789,3 +789,10 @@ INFO:Creating tweet with text:
  "y con el alma podrida recuerdo nuestro amor tierno. ¡Chucha, qué poco lo eterno! ¡Mierda, qué larga la vida!"
  Libro: Ars Amandi (1985).
 INFO:id/_id:757/6847259fd46fb54fd972c6d1
+INFO:***** ***** ***** 2025-07-14 21:19:26 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Y aún esto no es seguro."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:526/68472573d46fb54fd972c5ea
