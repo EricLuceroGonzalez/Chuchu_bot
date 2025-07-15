@@ -806,3 +806,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:id/_id:497/6847256dd46fb54fd972c5cd
+INFO:***** ***** ***** 2025-07-15 15:22:32 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🎯"Repito: No lo sé."
+ 👓Libro: Medio Siglo (1979).
+INFO:id/_id:583/6847257ed46fb54fd972c623
