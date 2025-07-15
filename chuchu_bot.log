@@ -813,3 +813,10 @@ INFO:Creating tweet with text:
  🎯"Repito: No lo sé."
  👓Libro: Medio Siglo (1979).
 INFO:id/_id:583/6847257ed46fb54fd972c623
+INFO:***** ***** ***** 2025-07-15 21:20:05 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Cristo en tus manos, en tus ojos el sueño de Bolívar."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:492/6847256cd46fb54fd972c5c8
