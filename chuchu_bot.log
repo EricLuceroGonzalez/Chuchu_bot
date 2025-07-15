@@ -796,3 +796,13 @@ INFO:Creating tweet with text:
  "Y aún esto no es seguro."
  Libro: Medio Siglo (1979).
 INFO:id/_id:526/68472573d46fb54fd972c5ea
+INFO:***** ***** ***** 2025-07-15 02:58:42 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Fumas, te paseas, y no es eso."
+ Libro: Medio Siglo (1979).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:id/_id:497/6847256dd46fb54fd972c5cd
