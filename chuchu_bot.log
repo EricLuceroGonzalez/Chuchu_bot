@@ -820,3 +820,13 @@ INFO:Creating tweet with text:
  "Cristo en tus manos, en tus ojos el sueño de Bolívar."
  Libro: Medio Siglo (1979).
 INFO:id/_id:492/6847256cd46fb54fd972c5c8
+INFO:***** ***** ***** 2025-07-16 02:55:22 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Te levantas, y no es eso."
+ Libro: Medio Siglo (1979).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:id/_id:496/6847256dd46fb54fd972c5cc
