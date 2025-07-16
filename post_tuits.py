@@ -46,7 +46,8 @@ def get_one_document():
                 {"_id": random_item[0]["_id"]},
                 {"$set": {"publicado": True}, "$inc": {"enviado": 1}},
             )
-            logging.info(f"id/_id:{random_item[0]["id"]}/{random_item[0]["_id"]}")
+            count_unpublished = collection.count_documents({"publicado": {"$ne": True}})
+            logging.info(f"Total sin publicar: {count_unpublished}")
             return random_item[0]
         # If publicado is True, loop again to get another random item
 

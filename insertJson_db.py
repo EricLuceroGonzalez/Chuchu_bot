@@ -29,4 +29,28 @@ def insert_json_to_mongo():
         print("JSON file does not contain a list of documents.")
 
 
-insert_json_to_mongo()
+def update_text_by_id():
+    """To take the json and compare with "texto" in mongo,
+    and update if there is a difference
+    """
+    with open(file, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    updated = 0
+    for item in data:
+        doc_id = item.get("id")
+        new_text = item.get("texto")
+        if doc_id is not None and new_text is not None:
+            mongo_doc = collection.find_one({"id": doc_id})
+            if mongo_doc and mongo_doc.get("texto") != new_text:
+                result = collection.update_one(
+                    {"id": doc_id}, {"$set": {"texto": new_text}}
+                )
+                if result.modified_count:
+                    print(f"Updated id {doc_id}")
+                    updated += 1
+    print(f"Total updated: {updated}")
+
+
+update_text_by_id()
+# insert_json_to_mongo()

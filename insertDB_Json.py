@@ -1,11 +1,10 @@
 import json
 import os
 from connect_DB import get_mongo_collection
+from bson import ObjectId
 
 collection = get_mongo_collection()
 file = os.path.join(os.path.dirname(__file__), "todas_las_citas.json")
-
-from bson import ObjectId
 
 
 def convert_objectid(obj):
