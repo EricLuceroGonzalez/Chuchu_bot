@@ -837,3 +837,10 @@ INFO:Creating tweet with text:
  "Llamamos hombre fraccionado o quebrado a quien, no pudiendo consigo mismo, tiene que dividirse para vencerse."
  Libro: Ideas para rodar (Aforismos bicornes) (1963).
 INFO:id/_id:1/6847250fd46fb54fd972c3dd
+INFO:***** ***** ***** 2025-07-16 21:19:44 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Orinas, y no es eso..."
+ Libro: Medio Siglo (1979).
+INFO:id/_id:498/6847256ed46fb54fd972c5ce
