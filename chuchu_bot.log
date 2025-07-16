@@ -830,3 +830,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:id/_id:496/6847256dd46fb54fd972c5cc
+INFO:***** ***** ***** 2025-07-16 15:24:29 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Llamamos hombre fraccionado o quebrado a quien, no pudiendo consigo mismo, tiene que dividirse para vencerse."
+ Libro: Ideas para rodar (Aforismos bicornes) (1963).
+INFO:id/_id:1/6847250fd46fb54fd972c3dd
