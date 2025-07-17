@@ -844,3 +844,14 @@ INFO:Creating tweet with text:
  "Orinas, y no es eso..."
  Libro: Medio Siglo (1979).
 INFO:id/_id:498/6847256ed46fb54fd972c5ce
+INFO:***** ***** ***** 2025-07-17 02:55:30 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "¿Qué hacer con esta fuerza que me has dado?
+¿Con esta sed que mana y bebo de la fuente misma de la vida?
+Esta confianza que han depositado en mí los muertos que viven
+en mi recuerdo como en su propia
+casa, ¿a qué se debe?"
+Ars Amandi (1985)
+INFO:Total sin publicar: 668
