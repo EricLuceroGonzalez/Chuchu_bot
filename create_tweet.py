@@ -33,7 +33,7 @@ def create_tweet(text, twitter_client, twitter_api, media_ids=None):
     emoji_book = random.choice(EMOJIS["libro"])
     # Construir texto principal
     if random.random() < 0.2:
-        tweet_text = f'{emoji_opener}"{text["texto"]}"\n {emoji_book}Libro: {text["libro"]} ({text["año"]}).'
+        tweet_text = f'{emoji_opener}"{text["texto"]}"\n {emoji_book}{text["libro"]} ({text["año"]}).'
     else:
         tweet_text = f'"{text["texto"]}"\n{text["libro"]} ({text["año"]})'
 
