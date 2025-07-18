@@ -876,3 +876,10 @@ INFO:Creating tweet with text:
  "El piloto no niega. Su condición es la de estar abierto, de ser conciencia."
 Teoría del vuelo (1979)
 INFO:Total sin publicar: 665
+INFO:***** ***** ***** 2025-07-18 15:22:53 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Se han olvidado de destruirnos."
+Medio Siglo (1979)
+INFO:Total sin publicar: 664
