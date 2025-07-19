@@ -897,3 +897,16 @@ INFO:Creating tweet with text:
  "Pensar sin tierra es divagar en el aire."
 Ideas para rodar (Aforismos bicornes) (1963)
 INFO:Total sin publicar: 662
+INFO:***** ***** ***** 2025-07-19 15:20:44 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Todo lo que toco se hace duro.
+Todo lo que toco existe.
+Abrazo a mi hija, me convenzo, todavía está ahí;
+le doy con un palo al árbol, está ahí;
+tiro la piedra al aire, me toco a mí,
+vuelvo a tocar a mi hija, entro a casa corriendo,
+abrazo a mi mujer."
+Medio Siglo (1979)
+INFO:Total sin publicar: 661
