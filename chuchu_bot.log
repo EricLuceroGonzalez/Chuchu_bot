@@ -917,3 +917,13 @@ INFO:Creating tweet with text:
  "Soy una pura mirada sin ojo, un puro ver tranquilo, indiferente, fumando, que existe sólo porque veo, porque me veo ir, venir, vivir mezquinamente."
 Medio Siglo (1979)
 INFO:Total sin publicar: 660
+INFO:***** ***** ***** 2025-07-20 03:05:38 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Porque solamente yo no paso.
+Sólo yo permanezco.
+Sólo yo no tengo miedo de esperar,
+eterno, duro, terco, enamorado."
+Medio Siglo (1979)
+INFO:Total sin publicar: 659
