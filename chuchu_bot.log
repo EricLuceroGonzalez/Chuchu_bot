@@ -948,3 +948,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 657
+INFO:***** ***** ***** 2025-07-21 03:04:15 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Las ilusiones son abstractas; los misterios, concretos."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Total sin publicar: 656
