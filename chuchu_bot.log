@@ -955,3 +955,10 @@ INFO:Creating tweet with text:
  "Las ilusiones son abstractas; los misterios, concretos."
 Ideas para rodar (Aforismos bicornes) (1963)
 INFO:Total sin publicar: 656
+INFO:***** ***** ***** 2025-07-21 15:24:05 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🎞️"A Dios habría que negarlo aun cuando existiera."
+ 📝Ideas para rodar (Aforismos bicornes) (1963).
+INFO:Total sin publicar: 655
