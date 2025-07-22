@@ -976,3 +976,16 @@ INFO:Creating tweet with text:
  "La compensación de no quererte es ésa: No sabe lo que es la muerte."
 Ars Amandi (1985)
 INFO:Total sin publicar: 653
+INFO:***** ***** ***** 2025-07-22 15:24:51 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🌀"He conocido todos los miedos de la muerte,
+he convivido con ellos
+en estrechas noches oscuras como cuartos de hoteluchos
+desde el cobarde culillo histérico
+que podría sentir también un pájaro,
+hasta el terror arrodillado
+del que espera en la nuca un tiro"
+ 🧾Ars Amandi (1985).
+INFO:Total sin publicar: 652
