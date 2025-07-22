@@ -969,3 +969,10 @@ INFO:Creating tweet with text:
  "Me amas. No has comprendido nada."
 Medio Siglo (1979)
 INFO:Total sin publicar: 654
+INFO:***** ***** ***** 2025-07-22 02:57:32 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "La compensación de no quererte es ésa: No sabe lo que es la muerte."
+Ars Amandi (1985)
+INFO:Total sin publicar: 653
