@@ -1013,3 +1013,13 @@ INFO:Creating tweet with text:
  "La justicia se exige; la caridad se mendiga."
 Ideas para rodar (Aforismos bicornes) (1963)
 INFO:Total sin publicar: 649
+INFO:***** ***** ***** 2025-07-23 21:20:02 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "José de Jesús Martínez, poetoide amargado y viejo, torpe, cansado y pendejo, come mierda y bebe orines."
+Ars Amandi (1985)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 648
