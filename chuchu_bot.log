@@ -1063,3 +1063,14 @@ INFO:Creating tweet with text:
  "Quizás también a ellas podríamos tocarlas."
 Medio Siglo (1979)
 INFO:Total sin publicar: 643
+INFO:***** ***** ***** 2025-07-25 21:19:10 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "A mí el sudor y lágrimas de fuego
+me llueven en la carne y en el alma
+Y crezco en uñas nada más, y crezco
+en versos que no sirven para nada,
+y en niños epilépticos y en pelos."
+Medio Siglo (1979)
+INFO:Total sin publicar: 642
