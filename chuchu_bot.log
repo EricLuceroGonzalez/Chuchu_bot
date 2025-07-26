@@ -1084,3 +1084,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 641
+INFO:***** ***** ***** 2025-07-26 15:20:57 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "El pueblo es ciego, pero no sordo."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Total sin publicar: 640
