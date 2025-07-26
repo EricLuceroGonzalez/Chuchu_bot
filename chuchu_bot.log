@@ -1074,3 +1074,13 @@ en versos que no sirven para nada,
 y en niños epilépticos y en pelos."
 Medio Siglo (1979)
 INFO:Total sin publicar: 642
+INFO:***** ***** ***** 2025-07-26 02:51:43 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Tú dirás que todo esto no son más que palabras."
+Medio Siglo (1979)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 641
