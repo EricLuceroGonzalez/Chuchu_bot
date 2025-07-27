@@ -1098,3 +1098,13 @@ INFO:Creating tweet with text:
  "Nombro a tu cuerpo cuchara con la que voy a comer, culiar, vivir y beber cuanto la vida depara."
 Ars Amandi (1985)
 INFO:Total sin publicar: 639
+INFO:***** ***** ***** 2025-07-27 03:06:58 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "El corazón está a la izquierda, pero la inteligencia también."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 638
