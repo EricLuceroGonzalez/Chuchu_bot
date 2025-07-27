@@ -1115,3 +1115,15 @@ INFO:Creating tweet with text:
  "Cuando te quise te quise desde siempre y para siempre. Y hoy que ya no te quiero no te he querido nunca ni te querré jamás."
 Ars Amandi (1985)
 INFO:Total sin publicar: 637
+INFO:***** ***** ***** 2025-07-27 21:18:33 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Pero he aquí que moribundo y todo
+me acuso de ser yo
+y nadie más que yo
+y que me manden por ello a los infiernos.
+Yo, minúsculo y mortal,
+infinitamente, desde aquí hasta aquí.."
+Medio Siglo (1979)
+INFO:Total sin publicar: 636
