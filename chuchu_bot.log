@@ -1134,3 +1134,14 @@ INFO:Creating tweet with text:
  "que de mi alma me destierra y en la mierda me desploma. ¿Cómo quieres que te quiera con lo poco que ha dejado"
 Ars Amandi (1985)
 INFO:Total sin publicar: 635
+INFO:***** ***** ***** 2025-07-28 15:25:16 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "El juguete que perdí de niño
+para el niño que perdí de adulto.
+¡Y qué precio. Dios mío, qué alto precio
+pagó para poder acompañarlo!
+Adiós, criaturas de la vida, gracias."
+Medio Siglo (1979)
+INFO:Total sin publicar: 634
