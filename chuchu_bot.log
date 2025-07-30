@@ -1194,3 +1194,14 @@ INFO:Creating tweet with text:
 al matrimonio, al puesto de gerente."
 Medio Siglo (1979)
 INFO:Total sin publicar: 629
+INFO:***** ***** ***** 2025-07-30 15:24:35 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Ya no hay otro camino. Ya no hay otro camino.
+Sigue escribiendo, Alfonso, a tu poesía
+puede caerle un rayo. A mí me gusta
+y me sirve y me enseña y es verdad.
+Dale duro."
+Medio Siglo (1979)
+INFO:Total sin publicar: 628
