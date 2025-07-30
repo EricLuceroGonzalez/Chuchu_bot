@@ -1180,3 +1180,17 @@ INFO:Creating tweet with text:
  "Yo te contestaré, cuerpo de mi alma."
 Medio Siglo (1979)
 INFO:Total sin publicar: 630
+INFO:***** ***** ***** 2025-07-30 03:01:41 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "—Por aquí come. Aquí se compra una casa
+—Aquí te sientas, admiras
+—Aquí te mueres, te acurrucas
+—Aquí no dices nada
+—Aquí protestas, aquí te indignas.
+—Aquí bostezas, duermes aquí.
+—Por aquí se va a París, al cementerio,
+al matrimonio, al puesto de gerente."
+Medio Siglo (1979)
+INFO:Total sin publicar: 629
