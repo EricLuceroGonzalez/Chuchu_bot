@@ -1222,3 +1222,14 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 626
+INFO:***** ***** ***** 2025-07-31 15:24:42 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Porque los muertos somos indefensos
+en las manos cochinas de los vivos
+no puedo sino defenderme de esta forma
+diciendo; éste soy yo, y aquel otro
+nada tiene que ver con mi persona."
+Medio Siglo (1979)
+INFO:Total sin publicar: 625
