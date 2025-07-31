@@ -1212,3 +1212,13 @@ INFO:Creating tweet with text:
  "El pobre padece, el rico compadece."
 Ideas para rodar (Aforismos bicornes) (1963)
 INFO:Total sin publicar: 627
+INFO:***** ***** ***** 2025-07-31 03:00:48 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Llegué tarde a mi pasado, llegué de noche a mi vida, cuando yo vine ya era otra persona distinta."
+Amor No A Ti, Contigo (1965)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 626
