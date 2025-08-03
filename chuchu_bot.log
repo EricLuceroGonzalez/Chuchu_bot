@@ -1309,3 +1309,13 @@ INFO:Creating tweet with text:
 se exige con decisión y hasta con violencia."
 Ideas para rodar (Aforismos bicornes) (1963)
 INFO:Total sin publicar: 616
+INFO:***** ***** ***** 2025-08-03 21:19:00 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Cuando desde el dolor, la lágrima,cuando desde la risa, desde la vida tonta, no pueda verme, compararme, entonces ya no sabré que vivo ni que me muevo o nada, y habré muerto y ni siquiera sabré que estaré muerto."
+Medio Siglo (1979)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 615
