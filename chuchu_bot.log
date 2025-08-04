@@ -1319,3 +1319,13 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 615
+INFO:***** ***** ***** 2025-08-04 03:12:05 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Es decir, el que, teniendo una sola cara (un solo mundo, una sola mujer, etc.), de todos conocida, se presenta como falso e hipócrita para hacer creer que su otra cara [...] es la hermosa y verdadera."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 614
