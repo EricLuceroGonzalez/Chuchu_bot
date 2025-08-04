@@ -1329,3 +1329,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 614
+INFO:***** ***** ***** 2025-08-04 15:25:53 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Justicia o caridad, pero no ambos."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Total sin publicar: 613
