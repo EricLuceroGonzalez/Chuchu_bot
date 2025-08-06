@@ -1386,3 +1386,16 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 607
+INFO:***** ***** ***** 2025-08-06 21:17:57 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🌟"Terminaré subiendo a acompañarlos.
+Me conozco, y el pobre..., en fin,
+se burlan de él, nadie lo quiere, lo timan,
+lo llaman, deseos, gente, circunstancias,
+lo solicitan, para robarle
+de su pobrísimo ser, de sus centavos.
+Lo llaman, sí, a todas horas.."
+ 🧾Medio Siglo (1979).
+INFO:Total sin publicar: 606
