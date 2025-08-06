@@ -1371,3 +1371,18 @@ INFO:Creating tweet with text:
  "Te tuve. Te perdí. Y cuando te tuve por primera vez te había tenido desde siempre, y cuando te perdí, ya no te había tenido nunca. No. No te tuve. Nos tuvimos. Se nos tuvo, lo teníamos, nos tenían. No. No te perdí. Nos pe."
 Ars Amandi (1985)
 INFO:Total sin publicar: 608
+INFO:***** ***** ***** 2025-08-06 15:25:33 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🎞️"¿Y son esos pobres...?
+Yo pregunto ahora si son esos pobres los que temen la muerte
+como algo venidero, los que sudan de noche, los que van a misa,
+cuando en realidad ya en ellos están muertos,
+y no lo saben, y por eso
+están más muertos todavía."
+ 👓Medio Siglo (1979).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 607
