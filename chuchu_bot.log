@@ -1473,3 +1473,18 @@ INFO:Creating tweet with text:
  "Ganar algo de qué morirse debería ser el interés de los que no tenemos casi nada."
 Teoría del vuelo (1979)
 INFO:Total sin publicar: 597
+INFO:***** ***** ***** 2025-08-10 03:04:14 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Te he escrito estos versos
+para que otros
+puedan amar
+en otras
+a ti.
+Para poder seguir amándote
+después de muerto.
+Para poder seguir amándote
+después de que ya no te ame."
+Ars Amandi (1985)
+INFO:Total sin publicar: 596
