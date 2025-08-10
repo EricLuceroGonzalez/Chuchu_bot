@@ -1495,3 +1495,10 @@ INFO:Creating tweet with text:
  "Todos los movimientos del piloto han de ser llevados a cabo con mucha suavidad."
 Teoría del vuelo (1979)
 INFO:Total sin publicar: 595
+INFO:***** ***** ***** 2025-08-10 21:17:52 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "No sabe lo que es el mar golpeando las costillas de la tierra."
+Ars Amandi (1985)
+INFO:Total sin publicar: 594
