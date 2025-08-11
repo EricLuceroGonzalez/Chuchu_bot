@@ -1509,3 +1509,10 @@ INFO:Creating tweet with text:
  "No se ama lo fofo, lo blando, lo inconsistente."
 Ideas para rodar (Aforismos bicornes) (1963)
 INFO:Total sin publicar: 593
+INFO:***** ***** ***** 2025-08-11 15:24:22 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🎞️"El burgués quiere robarle al pobre hasta la pena."
+ 📓Ideas para rodar (Aforismos bicornes) (1963).
+INFO:Total sin publicar: 592
