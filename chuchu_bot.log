@@ -1567,3 +1567,13 @@ INFO:Creating tweet with text:
  "Tú y yo no nos amamos. Se están amando en nosotros. Nuestros cuerpos son puentes que caminan los muertos y nuestros corazones fuentes donde abrevan su sed."
 Ars Amandi (1985)
 INFO:Total sin publicar: 586
+INFO:***** ***** ***** 2025-08-13 21:18:18 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "El hombre justo toma lo suyo y restituye lo ajeno. El burgués caritativo toma lo ajeno y lo da como suyo."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 585
