@@ -1560,3 +1560,10 @@ INFO:Creating tweet with text:
  "Más sed tengo en la medida en que te bebo."
 Ars Amandi (1985)
 INFO:Total sin publicar: 587
+INFO:***** ***** ***** 2025-08-13 15:19:14 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Tú y yo no nos amamos. Se están amando en nosotros. Nuestros cuerpos son puentes que caminan los muertos y nuestros corazones fuentes donde abrevan su sed."
+Ars Amandi (1985)
+INFO:Total sin publicar: 586
