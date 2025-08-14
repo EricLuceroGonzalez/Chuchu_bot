@@ -1577,3 +1577,11 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 585
+INFO:***** ***** ***** 2025-08-14 02:49:39 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Nosotros, los hombres,
+alineábamos las piedras, una detrás de la otra."
+Medio Siglo (1979)
+INFO:Total sin publicar: 584
