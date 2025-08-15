@@ -1613,3 +1613,10 @@ INFO:Creating tweet with text:
  "El piloto piensa de cuerpo entero, con todos sus órganos ennoblecidos."
 Teoría del vuelo (1979)
 INFO:Total sin publicar: 580
+INFO:***** ***** ***** 2025-08-15 21:16:25 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "La meta de la revolución no es unir ricos con pobres, sino la desaparición de ambos."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Total sin publicar: 579
