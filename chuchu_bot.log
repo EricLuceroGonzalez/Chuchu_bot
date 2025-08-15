@@ -1606,3 +1606,10 @@ INFO:Creating tweet with text:
  "Idea platónica del amor, pero con pelos."
 Ars Amandi (1985)
 INFO:Total sin publicar: 581
+INFO:***** ***** ***** 2025-08-15 15:21:28 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "El piloto piensa de cuerpo entero, con todos sus órganos ennoblecidos."
+Teoría del vuelo (1979)
+INFO:Total sin publicar: 580
