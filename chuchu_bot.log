@@ -1642,3 +1642,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 577
+INFO:***** ***** ***** 2025-08-16 21:17:06 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "El resentimiento de la clase que trabaja hace la revolución."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Total sin publicar: 576
