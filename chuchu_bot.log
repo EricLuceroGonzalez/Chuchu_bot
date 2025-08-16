@@ -1627,3 +1627,18 @@ INFO:Creating tweet with text:
  "Es a ustedes, siervas, que yo vengo, yo no voy."
 Medio Siglo (1979)
 INFO:Total sin publicar: 578
+INFO:***** ***** ***** 2025-08-16 15:19:19 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Para que yo las ame me engañan las cosas,
+me hacen creer o bien que son eternas
+o que me voy con ellas. Oh, criaturas,
+¿es que creían que no las iba a amar
+en viéndolas desnudas, pobres?
+¡Oh, criaturas mías, dulces!"
+Medio Siglo (1979)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 577
