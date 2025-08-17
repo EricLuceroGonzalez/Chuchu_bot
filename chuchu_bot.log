@@ -1662,3 +1662,15 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 575
+INFO:***** ***** ***** 2025-08-17 15:19:25 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Con cualquier cosa que diga no hablo sino de ti,
+no digo sino tu nombre
+Cada vez que respiro, cuando río, cuando fumo,
+no hago más que decir tu nombre de otro modo,
+y sobre todo cuando callo, cuando guardo silencio,
+ese silencio te llama, te señala.."
+Medio Siglo (1979)
+INFO:Total sin publicar: 574
