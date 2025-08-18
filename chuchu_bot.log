@@ -1681,3 +1681,10 @@ INFO:Creating tweet with text:
  "Sigue fumando, digo. No tiene importancia."
 Medio Siglo (1979)
 INFO:Total sin publicar: 573
+INFO:***** ***** ***** 2025-08-18 02:58:09 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 💾"porque ahora cuando hundo en la tierra mis amores, me alimentan los dolores de los muertos en la guerra,"
+ 📕Ars Amandi (1985).
+INFO:Total sin publicar: 572
