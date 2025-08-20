@@ -1738,3 +1738,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 567
+INFO:***** ***** ***** 2025-08-20 02:38:39 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Ir en contra del corazón, por seguir a la razón, es una forma de frotarse con uno mismo."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Total sin publicar: 566
