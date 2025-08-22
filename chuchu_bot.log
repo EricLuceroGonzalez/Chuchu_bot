@@ -1799,3 +1799,10 @@ INFO:Creating tweet with text:
  "En un parque, en un beso, en una sola culeada."
 Medio Siglo (1979)
 INFO:Total sin publicar: 560
+INFO:***** ***** ***** 2025-08-22 15:20:24 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🌀"El tacto da la existencia; el ojo, la esencia (eidos)."
+ 📓Ideas para rodar (Aforismos bicornes) (1963).
+INFO:Total sin publicar: 559
