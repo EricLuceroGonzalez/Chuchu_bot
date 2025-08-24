@@ -1841,3 +1841,10 @@ INFO:Creating tweet with text:
  "De pronto, estoy tranquilo. Lo han hallado, supongo."
 Medio Siglo (1979)
 INFO:Total sin publicar: 555
+INFO:***** ***** ***** 2025-08-24 02:48:47 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Con este pecho henchido, con estas piernas besadas, con el cuerpo más y mejor amado, entro en el mundo, levanto la mano y pido la palabra."
+Ars Amandi (1985)
+INFO:Total sin publicar: 554
