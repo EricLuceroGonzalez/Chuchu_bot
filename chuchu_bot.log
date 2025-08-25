@@ -1872,3 +1872,13 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 551
+INFO:***** ***** ***** 2025-08-25 15:21:55 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "No podíamos, y pudimos.
+Era un riesgo, y apostamos.
+Tú dices, se ganó poco,
+y lo que se ha ganado es que tú puedas pensarlo y decirlo."
+Medio Siglo (1979)
+INFO:Total sin publicar: 550
