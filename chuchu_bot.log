@@ -1967,3 +1967,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 542
+INFO:***** ***** ***** 2025-08-28 15:20:29 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "redondo, vacío y hondo como hueco de excusado. Chucha madre, no ha quedado de mí, mi vida y mis obras,"
+Ars Amandi (1985)
+INFO:Total sin publicar: 541
