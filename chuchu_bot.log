@@ -2030,3 +2030,17 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 535
+INFO:***** ***** ***** 2025-08-30 21:15:11 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 👀"No, porque este instante tampoco es signo para mí,
+signo de sí mismo sólo, en todo caso, y no taxi,
+no puente a otro tiempo, es este instante y nada más,
+eternidad en este instante, a cada rato soy eterno
+y lo seré mientras viva, aunque eso dure poco."
+ 👓Medio Siglo (1979).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 534
