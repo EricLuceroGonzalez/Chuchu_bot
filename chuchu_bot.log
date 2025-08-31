@@ -2066,3 +2066,15 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 532
+INFO:***** ***** ***** 2025-08-31 21:15:30 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "en estas condiciones nos vamos a morir.
+Toda una señora muerte con pompa rococó,
+con música de fondo, con San Pedro viendo
+y el Papa arrodillado vestido de diamantes,
+en tanto que tú y yo, y el negro aquél
+y la gente sencilla, nos morimos"
+Medio Siglo (1979)
+INFO:Total sin publicar: 531
