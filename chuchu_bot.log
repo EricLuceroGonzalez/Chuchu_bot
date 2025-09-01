@@ -2088,3 +2088,15 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 530
+INFO:***** ***** ***** 2025-09-01 15:19:23 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🌀"Ahora sal a hacerles propaganda.
+Ahora, cuerpo de José, bastón de mi alma,
+habla por mí a mis amigos,
+ama por mí a mi mujer, construye
+por mí lo que te he dicho y vive
+de acuerdo con el plan que ya te he expuesto."
+ 🧾Medio Siglo (1979).
+INFO:Total sin publicar: 529
