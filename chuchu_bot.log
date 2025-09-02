@@ -2128,3 +2128,15 @@ INFO:Creating tweet with text:
  "En el avión hemos de ser justos, hasta con el detalle más insignificante."
 Teoría del vuelo (1979)
 INFO:Total sin publicar: 526
+INFO:***** ***** ***** 2025-09-02 21:15:12 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 👀"¿Acaso no te acuerdas de cuando hablabas de la esencia,
+de presión hidrostática, de la fenomenología,
+de tanto flinting metafísico y taurino?
+Cuánto perro ladrando en tu poesía
+olfateándonos el alma, acorralándonos
+la pena.."
+ 🔖Medio Siglo (1979).
+INFO:Total sin publicar: 525
