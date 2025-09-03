@@ -2168,3 +2168,18 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 523
+INFO:***** ***** ***** 2025-09-03 21:15:30 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🎯"Cuando te quise
+te quise desde siempre
+y para siempre.
+Y hoy que ya no te quiero
+no te he querido nunca
+ni te querré jamás."
+ 📗Ars Amandi (1985).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 522
