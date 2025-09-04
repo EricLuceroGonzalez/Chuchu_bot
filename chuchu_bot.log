@@ -2183,3 +2183,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 522
+INFO:***** ***** ***** 2025-09-04 02:19:01 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Ahora amanece. La luz, por fin, nos ha encontrado. Tápate, estás desnuda."
+Medio Siglo (1979)
+INFO:Total sin publicar: 521
