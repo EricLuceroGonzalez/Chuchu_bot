@@ -2232,3 +2232,10 @@ INFO:Creating tweet with text:
  "Entonces, recto. Sigue la flecha. Llora."
 Medio Siglo (1979)
 INFO:Total sin publicar: 515
+INFO:***** ***** ***** 2025-09-06 15:16:38 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Que aquí en la vida se ama todavía los muertos lo saben por nosotros. Que la gente se mira y se sonríe los muertos lo saben por nosotros. Que el pan, la sopa, los zapatos nuevos, los muertos lo saben por nosotros."
+Medio Siglo (1979)
+INFO:Total sin publicar: 514
