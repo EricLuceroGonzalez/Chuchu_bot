@@ -2296,3 +2296,14 @@ INFO:Creating tweet with text:
  "Porque no me gusta el amor a menos que tenga pelos."
 Ars Amandi (1985)
 INFO:Total sin publicar: 506
+INFO:***** ***** ***** 2025-09-09 15:21:32 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Inmortal, desde luego,
+pero tierno, nostálgico,
+y sobre todo solo y sin consuelo,
+sin posible consuelo.
+Me falta hasta el dolor."
+Medio Siglo (1979)
+INFO:Total sin publicar: 505
