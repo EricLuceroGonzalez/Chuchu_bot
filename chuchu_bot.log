@@ -2328,3 +2328,10 @@ INFO:Creating tweet with text:
  "Para un día en que no tenga que ir al trabajo."
 Medio Siglo (1979)
 INFO:Total sin publicar: 503
+INFO:***** ***** ***** 2025-09-10 15:20:03 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Oh, sueña, piensa en mí cuando te acuestes."
+Medio Siglo (1979)
+INFO:Total sin publicar: 502
