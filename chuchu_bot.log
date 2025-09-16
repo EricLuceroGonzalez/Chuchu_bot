@@ -2488,3 +2488,16 @@ INFO:Creating tweet with text:
  📌"La ternura verdadera necesita lucha."
  📕Ideas para rodar (Aforismos bicornes) (1963).
 INFO:Total sin publicar: 485
+INFO:***** ***** ***** 2025-09-16 15:21:07 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Vendrá el invierno, tendremos hijos,
+vendrá la primavera, moriremos,
+y volveremos a nacer cogidos de otros cuerpos.
+Pero ahora estamos, otra vez, en Carnac, caminando entre las
+piedras
+lentamente, fumando, tomando fotografías,
+pasándonos revista.."
+Medio Siglo (1979)
+INFO:Total sin publicar: 484
