@@ -2703,3 +2703,13 @@ INFO:Creating tweet with text:
  "Pena, vergüenza y trabajo para esta mierda de vida, vale más que la divida la muerte de un solo tajo,"
 Ars Amandi (1985)
 INFO:Total sin publicar: 461
+INFO:***** ***** ***** 2025-09-24 15:20:15 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Carne, pero también perfume.
+En el aliento de tu boca, en el olor de tu piel,
+me llega un aire antiguo preñado de contrabando para el futuro,
+historia humilde, clandestina, que sólo en ti tuvo confianza."
+Ars Amandi (1985)
+INFO:Total sin publicar: 460
