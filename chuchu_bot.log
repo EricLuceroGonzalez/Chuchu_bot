@@ -2759,3 +2759,10 @@ INFO:Creating tweet with text:
  "Lo que no ha muerto, agoniza y apenas si se recuerda."
 Ars Amandi (1985)
 INFO:Total sin publicar: 455
+INFO:***** ***** ***** 2025-09-26 15:20:11 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 💾"El tacto no se equivoca nunca. No hay ilusiones o fantasmagorías para el tacto."
+ 🧾Ideas para rodar (Aforismos bicornes) (1963).
+INFO:Total sin publicar: 454
