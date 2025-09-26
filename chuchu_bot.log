@@ -2752,3 +2752,10 @@ INFO:Creating tweet with text:
  🎞️"Con este amor que vivimos a todo vapor y máquina, echando humo el corazón, burbujas, chispas, el alma."
  📝Amor No A Ti, Contigo (1965).
 INFO:Total sin publicar: 456
+INFO:***** ***** ***** 2025-09-26 02:22:29 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Lo que no ha muerto, agoniza y apenas si se recuerda."
+Ars Amandi (1985)
+INFO:Total sin publicar: 455
