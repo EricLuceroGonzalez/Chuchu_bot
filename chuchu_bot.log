@@ -2811,3 +2811,14 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 449
+INFO:***** ***** ***** 2025-09-28 15:16:14 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Lo importante es que ese día
+descubrimos que las cosas pueden ser medios,
+instrumentos de trabajo, puentes, palabras,
+como el humo a lo lejos o el aullido de los lobos que anuncian
+un invierno frío."
+Medio Siglo (1979)
+INFO:Total sin publicar: 448
