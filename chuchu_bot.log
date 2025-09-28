@@ -2801,3 +2801,13 @@ INFO:Creating tweet with text:
  "Cuando el entendimiento toca (palpa), interroga por ,a existencia. Cuando el entendimiento ve (teoría), interroga por la esencia."
 Ideas para rodar (Aforismos bicornes) (1963)
 INFO:Total sin publicar: 450
+INFO:***** ***** ***** 2025-09-28 02:39:15 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "El rico da, por caridad, para que el pobre reconozca públicamente que la explotación del rico es justa."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 449
