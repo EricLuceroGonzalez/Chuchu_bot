@@ -2991,3 +2991,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 428
+INFO:***** ***** ***** 2025-10-05 15:16:40 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 💾"Pero si yo no viera a los que soy, si apartara de ellos mi mirada, ellos tampoco me podrían ver, no sabrían que viven, que se mueven, y morirían, es lo mismo."
+ 📝Medio Siglo (1979).
+INFO:Total sin publicar: 427
