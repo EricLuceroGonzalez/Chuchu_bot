@@ -2976,3 +2976,18 @@ INFO:Creating tweet with text:
  "En un avión, todo es importante. En la tierra, muchas cosas sobran."
 Teoría del vuelo (1979)
 INFO:Total sin publicar: 429
+INFO:***** ***** ***** 2025-10-05 02:38:48 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Todo afuera era noche, y en el cielo
+brillaban miles de recuerdos viejos;
+pues solamente aquél que fué el primero,
+aquél, el turbio, el que creía puro,
+se fué
+como el recuerdo de un recuerdo."
+Medio Siglo (1979)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 428
