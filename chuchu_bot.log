@@ -3005,3 +3005,10 @@ INFO:Creating tweet with text:
  "Vengo de mí, confiado en que hay dos cosas sólidas que detendrán mi caída: la tierra y yo."
 Teoría del vuelo (1979)
 INFO:Total sin publicar: 426
+INFO:***** ***** ***** 2025-10-06 02:23:08 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Ya nada puede hacer contra nosotros."
+Medio Siglo (1979)
+INFO:Total sin publicar: 425
