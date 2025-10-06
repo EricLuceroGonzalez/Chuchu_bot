@@ -3012,3 +3012,14 @@ INFO:Creating tweet with text:
  "Ya nada puede hacer contra nosotros."
 Medio Siglo (1979)
 INFO:Total sin publicar: 425
+INFO:***** ***** ***** 2025-10-06 15:20:13 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Cuando el último de mí se pierda entre la niebla
+y yo no tenga ya a quién ver, por quién saber que soy
+eterno,
+por quién saber que estoy aquí, que veo, entonces
+yo también moriré.."
+Medio Siglo (1979)
+INFO:Total sin publicar: 424
