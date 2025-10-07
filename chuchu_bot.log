@@ -3037,3 +3037,13 @@ INFO:Creating tweet with text:
  "El amor íntegro se conoce con el cuerpo y se aprieta con el alma."
 Ideas para rodar (Aforismos bicornes) (1963)
 INFO:Total sin publicar: 422
+INFO:***** ***** ***** 2025-10-07 15:21:39 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Para decirte públicamente: gracias."
+Ars Amandi (1985)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 421
