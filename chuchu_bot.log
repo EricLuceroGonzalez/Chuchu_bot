@@ -3063,3 +3063,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 420
+INFO:***** ***** ***** 2025-10-08 02:20:23 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "A Dios Habría que negarlo aun cuando existiera. Sobre todo si existiera."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Total sin publicar: 419
