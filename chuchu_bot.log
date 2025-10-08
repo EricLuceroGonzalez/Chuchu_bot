@@ -3077,3 +3077,10 @@ INFO:Creating tweet with text:
  "El rico prefiere dar un poco, por caridad, para que el pobre no se lo exija todo, por justicia."
 Ideas para rodar (Aforismos bicornes) (1963)
 INFO:Total sin publicar: 418
+INFO:***** ***** ***** 2025-10-08 21:16:55 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "El pobre padece, el rico compadece."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Total sin publicar: 417
