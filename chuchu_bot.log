@@ -3137,3 +3137,13 @@ INFO:Creating tweet with text:
  "El rico quiere dar caridad. El pobre quiere recibir justicia."
 Ideas para rodar (Aforismos bicornes) (1963)
 INFO:Total sin publicar: 410
+INFO:***** ***** ***** 2025-10-11 21:14:50 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Tienes el sexo chorreado por todo el cuerpo, te rebasa como si fueras una fuente árabe donde el agua no brinca sino que se desborda en silencio"
+Ars Amandi (1985)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 409
