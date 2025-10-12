@@ -3154,3 +3154,10 @@ INFO:Creating tweet with text:
  "¡Chucha, qué poco lo eterno! ¡Mierda, qué larga la vida!"
 Ars Amandi (1985)
 INFO:Total sin publicar: 408
+INFO:***** ***** ***** 2025-10-12 15:17:29 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "No cabe el tiempo venidero, sólo el instante."
+Teoría del vuelo (1979)
+INFO:Total sin publicar: 407
