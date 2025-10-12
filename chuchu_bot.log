@@ -3147,3 +3147,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 409
+INFO:***** ***** ***** 2025-10-12 02:25:01 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "¡Chucha, qué poco lo eterno! ¡Mierda, qué larga la vida!"
+Ars Amandi (1985)
+INFO:Total sin publicar: 408
