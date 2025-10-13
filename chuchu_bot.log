@@ -3182,3 +3182,10 @@ INFO:Creating tweet with text:
  "El que trabaja, sufre. El que ve trabajar, comprende."
 Ideas para rodar (Aforismos bicornes) (1963)
 INFO:Total sin publicar: 404
+INFO:***** ***** ***** 2025-10-13 21:16:08 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "En un principio, la naturaleza hostil, el trabajo fuerte, dividió a los hombres en dos clases: la de los que trabajan y sufren y la de los que no trabajan y piensan."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Total sin publicar: 403
