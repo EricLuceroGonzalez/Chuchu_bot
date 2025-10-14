@@ -3206,3 +3206,13 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 401
+INFO:***** ***** ***** 2025-10-14 21:16:09 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "por mis venas amargamente impuras
+camina tu recuerdo hacia la nada:
+y oigo mi pulso igual a su pisada:
+en algo hueco, como sepulturas."
+Medio Siglo (1979)
+INFO:Total sin publicar: 400
