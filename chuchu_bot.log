@@ -3196,3 +3196,13 @@ INFO:Creating tweet with text:
  "Adiós, amor, me despido de ti, de mi, de los dos. A los tres un mismo adiós en tres muertes dividido."
 Ars Amandi (1985)
 INFO:Total sin publicar: 402
+INFO:***** ***** ***** 2025-10-14 15:22:29 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "La conciencia es un viejo campo de batalla, ya vacío. Vuelo sobre ella."
+Teoría del vuelo (1979)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 401
