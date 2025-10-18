@@ -3301,3 +3301,17 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 389
+INFO:***** ***** ***** 2025-10-18 21:14:59 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 📌"Desde mi ventana todos los días veo anochecer.
+Desde mi lecho cada mañana veo irme, abandonarme,
+con una premura inexplicable, tras mezquinos deseos.
+Desde mi corazón todo se va, se enturbia, aleja y desaparece.
+Mi corazón también."
+ 👓Medio Siglo (1979).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 388
