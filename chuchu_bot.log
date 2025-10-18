@@ -3284,3 +3284,10 @@ INFO:Creating tweet with text:
  "No conoce el amor quien no te ama, aunque sea en otra, con otro nombre, con otro cuerpo. No sabe lo que es el mar golpeando las costillas de la tierra."
 Ars Amandi (1985)
 INFO:Total sin publicar: 391
+INFO:***** ***** ***** 2025-10-18 02:18:10 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🎯"Si sumara lo que quiero con todo lo que he querido, más todo lo que he vivido, todo me daría cero."
+ 📗Ars Amandi (1985).
+INFO:Total sin publicar: 390
