@@ -3291,3 +3291,13 @@ INFO:Creating tweet with text:
  🎯"Si sumara lo que quiero con todo lo que he querido, más todo lo que he vivido, todo me daría cero."
  📗Ars Amandi (1985).
 INFO:Total sin publicar: 390
+INFO:***** ***** ***** 2025-10-18 15:17:32 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Pero esto no puede ser, y por dos razones: porque es formalmente contradictorio y porque el rico necesita del pobre para ser rico. Luego, hay un camino sólo."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 389
