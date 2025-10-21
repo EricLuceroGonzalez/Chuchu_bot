@@ -3379,3 +3379,10 @@ INFO:Creating tweet with text:
  "Antes yo sólo era. Ahora lo sé y lo gozo."
 Ars Amandi (1985)
 INFO:Total sin publicar: 380
+INFO:***** ***** ***** 2025-10-21 21:17:29 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "A todo esto, hay un cuchillo azul, hay una sierpe azul que se desliza por la hierba húmeda del alma. Hay una música que crece como pelo y una tristeza honda, una ventana por donde Godel se asomó"
+Medio Siglo (1979)
+INFO:Total sin publicar: 379
