@@ -3386,3 +3386,10 @@ INFO:Creating tweet with text:
  "A todo esto, hay un cuchillo azul, hay una sierpe azul que se desliza por la hierba húmeda del alma. Hay una música que crece como pelo y una tristeza honda, una ventana por donde Godel se asomó"
 Medio Siglo (1979)
 INFO:Total sin publicar: 379
+INFO:***** ***** ***** 2025-10-22 02:40:31 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🎞️"Yo rehuso entender. Yo quiero cosas nada más, mirarlas. Quiero una silla para sentarme en ella. Quiero decir, me siento en ella, y esto no tiene ningún significado."
+ 📓Medio Siglo (1979).
+INFO:Total sin publicar: 378
