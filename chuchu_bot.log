@@ -3444,3 +3444,13 @@ INFO:Creating tweet with text:
  "La idea del pan puede aplacar sólo a la idea del hambre, no al hambre misma."
 Ideas para rodar (Aforismos bicornes) (1963)
 INFO:Total sin publicar: 372
+INFO:***** ***** ***** 2025-10-24 15:21:29 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Pero la culpa es tuya. Te lo han tomado en serio.
+¿Acaso no te acuerdas de cuando hablabas de la esencia,
+de presión hidrostática, de la fenomenología,
+de tanto flinting metafísico y taurino?"
+Medio Siglo (1979)
+INFO:Total sin publicar: 371
