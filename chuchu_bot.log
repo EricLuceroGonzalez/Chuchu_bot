@@ -3469,3 +3469,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 370
+INFO:***** ***** ***** 2025-10-25 02:23:41 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "¿Oyes? La gente. Son la gente. Seres despreciables. Nos llaman. Nosotros mismos nos llamamos. Tú por tu nombre: la Fulana. Yo por el mío: el Zutano."
+Medio Siglo (1979)
+INFO:Total sin publicar: 369
