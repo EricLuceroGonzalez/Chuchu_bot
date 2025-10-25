@@ -3476,3 +3476,13 @@ INFO:Creating tweet with text:
  "¿Oyes? La gente. Son la gente. Seres despreciables. Nos llaman. Nosotros mismos nos llamamos. Tú por tu nombre: la Fulana. Yo por el mío: el Zutano."
 Medio Siglo (1979)
 INFO:Total sin publicar: 369
+INFO:***** ***** ***** 2025-10-25 15:17:59 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "De sueño, amor, de sueño y no de carne te conozco.
+Estás conmigo como si estuvieras en el cuarto del vecino.
+Vienes, te das a mí
+como si te entregaras a un amigo mío."
+Medio Siglo (1979)
+INFO:Total sin publicar: 368
