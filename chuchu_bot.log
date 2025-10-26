@@ -3507,3 +3507,10 @@ INFO:Creating tweet with text:
  "Esa alegría leve compensa la muerte de mi padre: tiene su misma calidad."
 Teoría del vuelo (1979)
 INFO:Total sin publicar: 366
+INFO:***** ***** ***** 2025-10-26 15:18:05 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 📌"Nunca fue tan mío el mundo como ahora que te quiero, ni fue tan duro el acero ni el corazón tan profundo,"
+ 🧾Ars Amandi (1985).
+INFO:Total sin publicar: 365
