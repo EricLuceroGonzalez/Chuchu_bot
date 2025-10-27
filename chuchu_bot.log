@@ -3521,3 +3521,17 @@ INFO:Creating tweet with text:
  "Fiel a este amor inconstante que conmigo baja y crece, le dejo que baje y crezca porque si no se me muere."
 Amor No A Ti, Contigo (1965)
 INFO:Total sin publicar: 364
+INFO:***** ***** ***** 2025-10-27 02:48:36 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "¡Ay! , en mi corazón debe haber una playa
+en donde desemboquen mis venas y sentidos,
+en donde mueran olas que siento como pulsos;
+y siento como vértigos
+en las resacas de este mar de sangre."
+Medio Siglo (1979)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 363
