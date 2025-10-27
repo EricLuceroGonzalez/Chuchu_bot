@@ -3535,3 +3535,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 363
+INFO:***** ***** ***** 2025-10-27 15:22:15 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Te quiero a partir de mí con la existencia mordida, sólo desde hoy hasta hoy y con mi persona íntegra."
+Amor No A Ti, Contigo (1965)
+INFO:Total sin publicar: 362
