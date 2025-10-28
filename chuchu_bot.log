@@ -3563,3 +3563,10 @@ INFO:Creating tweet with text:
  "Fumo, luego existo."
 Medio Siglo (1979)
 INFO:Total sin publicar: 359
+INFO:***** ***** ***** 2025-10-28 21:17:40 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Con los conocimientos del piloto uno se juega la vida, no teóricamente, sino de verdad."
+Teoría del vuelo (1979)
+INFO:Total sin publicar: 358
