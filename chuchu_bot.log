@@ -3556,3 +3556,10 @@ INFO:Creating tweet with text:
  "Incluso creo que lo ama más que a mí."
 Medio Siglo (1979)
 INFO:Total sin publicar: 360
+INFO:***** ***** ***** 2025-10-28 15:23:29 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Fumo, luego existo."
+Medio Siglo (1979)
+INFO:Total sin publicar: 359
