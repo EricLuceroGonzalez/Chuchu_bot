@@ -3610,3 +3610,17 @@ INFO:Creating tweet with text:
  "La reflexión es la toma de conciencia del pensamiento: pensamiento del pensamiento. El resentimiento es la toma de conciencia del sentimiento: sentimiento del sentimiento."
 Ideas para rodar (Aforismos bicornes) (1963)
 INFO:Total sin publicar: 353
+INFO:***** ***** ***** 2025-10-30 21:17:13 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Sólo quien apuesta gana, y ganar
+algo de que morirse, algo que perder al
+morirse, algo sencillamente para poder
+morirse, debería ser el interés de todos los que
+no tenemos casi nada."
+Teoría del vuelo (1979)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 352
