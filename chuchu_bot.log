@@ -3591,3 +3591,15 @@ INFO:Creating tweet with text:
  "La próxima vez que nazca yo no voy al mercado."
 Medio Siglo (1979)
 INFO:Total sin publicar: 355
+INFO:***** ***** ***** 2025-10-30 02:41:42 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Te levantas, y no es eso.
+Fumas, te paseas, y no es eso.
+Orinas, y no es eso...
+Te estás llorando, te das rabia,
+te acuestas otra vez, te mandas al carajo
+y te volteas, dándote la espalda, resentido."
+Medio Siglo (1979)
+INFO:Total sin publicar: 354
