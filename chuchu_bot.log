@@ -3624,3 +3624,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 352
+INFO:***** ***** ***** 2025-10-31 02:40:15 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🌟"Algún día te encontraré defectos..."
+ 🧾Ars Amandi (1985).
+INFO:Total sin publicar: 351
