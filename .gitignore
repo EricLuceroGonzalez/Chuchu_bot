@@ -1,5 +1,6 @@
 .env
 .pyc
+.streamlit
 __pycache__
 .DS_Store
 Pipfile
