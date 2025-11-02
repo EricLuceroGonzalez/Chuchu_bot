@@ -3686,3 +3686,15 @@ INFO:Creating tweet with text:
  "Planetas tuyos los poemas de todos los grandes poetas."
 Ars Amandi (1985)
 INFO:Total sin publicar: 344
+INFO:***** ***** ***** 2025-11-02 21:15:23 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Y las prostitutas hablan de niñas inocentes que un día fueron,
+¡y se las muestran a sus clientes!
+¡Y luego ríen!
+Así se reirá usted de mí,
+señor Martínez,
+porque los muertos somos indefensos."
+Medio Siglo (1979)
+INFO:Total sin publicar: 343
