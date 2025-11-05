@@ -3763,3 +3763,11 @@ INFO:Creating tweet with text:
  🌟"No quiero siervos para mí, no quiero signos."
  📗Medio Siglo (1979).
 INFO:Total sin publicar: 335
+INFO:***** ***** ***** 2025-11-05 21:18:15 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Y acomodas la cultura, los valores, los inventos, 
+como ollas, vasos, cosas que después de todo sí que sirven."
+Medio Siglo (1979)
+INFO:Total sin publicar: 334
