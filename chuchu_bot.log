@@ -3756,3 +3756,10 @@ INFO:Creating tweet with text:
  🌟"Hijo de mí, pero huérfano, padre de mí sin familia."
  📗Amor No A Ti, Contigo (1965).
 INFO:Total sin publicar: 336
+INFO:***** ***** ***** 2025-11-05 15:20:55 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🌟"No quiero siervos para mí, no quiero signos."
+ 📗Medio Siglo (1979).
+INFO:Total sin publicar: 335
