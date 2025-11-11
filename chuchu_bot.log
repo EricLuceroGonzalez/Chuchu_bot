@@ -3901,3 +3901,14 @@ INFO:Creating tweet with text:
  "Desde mi ventana todos los días veo anochecer."
 Medio Siglo (1979)
 INFO:Total sin publicar: 318
+INFO:***** ***** ***** 2025-11-11 15:22:12 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Te tuve. Te perdí.
+Y cuando te tuve por primera vez
+te había tenido desde siempre,
+y cuando te perdí, ya no te había tenido nunca.
+No. No te tuve. Nos tuvimos."
+Ars Amandi (1985)
+INFO:Total sin publicar: 317
