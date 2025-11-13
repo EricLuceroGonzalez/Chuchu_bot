@@ -3953,3 +3953,13 @@ INFO:Creating tweet with text:
  "Detrás de ti estás tú. Eso lo sé porque te veo de lejos, tímida, escondiéndote, cuando te doy un beso con los ojos cerrados."
 Medio Siglo (1979)
 INFO:Total sin publicar: 313
+INFO:***** ***** ***** 2025-11-13 02:44:12 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "El piloto tiene que refinar su sensibilidad para adivinar los movimientos que el armatoste va a hacer y corregirlos antes de que sucedan."
+Teoría del vuelo (1979)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 312
