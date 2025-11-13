@@ -3963,3 +3963,13 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 312
+INFO:***** ***** ***** 2025-11-13 15:22:59 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "El burgués justifica su culpa con la compasión ante el dolor, y su miseria humana con la compasión ante la dicha, (actitud burguesa frente al arte, el cine, los boleros, las novelas, etc....)."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 311
