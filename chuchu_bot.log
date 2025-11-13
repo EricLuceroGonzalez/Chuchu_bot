@@ -3973,3 +3973,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 311
+INFO:***** ***** ***** 2025-11-13 21:18:17 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Tengo la sensación de que siempre o es demasiado tarde o demasiado temprano: o ya pasó todo, o nada ha llegado todavía. O deseo o recuerdo. Nunca llegarás a la hora. Siempre será el presagio o los últimos coletazos de algún acontecimiento."
+Ars Amandi (1985)
+INFO:Total sin publicar: 310
