@@ -4104,3 +4104,15 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 294
+INFO:***** ***** ***** 2025-11-19 21:14:55 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Les dirás que te roben un dinero
+y te abofetearán en las mejillas;
+les dirás que te pongan en la boca
+el cigarrillo y quemarán tus ojos;
+les dirás que se agarren del balcón
+y ellas te empujarán al precipicio."
+Medio Siglo (1979)
+INFO:Total sin publicar: 293
