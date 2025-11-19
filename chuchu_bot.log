@@ -4082,3 +4082,15 @@ INFO:Creating tweet with text:
  "El resentimiento es revolucionario porque es verdadero."
 Ideas para rodar (Aforismos bicornes) (1963)
 INFO:Total sin publicar: 296
+INFO:***** ***** ***** 2025-11-19 02:42:00 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Alguien, del otro lado, me sacude
+con terror, con prisa y humildad y urgencia.
+Quizás un niño muerto perseguido
+o un ángel comunista o un pobre diablo,
+o un dios indio que nunca pudo aprender latín,
+o un dios griego humillado, afeado, perdonado.."
+Medio Siglo (1979)
+INFO:Total sin publicar: 295
