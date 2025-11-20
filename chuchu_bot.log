@@ -4133,3 +4133,15 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 291
+INFO:***** ***** ***** 2025-11-20 21:18:14 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Vendrá el invierno, tendremos hijos, 
+vendrá la primavera, moriremos, 
+y volveremos a nacer cogidos de otros cuerpos."
+Medio Siglo (1979)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 290
