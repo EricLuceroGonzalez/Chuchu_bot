@@ -4145,3 +4145,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 290
+INFO:***** ***** ***** 2025-11-21 02:40:38 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "El pobre pide pan y le dan espíritu. Pide ropa pero le dan razones."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Total sin publicar: 289
