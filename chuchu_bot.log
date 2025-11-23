@@ -4203,3 +4203,10 @@ INFO:Creating tweet with text:
  "Alfonso, eso es todo cuanto hay. Alfonso, ya no hay más."
 Medio Siglo (1979)
 INFO:Total sin publicar: 282
+INFO:***** ***** ***** 2025-11-23 21:16:56 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 💾"Por allí no hay salida, está cerrado."
+ 🧾Medio Siglo (1979).
+INFO:Total sin publicar: 281
