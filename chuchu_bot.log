@@ -4210,3 +4210,14 @@ INFO:Creating tweet with text:
  💾"Por allí no hay salida, está cerrado."
  🧾Medio Siglo (1979).
 INFO:Total sin publicar: 281
+INFO:***** ***** ***** 2025-11-24 02:52:08 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "a mí mismo no me tengo,
+a mí mismo no me soy...
+Amor, mujer amada, estoy solísimo;
+estoy, amor, golpeándome, dándome aldabonazos,
+y entonces llegas tú."
+Medio Siglo (1979)
+INFO:Total sin publicar: 280
