@@ -4255,3 +4255,13 @@ INFO:Creating tweet with text:
  🎞️"Ellas que me han amado más que yo a mí mismo."
  📗Medio Siglo (1979).
 INFO:Total sin publicar: 276
+INFO:***** ***** ***** 2025-11-25 21:18:21 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Regreso del cielo, que es otra dimensión de la tierra."
+Teoría del vuelo (1979)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 275
