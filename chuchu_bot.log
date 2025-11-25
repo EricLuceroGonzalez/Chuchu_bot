@@ -4241,3 +4241,10 @@ INFO:Creating tweet with text:
  👀"Es peligroso desprenderse de todo lo que uno no es: podría no poder aterrizar."
  📕Teoría del vuelo (1979).
 INFO:Total sin publicar: 278
+INFO:***** ***** ***** 2025-11-25 02:44:31 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Con esta metralleta se mata al último enemigo."
+Medio Siglo (1979)
+INFO:Total sin publicar: 277
