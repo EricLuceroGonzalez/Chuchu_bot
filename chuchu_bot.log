@@ -4248,3 +4248,10 @@ INFO:Creating tweet with text:
  "Con esta metralleta se mata al último enemigo."
 Medio Siglo (1979)
 INFO:Total sin publicar: 277
+INFO:***** ***** ***** 2025-11-25 15:24:01 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🎞️"Ellas que me han amado más que yo a mí mismo."
+ 📗Medio Siglo (1979).
+INFO:Total sin publicar: 276
