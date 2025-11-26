@@ -4265,3 +4265,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 275
+INFO:***** ***** ***** 2025-11-26 02:44:39 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "No se ama lo turbio, lo oscuro, lo mentiroso."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Total sin publicar: 274
