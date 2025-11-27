@@ -4305,3 +4305,10 @@ INFO:Creating tweet with text:
  "Sonrío satánicamente cada vez que superamos a Dios."
 Teoría del vuelo (1979)
 INFO:Total sin publicar: 270
+INFO:***** ***** ***** 2025-11-27 21:17:41 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Un avión en tierra es como un pájaro torpe y somnoliento."
+Teoría del vuelo (1979)
+INFO:Total sin publicar: 269
