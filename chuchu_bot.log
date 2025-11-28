@@ -4334,3 +4334,13 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 267
+INFO:***** ***** ***** 2025-11-28 21:16:59 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Los bancos, todos robados, las cuentas, todas pagadas, confites para los niños, para los amantes, camas."
+Amor No A Ti, Contigo (1965)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 266
