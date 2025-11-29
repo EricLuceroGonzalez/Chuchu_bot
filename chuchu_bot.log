@@ -4344,3 +4344,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 266
+INFO:***** ***** ***** 2025-11-29 02:40:07 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 👀"El rico, que sólo conoce la realidad vista, nunca ha estado muy seguro de si existe. El pobre, que sabe que existe, no la conoce."
+ 📝Ideas para rodar (Aforismos bicornes) (1963).
+INFO:Total sin publicar: 265
