@@ -4372,3 +4372,13 @@ INFO:Creating tweet with text:
  "Ahora anda por los jardines con una pasión inmensa, y mientras él sólo piensa en en amar a una muchacha, yo me siento cucaracha y me doy asco y vergüenza."
 Ars Amandi (1985)
 INFO:Total sin publicar: 262
+INFO:***** ***** ***** 2025-11-30 15:19:10 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Los pobres tienen, por lo menos, hambre. Los ricos tienen una idea del hambre."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 261
