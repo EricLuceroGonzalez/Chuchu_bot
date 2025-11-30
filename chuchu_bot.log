@@ -4382,3 +4382,15 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 261
+INFO:***** ***** ***** 2025-11-30 21:17:19 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Perdón por no haberle podido dejar
+un cuerpo más saludable y una profesión más lucrativa.
+Perdón también por lo que ayer tarde dije a mi novia.
+Le dije que no la quería ver ya más,
+que me dejara solo y que cogiera
+sus dos maletas de mi alma y que se fuera."
+Medio Siglo (1979)
+INFO:Total sin publicar: 260
