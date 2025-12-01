@@ -4409,3 +4409,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 259
+INFO:***** ***** ***** 2025-12-01 15:24:14 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "La felicidad es una manera de ver las cosas hechas; la alegría, una manera de hacerlas."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Total sin publicar: 258
