@@ -4451,3 +4451,13 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 255
+INFO:***** ***** ***** 2025-12-02 21:19:33 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "¡Qué lejana que estás, aquí, conmigo!
+Te veo desde mis ojos como un preso.
+No. Los ojos me dicen que te ven,
+me conversan de ti como si fuese un ciego."
+Medio Siglo (1979)
+INFO:Total sin publicar: 254
