@@ -4438,3 +4438,16 @@ INFO:Creating tweet with text:
  "El rico se pasa la vida mirando; el pobre, tanteando."
 Ideas para rodar (Aforismos bicornes) (1963)
 INFO:Total sin publicar: 256
+INFO:***** ***** ***** 2025-12-02 15:25:22 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Apropiarse del dolor ajeno, mediante la acción necesariamente,
+es padecerlo, no compadecerlo.
+La única forma de padecer con otra persona es padeciendo
+de lo mismo."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 255
