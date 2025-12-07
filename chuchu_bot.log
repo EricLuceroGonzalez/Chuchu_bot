@@ -4573,3 +4573,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 241
+INFO:***** ***** ***** 2025-12-07 15:18:27 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Yo soy aquél que pasa por sus sueños como un fantasma azul o como un barco que pita en la neblina. Pero antes soy esta cosa aquí con mi trascendental olor a calzoncillo y a alma rancia."
+Medio Siglo (1979)
+INFO:Total sin publicar: 240
