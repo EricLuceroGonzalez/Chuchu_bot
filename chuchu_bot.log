@@ -4557,3 +4557,19 @@ INFO:Creating tweet with text:
  "Cuando me faltas tú, todo me falta."
 Ars Amandi (1985)
 INFO:Total sin publicar: 242
+INFO:***** ***** ***** 2025-12-07 02:56:16 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Pienso en el hombre y cómo últimamente
+como un pequeño dictador sangriento
+le ordena a sus dos manos que fabriquen
+terribles bombas, armas infernales,
+que escriban maldiciones y mentiras,
+que le tapen la cara en la emboscada,
+que roben, que asesinen.."
+Medio Siglo (1979)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 241
