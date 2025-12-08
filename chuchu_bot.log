@@ -4610,3 +4610,15 @@ INFO:Creating tweet with text:
  "Y que también me señale y que también me acuse esta sed de pureza postmortuoria que considero inútil, y este dolor con el que siempre quise escribir poemas y que también lo considero inútil."
 Medio Siglo (1979)
 INFO:Total sin publicar: 237
+INFO:***** ***** ***** 2025-12-08 21:17:07 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Mire usted, por ejemplo, yo esta carta
+no la he escrito en París. Estuve ahí...
+(¡Fíjese, fíjese cómo quiero dejar constancia de que estuve ahí!)
+unos seis meses, (Mentira, fue sólo mes y medio),
+pero como la pienso publicar
+me pareció elegante poner Paris."
+Medio Siglo (1979)
+INFO:Total sin publicar: 236
