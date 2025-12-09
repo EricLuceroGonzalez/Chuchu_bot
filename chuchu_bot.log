@@ -4636,3 +4636,15 @@ INFO:Creating tweet with text:
  🎯"Todo el espacio es su propia subjetividad."
  🔖Teoría del vuelo (1979).
 INFO:Total sin publicar: 234
+INFO:***** ***** ***** 2025-12-09 21:17:43 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "  Ah, ¿qué estará pasando ahora en el mundo
+sin mí? , ¿qué estará siendo de mí en el mundo
+sin mi? , ¿dónde estaré?"
+Medio Siglo (1979)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 233
