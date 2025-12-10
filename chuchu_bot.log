@@ -4655,3 +4655,10 @@ INFO:Creating tweet with text:
  🌀"Yo no estoy convencido de que existes."
  🔖Ars Amandi (1985).
 INFO:Total sin publicar: 232
+INFO:***** ***** ***** 2025-12-10 15:27:01 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "En el aliento de tu boca, en el olor de tu piel, me llega un aire antiguo preñado de contrabando para el futuro, historia humilde, clandestina, que sólo en ti tuvo confianza."
+Ars Amandi (1985)
+INFO:Total sin publicar: 231
