@@ -4685,3 +4685,14 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 229
+INFO:***** ***** ***** 2025-12-11 15:26:47 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Amor mío que me viene,
+amor tuyo que me deja.
+Contigo me estoy amando,
+te usa mi amor y te emplea
+para amarme desde ti."
+Medio Siglo (1979)
+INFO:Total sin publicar: 228
