@@ -4726,3 +4726,13 @@ INFO:Creating tweet with text:
  "Sólo oí el retumbar lejano de sus truenos y relámpagos, como los de una guerra o una fiesta remotas, o como los rumores íntimos en la habitación contigua del hotel en donde llegué de noche y partí antes de que amaneciera."
 Ars Amandi (1985)
 INFO:Total sin publicar: 225
+INFO:***** ***** ***** 2025-12-12 21:18:31 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Me pitan trenes en el sueño,
+y en la mañana encuentro, alborozado,
+barcos que de ti han llegado, cargados
+de besos como moluscos y especies olorosas."
+Medio Siglo (1979)
+INFO:Total sin publicar: 224
