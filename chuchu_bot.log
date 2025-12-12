@@ -4719,3 +4719,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 226
+INFO:***** ***** ***** 2025-12-12 15:24:11 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Sólo oí el retumbar lejano de sus truenos y relámpagos, como los de una guerra o una fiesta remotas, o como los rumores íntimos en la habitación contigua del hotel en donde llegué de noche y partí antes de que amaneciera."
+Ars Amandi (1985)
+INFO:Total sin publicar: 225
