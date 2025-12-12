@@ -4706,3 +4706,16 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 227
+INFO:***** ***** ***** 2025-12-12 02:51:42 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "El burgués quiere la dicha gratis y el dolor que no duele.
+El burgués quiere robarle al pobre hasta la pena.
+El burgués es falso y malo hasta cuando es bueno.
+La revolución le traerá al burgués llanto verdadero..."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 226
