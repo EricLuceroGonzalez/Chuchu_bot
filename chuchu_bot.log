@@ -4750,3 +4750,13 @@ INFO:Creating tweet with text:
  "Sencillamente, acepto. Yo no entiendo. Yo rehúso entender."
 Medio Siglo (1979)
 INFO:Total sin publicar: 222
+INFO:***** ***** ***** 2025-12-13 21:17:25 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Sólo me tengo a mí,
+sólo tengo este rato, este momento
+y este cigarrillo y ya mañana
+lo habré perdido todo cuando vuelva."
+Medio Siglo (1979)
+INFO:Total sin publicar: 221
