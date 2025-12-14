@@ -4760,3 +4760,13 @@ y este cigarrillo y ya mañana
 lo habré perdido todo cuando vuelva."
 Medio Siglo (1979)
 INFO:Total sin publicar: 221
+INFO:***** ***** ***** 2025-12-14 02:57:36 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 📌"Mira, estoy rodeado de luces que se encienden."
+ 📗Medio Siglo (1979).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 220
