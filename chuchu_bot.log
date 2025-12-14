@@ -4785,3 +4785,13 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 219
+INFO:***** ***** ***** 2025-12-14 21:17:53 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "El amor, por arriba, es como el ojo: necesita que su
+objeto sea claro.
+No se ama lo fofo, lo blando, lo inconsistente.
+No se ama lo turbio, lo oscuro, lo mentiroso."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Total sin publicar: 218
