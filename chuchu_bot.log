@@ -4877,3 +4877,10 @@ INFO:Creating tweet with text:
  "Voy a buscar la piedra y ella tampoco es la misma, por más que la miro ya no es la misma. Ahora hay viento ya, caen las hojas de los árboles. Seguramente este año hará un invierno frío."
 Medio Siglo (1979)
 INFO:Total sin publicar: 207
+INFO:***** ***** ***** 2025-12-18 21:17:42 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🌟"A este caballero es inútil que le hable. No le entiende."
+ 📗Medio Siglo (1979).
+INFO:Total sin publicar: 206
