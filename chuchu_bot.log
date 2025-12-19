@@ -4884,3 +4884,15 @@ INFO:Creating tweet with text:
  🌟"A este caballero es inútil que le hable. No le entiende."
  📗Medio Siglo (1979).
 INFO:Total sin publicar: 206
+INFO:***** ***** ***** 2025-12-19 02:51:59 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 💾"Cuerpo grotesco, feo, pero mío,
+que cuando estamos juntos, solitarios,
+me haces prometer que no amaré
+a ninguna mujer que te desprecie;
+y te querellas como un niño débil
+perseguido por perros y por enfermedades;"
+ 🧾Medio Siglo (1979).
+INFO:Total sin publicar: 205
