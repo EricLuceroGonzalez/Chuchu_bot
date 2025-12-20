@@ -4926,3 +4926,17 @@ INFO:Creating tweet with text:
  🌟"Vivir es lindo. De verdad. A mí me gusta."
  📓Medio Siglo (1979).
 INFO:Total sin publicar: 202
+INFO:***** ***** ***** 2025-12-20 15:19:55 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "No. No te tuve. Nos tuvimos.
+Se nos tuvo, lo teníamos, nos tenían.
+No. No te perdí. Nos perdieron.
+Lo perdimos. Se perdió.
+Te quiero. No te quiero. Nos quisimos.
+Nos querían, lo quisimos,
+tú lo quisiste y yo sigo queriéndolo.
+Vuelves, me voy. Te vas, regreso."
+Ars Amandi (1985)
+INFO:Total sin publicar: 201
