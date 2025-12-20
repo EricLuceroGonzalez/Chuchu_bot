@@ -4919,3 +4919,10 @@ INFO:Creating tweet with text:
  "Con esta voz comienzan las canciones."
 Medio Siglo (1979)
 INFO:Total sin publicar: 203
+INFO:***** ***** ***** 2025-12-20 02:43:28 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🌟"Vivir es lindo. De verdad. A mí me gusta."
+ 📓Medio Siglo (1979).
+INFO:Total sin publicar: 202
