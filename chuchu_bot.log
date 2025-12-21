@@ -4961,3 +4961,17 @@ INFO:Creating tweet with text:
  🌟"Lo importante no es el amor sino lo que con él se hace."
  📖Ideas para rodar (Aforismos bicornes) (1963).
 INFO:Total sin publicar: 198
+INFO:***** ***** ***** 2025-12-21 21:17:51 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Se llama como tú
+y su nombre es tu nombre repetido,
+mi lenguaje completo como una sola palabra larga,
+tan larga como una vida,
+y seguida de un gran silencio que también te nombrará."
+Medio Siglo (1979)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 197
