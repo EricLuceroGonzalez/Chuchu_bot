@@ -5008,3 +5008,10 @@ INFO:Creating tweet with text:
  "El rico compadece al pobre, el pobre padece al rico."
 Ideas para rodar (Aforismos bicornes) (1963)
 INFO:Total sin publicar: 193
+INFO:***** ***** ***** 2025-12-23 15:23:39 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 📌"El hombre que siente (vive) en un mundo, y piensa en otro (idealismo), está roto por dentro, fraccionado, quebrado. Tiene dos caras y es, por definición, hipócrita."
+ 📓Ideas para rodar (Aforismos bicornes) (1963).
+INFO:Total sin publicar: 192
