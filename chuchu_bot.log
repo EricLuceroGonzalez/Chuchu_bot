@@ -5043,3 +5043,13 @@ INFO:Creating tweet with text:
  "Y toda mi vida, de punta a punta, se convoca y se congrega frente a ti para unánimemente amarte y que no exista nada ni antes ni después de ti."
 Ars Amandi (1985)
 INFO:Total sin publicar: 188
+INFO:***** ***** ***** 2025-12-25 02:54:43 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Porque no soy sino esta máscara dura apretándome el alma, este rostro que fuma, indiferente, pálido, este punto de vista inmóvil fuera del tiempo y de la vida, esta mirada sin parpadear y seca."
+Medio Siglo (1979)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 187
