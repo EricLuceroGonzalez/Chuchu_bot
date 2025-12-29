@@ -5120,3 +5120,13 @@ INFO:Creating tweet with text:
  🌀"más que deshechos y sobras que hasta el tiempo ha despreciado. El resto fue destazado, a fuego lento cocido,"
  📗Ars Amandi (1985).
 INFO:Total sin publicar: 178
+INFO:***** ***** ***** 2025-12-29 15:24:18 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "El amor, por arriba, es como el ojo: necesita que su objeto sea claro."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 177
