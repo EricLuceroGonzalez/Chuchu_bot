@@ -5130,3 +5130,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 177
+INFO:***** ***** ***** 2025-12-30 02:55:32 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "piensas que Dios escribió el mundo, y además, en clave. Tú, infeliz, quieres descifrar a tu mujer, descifrar el vaso de agua que te bebes, descifrar el hijo, el paisaje que miras, la muerte que te espera."
+Medio Siglo (1979)
+INFO:Total sin publicar: 176
