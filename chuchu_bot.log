@@ -5144,3 +5144,15 @@ INFO:Creating tweet with text:
  "Y yo quisiera responderte para que no estés tan sola. Porque si supieras que no lo sé, que ni siquiera yo lo sé, en quien tanta confianza tienes, el miedo, que ya te acecha, te haría una presa fácil como una vela en la noche."
 Ars Amandi (1985)
 INFO:Total sin publicar: 175
+INFO:***** ***** ***** 2025-12-31 02:54:29 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Se me ha podrido el corazón de tanto 
+quererte, odiarte, verte y de no verte, 
+y tanta pena, Lisi, tanto llanto."
+Medio Siglo (1979)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 174
