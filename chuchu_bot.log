@@ -5156,3 +5156,15 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 174
+INFO:***** ***** ***** 2026-01-01 03:07:08 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Voy a llevarme el cuerpo.
+Voy a llevarme el alma.
+Voy a dejarte solo.
+Así nadie te verá, José, por estos campos.
+Astro puro en el espacio, sensación amplia sin orillas,
+eres un instante rescatado al tiempo, eterno."
+Medio Siglo (1979)
+INFO:Total sin publicar: 173
