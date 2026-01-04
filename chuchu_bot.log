@@ -5198,3 +5198,13 @@ INFO:Creating tweet with text:
  "¿Pero alguien ha visto alguna vez lo lindo que es el color rojo, quiero decir, el color rojo, el mismo color rojo, y no la sangre que significa? ¿Alguien se ha comido un pan, quiero decir, un pan? ¿Ha visto un perro? ¿Es que alguien ha visto algo?"
 Medio Siglo (1979)
 INFO:Total sin publicar: 170
+INFO:***** ***** ***** 2026-01-04 03:08:08 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 📌"Procuro otros recuerdos de qué asirme
+sobre este mar de luz, de esta razón,
+donde entre pulso y tiempo y olas peno;
+mas has de irte al fin, y he de morirme,"
+ 📓Medio Siglo (1979).
+INFO:Total sin publicar: 169
