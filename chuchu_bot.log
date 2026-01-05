@@ -5229,3 +5229,15 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 167
+INFO:***** ***** ***** 2026-01-05 21:20:57 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 📌"Oh, tú, allende el mar.
+¿Lo oyes? ¿Lo oyes cómo brama?
+Me empuja, me rechaza, me moja las orillas del alma
+y te presto mi cuerpo, porque el cuerpo
+es el solo alimento del sueño y del recuerdo
+y la sola cuchara de la vida."
+ 🧾Medio Siglo (1979).
+INFO:Total sin publicar: 166
