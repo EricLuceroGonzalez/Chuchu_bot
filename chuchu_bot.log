@@ -5248,3 +5248,15 @@ INFO:Creating tweet with text:
  "La inteligencia del rico, demasiado sutil y vacía, nunca ha podido ni siquiera tocarla."
 Ideas para rodar (Aforismos bicornes) (1963)
 INFO:Total sin publicar: 165
+INFO:***** ***** ***** 2026-01-06 15:24:58 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Ni el futuro, libre, nuevo,
+llega de culpa inocente,
+te llega elegido ya
+y es la elección de lo que eres;
+no eliges lo que serás
+pero a ti sí, libremente."
+Medio Siglo (1979)
+INFO:Total sin publicar: 164
