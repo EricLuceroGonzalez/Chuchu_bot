@@ -5267,3 +5267,12 @@ INFO:Creating tweet with text:
  "Bueno, pues, José, adiós. Dichoso tú. Pórtate bien. Recuerda mi advertencia y publícame este libro para que lo lean todos los que soy y me conozcan y me encuentren."
 Medio Siglo (1979)
 INFO:Total sin publicar: 163
+INFO:***** ***** ***** 2026-01-07 21:20:07 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Fui yo quien empujó estas piedras, 
+fui yo quien las trajo de lejos, con un gran esfuerzo 
+pero también con una voluntad joven y recia, cocida."
+Medio Siglo (1979)
+INFO:Total sin publicar: 162
