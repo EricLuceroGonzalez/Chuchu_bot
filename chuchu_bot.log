@@ -5304,3 +5304,10 @@ INFO:Creating tweet with text:
  "El piloto sólo debe registrar las novedades de ese nuevo ser en el que está."
 Teoría del vuelo (1979)
 INFO:Total sin publicar: 158
+INFO:***** ***** ***** 2026-01-09 15:26:16 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🎞️"culiar, vivir y beber cuanto la vida depara. En todas partes, tu cara, y si no es tuya la anulo."
+ 📗Ars Amandi (1985).
+INFO:Total sin publicar: 157
