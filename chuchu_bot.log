@@ -5360,3 +5360,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 152
+INFO:***** ***** ***** 2026-01-11 15:21:42 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "La reflexión de la clase que no trabaja hizo la ciencia. El resentimiento de la clase que trabaja hace la revolución."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Total sin publicar: 151
