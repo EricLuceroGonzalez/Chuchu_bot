@@ -5346,3 +5346,17 @@ INFO:Creating tweet with text:
  "Dios no es necesario ni siquiera para la religión."
 Ideas para rodar (Aforismos bicornes) (1963)
 INFO:Total sin publicar: 153
+INFO:***** ***** ***** 2026-01-11 03:07:44 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Alfonso:
+Están tocando un blues. Hay un arbusto,
+un perro, un carro y sobre todo el blues
+que llega y no se va. Y eso es todo cuanto hay.
+Alfonso, eso es todo cuanto hay. Alfonso, ya no hay más."
+Medio Siglo (1979)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 152
