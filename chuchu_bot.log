@@ -5367,3 +5367,10 @@ INFO:Creating tweet with text:
  "La reflexión de la clase que no trabaja hizo la ciencia. El resentimiento de la clase que trabaja hace la revolución."
 Ideas para rodar (Aforismos bicornes) (1963)
 INFO:Total sin publicar: 151
+INFO:***** ***** ***** 2026-01-11 21:18:36 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🎞️"[El amor] Tiene, posee; no se tiene, no se posee."
+ 📓Ideas para rodar (Aforismos bicornes) (1963).
+INFO:Total sin publicar: 150
