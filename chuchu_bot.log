@@ -5391,3 +5391,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 148
+INFO:***** ***** ***** 2026-01-12 21:21:05 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "La espiritualidad también es un atributo de la materia."
+Teoría del vuelo (1979)
+INFO:Total sin publicar: 147
