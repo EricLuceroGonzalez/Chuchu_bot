@@ -5381,3 +5381,13 @@ INFO:Creating tweet with text:
  "Proponerse amar es como proponerse proponerse."
 Ideas para rodar (Aforismos bicornes) (1963)
 INFO:Total sin publicar: 149
+INFO:***** ***** ***** 2026-01-12 15:27:32 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Y yo también. Ya no te cabe duda. Yo también existía. Yo también, anoche, era Dios. Dios contra Dios, ¿recuerdas? No lo olvides. Sobre todo a la hora de morirte, no lo olvides. Tú no estás sola."
+Medio Siglo (1979)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 148
