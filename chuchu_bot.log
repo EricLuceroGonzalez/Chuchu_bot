@@ -5408,3 +5408,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 146
+INFO:***** ***** ***** 2026-01-13 15:27:25 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🎞️"¡Qué solo, contigo, amada! ¡Qué soledad más contigo! ¡Amor, tú aquí, qué lejana! ¡Amor, qué lejos conmigo!"
+ 📝Amor No A Ti, Contigo (1965).
+INFO:Total sin publicar: 145
