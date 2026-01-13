@@ -5398,3 +5398,13 @@ INFO:Creating tweet with text:
  "La espiritualidad también es un atributo de la materia."
 Teoría del vuelo (1979)
 INFO:Total sin publicar: 147
+INFO:***** ***** ***** 2026-01-13 02:55:56 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 👀"El pueblo no se equivoca nunca. Puede no tener razón, pero tiene hambre."
+ 👓Ideas para rodar (Aforismos bicornes) (1963).
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 146
