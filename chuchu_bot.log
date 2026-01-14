@@ -5439,3 +5439,15 @@ INFO:Creating tweet with text:
  🎯"Con sólo tu nombre y un poco de silencio podría construir un lenguaje completo; todos los verbos, todas las palabras, todos los poemas, todo el silencio, toda la música, todos los ruidos del mar."
  🧾Medio Siglo (1979).
 INFO:Total sin publicar: 142
+INFO:***** ***** ***** 2026-01-14 21:21:48 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Atiende, es importante que nos acostemos juntos.
+Dicen que Dios existe. Dicen cosas.
+Hablan de deportes, de negocios,
+amor, hablan de arte,
+y a lo mejor es cierto, a lo mejor
+allí podría ser. ¿Entiendes?"
+Medio Siglo (1979)
+INFO:Total sin publicar: 141
