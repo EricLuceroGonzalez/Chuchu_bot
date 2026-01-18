@@ -5540,3 +5540,15 @@ INFO:Creating tweet with text:
  "Sigan la flecha, el signo. Todos en orden, en fila, trépense al día. No hay razón para el pánico. Vamos a abandonar esta ciudad, esa mujer, ese trabajo, ese cuerpo, esa edad, esa costumbre, la geometría euclidcana."
 Medio Siglo (1979)
 INFO:Total sin publicar: 131
+INFO:***** ***** ***** 2026-01-18 21:18:45 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Alguien, en todo caso, caído en la desgracia,
+con pánico en lo abierto, me golpea,
+toca en mi corazón, se agarra de mis huesos,
+me sacude,
+me llora, me suplica que le abra...
+"
+Medio Siglo (1979)
+INFO:Total sin publicar: 130
