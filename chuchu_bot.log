@@ -5533,3 +5533,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 132
+INFO:***** ***** ***** 2026-01-18 15:20:56 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Sigan la flecha, el signo. Todos en orden, en fila, trépense al día. No hay razón para el pánico. Vamos a abandonar esta ciudad, esa mujer, ese trabajo, ese cuerpo, esa edad, esa costumbre, la geometría euclidcana."
+Medio Siglo (1979)
+INFO:Total sin publicar: 131
