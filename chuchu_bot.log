@@ -5667,3 +5667,16 @@ INFO:Creating tweet with text:
  "Aquí, a 8000 pies, sería fácil hacer un inventario de lo que realmente soy."
 Teoría del vuelo (1979)
 INFO:Total sin publicar: 115
+INFO:***** ***** ***** 2026-01-24 02:54:10 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "El amor hace, no se hace.
+Siente, no se siente.
+Tiene, posee; no se tiene, no se posee.
+Piensa, no se piensa.
+No se tiene amor, se lo es.
+El amor es sujeto, no objeto.
+Amar es una manera de ser."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Total sin publicar: 114
