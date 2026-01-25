@@ -5708,3 +5708,10 @@ INFO:Creating tweet with text:
  "El avión se ha despojado ya de nuestra servidumbre y se convierte en un compañero celoso."
 Teoría del vuelo (1979)
 INFO:Total sin publicar: 110
+INFO:***** ***** ***** 2026-01-25 21:19:08 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ ".No hay ni ponte calcetines limpios para hoy que tanto amaba sin saberlo. Y tú que dizque te amo y para qué decirlo si lo sabes, amaneciendo ahora en otro día sin seguramente ¿dónde estará José?, ¿habrá desayunado?"
+Medio Siglo (1979)
+INFO:Total sin publicar: 109
