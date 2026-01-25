@@ -5701,3 +5701,10 @@ INFO:Creating tweet with text:
  "¿Qué quedaría de mí si me quitaran el empleo, el nombre, el cuerpo, los intereses?"
 Teoría del vuelo (1979)
 INFO:Total sin publicar: 111
+INFO:***** ***** ***** 2026-01-25 15:21:53 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "El avión se ha despojado ya de nuestra servidumbre y se convierte en un compañero celoso."
+Teoría del vuelo (1979)
+INFO:Total sin publicar: 110
