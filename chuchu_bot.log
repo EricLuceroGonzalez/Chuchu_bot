@@ -5715,3 +5715,13 @@ INFO:Creating tweet with text:
  ".No hay ni ponte calcetines limpios para hoy que tanto amaba sin saberlo. Y tú que dizque te amo y para qué decirlo si lo sabes, amaneciendo ahora en otro día sin seguramente ¿dónde estará José?, ¿habrá desayunado?"
 Medio Siglo (1979)
 INFO:Total sin publicar: 109
+INFO:***** ***** ***** 2026-01-26 03:12:32 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Para decir que llueve, tu nombre tres veces."
+Medio Siglo (1979)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 108
