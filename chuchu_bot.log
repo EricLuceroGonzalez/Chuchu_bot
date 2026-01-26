@@ -5725,3 +5725,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 108
+INFO:***** ***** ***** 2026-01-26 15:31:04 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Lo honrado es golpear el mundo, no uno mismo."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Total sin publicar: 107
