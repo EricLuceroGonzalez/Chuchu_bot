@@ -5753,3 +5753,14 @@ INFO:Creating tweet with text:
  "Abrazo tu historia entera, completa mi historia tienes."
 Amor No A Ti, Contigo (1965)
 INFO:Total sin publicar: 104
+INFO:***** ***** ***** 2026-01-27 21:18:17 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "En el avión hemos de ser por fuerza justos.
+Hasta con el detalle más insignificante y la voz
+más tímida. Todos los movimientos del piloto
+han de ser llevados a cabo con mucha
+suavidad..."
+Teoría del vuelo (1979)
+INFO:Total sin publicar: 103
