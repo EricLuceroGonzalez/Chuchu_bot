@@ -5785,3 +5785,13 @@ INFO:Creating tweet with text:
  "El rico predica el amor para ocultar su miedo."
 Ideas para rodar (Aforismos bicornes) (1963)
 INFO:Total sin publicar: 101
+INFO:***** ***** ***** 2026-01-28 21:29:03 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Tu cuerpo es como una mesa dispuesta para un banquete llena de viandas, de frutos, de vinos, panes y mieles. Tu cuerpo es como un altar dispuesto para el rito, la devoción, el silencio, la comunión, el sacrificio."
+Ars Amandi (1985)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 100
