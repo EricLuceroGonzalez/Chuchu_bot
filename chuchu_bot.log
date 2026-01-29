@@ -5795,3 +5795,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 100
+INFO:***** ***** ***** 2026-01-29 03:26:04 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "El verdadero amor no se estudia, se practica."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Total sin publicar: 99
