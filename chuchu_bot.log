@@ -5832,3 +5832,10 @@ INFO:Creating tweet with text:
  "Aunque eso dure poco, aunque eso dure poco."
 Medio Siglo (1979)
 INFO:Total sin publicar: 95
+INFO:***** ***** ***** 2026-01-30 21:27:55 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 📌"Con esta escoba se inicia la limpieza."
+ 🧾Medio Siglo (1979).
+INFO:Total sin publicar: 94
