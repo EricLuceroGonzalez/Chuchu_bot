@@ -5869,3 +5869,13 @@ INFO:Creating tweet with text:
 a decírmelo?"
 Medio Siglo (1979)
 INFO:Total sin publicar: 90
+INFO:***** ***** ***** 2026-02-01 15:26:48 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🌀"La majestuosa piedra, la enorme y majestuosa piedra,
+humildemente se calzaba el oficio de ser signo,
+de no pedir atención para sí, de desviarte la mirada
+al sol o a aquello que en definitiva señalaban y que yo ya no recuerdo..."
+ 📚Medio Siglo (1979).
+INFO:Total sin publicar: 89
