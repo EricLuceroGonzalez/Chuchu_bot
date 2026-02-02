@@ -5899,3 +5899,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 87
+INFO:***** ***** ***** 2026-02-02 15:38:19 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Teñiste de tu alma el mundo y mi amor le ha trascendido."
+Amor No A Ti, Contigo (1965)
+INFO:Total sin publicar: 86
