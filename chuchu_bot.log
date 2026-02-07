@@ -6017,3 +6017,13 @@ INFO:Creating tweet with text:
  "Se me ha acabado la cuerda y el alma se me ha acabado. Llego a la muerte cansado, hecho polvo, espanto y mierda."
 Ars Amandi (1985)
 INFO:Total sin publicar: 74
+INFO:***** ***** ***** 2026-02-07 15:27:25 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Con mi mismo amor me amas, con mi pasión y mi fuerza, pero contigo y tu cuerpo y con toda tu belleza."
+Amor No A Ti, Contigo (1965)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 73
