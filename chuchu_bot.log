@@ -6027,3 +6027,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 73
+INFO:***** ***** ***** 2026-02-07 21:26:38 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "El amor no es una cosa, sino una manera de hacer las cosas."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Total sin publicar: 72
