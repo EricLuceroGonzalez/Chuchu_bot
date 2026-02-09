@@ -6073,3 +6073,10 @@ INFO:Creating tweet with text:
  "Heme aquí, pues, dependiendo, colgando de esos seres mezquinos que he sido que soy y que seré."
 Medio Siglo (1979)
 INFO:Total sin publicar: 67
+INFO:***** ***** ***** 2026-02-09 21:38:28 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 🎯"Esta fineza del piloto pone aún más de manifiesto la torpeza del avión."
+ 📕Teoría del vuelo (1979).
+INFO:Total sin publicar: 66
