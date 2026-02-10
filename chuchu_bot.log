@@ -6080,3 +6080,15 @@ INFO:Creating tweet with text:
  🎯"Esta fineza del piloto pone aún más de manifiesto la torpeza del avión."
  📕Teoría del vuelo (1979).
 INFO:Total sin publicar: 66
+INFO:***** ***** ***** 2026-02-10 03:49:42 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 📌"Dejo esta nota aquí sobre la mesa
+por si vengo después de haberme ido,
+por si vengo después de haberme muerto
+y ya no esté.
+Yo estuve aquí, necesité de mí,
+me sentía mal, estaba solo."
+ 🧾Medio Siglo (1979).
+INFO:Total sin publicar: 65
