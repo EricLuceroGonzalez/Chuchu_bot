@@ -6109,3 +6109,17 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 63
+INFO:***** ***** ***** 2026-02-11 16:03:15 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "¡Mira lo que ha sucedido
+por dejar los cuerpos solos!
+Míralos cómo se trenzan,
+cómo el amor y el insomnio,
+sin alma, sin pensamiento,
+los revuelca sobre el fondo,
+los tortura en carne y hueso
+conociéndose a su modo."
+Medio Siglo (1979)
+INFO:Total sin publicar: 62
