@@ -6099,3 +6099,13 @@ INFO:Creating tweet with text:
  🎞️"Compadecer es cómodo, pero inmoral."
  📚Ideas para rodar (Aforismos bicornes) (1963).
 INFO:Total sin publicar: 64
+INFO:***** ***** ***** 2026-02-11 03:47:05 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Despiértela si duerme, eso no importa."
+Medio Siglo (1979)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 63
