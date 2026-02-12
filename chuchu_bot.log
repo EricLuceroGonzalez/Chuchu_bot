@@ -6133,3 +6133,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 61
+INFO:***** ***** ***** 2026-02-12 03:42:22 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "La caridad es una forma sutil y perversa de justificar el robo."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Total sin publicar: 60
