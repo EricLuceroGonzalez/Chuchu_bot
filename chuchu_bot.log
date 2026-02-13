@@ -6165,3 +6165,18 @@ INFO:Creating tweet with text:
  🎯"El menor hipo del motor es un grito que brinca al cuello del corazón."
  🔖Teoría del vuelo (1979).
 INFO:Total sin publicar: 57
+INFO:***** ***** ***** 2026-02-13 15:42:52 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Aquí están las cosas.
+Aquí estamos todos.
+La hora llegó puntual;
+desde hace siglos venía para acá.
+Llegó el viento, atrasado.
+Aquí estamos todos.
+Esperando. A mí quizás.
+Esperándome. No llego.
+Me impaciento.."
+Medio Siglo (1979)
+INFO:Total sin publicar: 56
