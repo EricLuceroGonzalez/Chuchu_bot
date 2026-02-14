@@ -6190,3 +6190,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 55
+INFO:***** ***** ***** 2026-02-14 03:27:35 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "me han dejado de esta suerte, despreciaron estas migas: restos para las hormigas y mierda para la muerte."
+Ars Amandi (1985)
+INFO:Total sin publicar: 54
