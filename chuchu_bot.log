@@ -6221,3 +6221,15 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 52
+INFO:***** ***** ***** 2026-02-15 03:41:20 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Pregúntale qué quiere,
+si ha vuelto sólo a verte
+o si lo mandan a buscarme.
+Pregúntale que a dónde.
+No. No le preguntes eso.
+No le preguntes nada."
+Medio Siglo (1979)
+INFO:Total sin publicar: 51
