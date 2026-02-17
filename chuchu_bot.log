@@ -6290,3 +6290,17 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 45
+INFO:***** ***** ***** 2026-02-17 21:35:52 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Hemos huido del cuerpo,
+nos fugamos por los ojos,
+por lo alto en los pensamientos
+y en los sueños por lo hondo.
+Nos hemos abandonado.
+Nos quedamos sin nosotros.
+Y nos vemos, nos oímos,
+te avergüenzas, me abochorno."
+Medio Siglo (1979)
+INFO:Total sin publicar: 44
