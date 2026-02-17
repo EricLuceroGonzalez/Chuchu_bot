@@ -6280,3 +6280,13 @@ INFO:Creating tweet with text:
  "Tú dices, eso es fácil, y me señalas con el dedo un gato."
 Medio Siglo (1979)
 INFO:Total sin publicar: 46
+INFO:***** ***** ***** 2026-02-17 15:54:00 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Te he escrito estos versos para que otros puedan amar en otras a ti. Para poder seguir amándote después de muerto."
+Ars Amandi (1985)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 45
