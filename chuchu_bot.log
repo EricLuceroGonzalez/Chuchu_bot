@@ -6311,3 +6311,14 @@ INFO:Creating tweet with text:
  "Probablemente es eso lo que todo el mundo tiene."
 Medio Siglo (1979)
 INFO:Total sin publicar: 43
+INFO:***** ***** ***** 2026-02-18 15:53:55 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Alfonso:
+Están tocando un blues. Hay un arbusto,
+un perro, un carro y sobre todo el blues
+que llega y no se va. Y eso es todo cuanto hay.
+Alfonso, eso es todo cuanto hay. Alfonso, ya no hay más."
+Medio Siglo (1979)
+INFO:Total sin publicar: 42
