@@ -6368,3 +6368,15 @@ INFO:Creating tweet with text:
  "Yo no podría amarte si yo no fuera comunista."
 Ars Amandi (1985)
 INFO:Total sin publicar: 36
+INFO:***** ***** ***** 2026-02-20 21:25:18 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "te patearán tus pies y tus dos manos
+te sacarán, igual que de un costal,
+del cuerpo, esa república pequeña
+que no supiste gobernar; serás
+como el pequeño dictador la noche
+de la revolución de los esclavos."
+Medio Siglo (1979)
+INFO:Total sin publicar: 35
