@@ -6394,3 +6394,10 @@ INFO:Creating tweet with text:
  "Pero tampoco hay nadie más, y eso es extraño."
 Medio Siglo (1979)
 INFO:Total sin publicar: 33
+INFO:***** ***** ***** 2026-02-21 21:23:50 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "La reflexión de la clase que no trabaja hizo la ciencia."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Total sin publicar: 32
