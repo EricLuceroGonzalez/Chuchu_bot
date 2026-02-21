@@ -6387,3 +6387,10 @@ INFO:Creating tweet with text:
  "¿Cómo quieres que te quiera con lo poco que ha dejado tanto diente despiadado sobre aquello que yo era?"
 Ars Amandi (1985)
 INFO:Total sin publicar: 34
+INFO:***** ***** ***** 2026-02-21 15:27:02 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Pero tampoco hay nadie más, y eso es extraño."
+Medio Siglo (1979)
+INFO:Total sin publicar: 33
