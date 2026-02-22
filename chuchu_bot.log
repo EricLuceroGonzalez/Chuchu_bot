@@ -6425,3 +6425,14 @@ INFO:Creating tweet with text:
  "O eso, o ser geniales y honrados. Ya no hay otro camino."
 Medio Siglo (1979)
 INFO:Total sin publicar: 30
+INFO:***** ***** ***** 2026-02-22 21:24:36 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Les dirás que te roben un dinero
+y te abofetearán en las mejillas;
+les dirás que te pongan en la boca
+el cigarrillo y quemarán tus ojos;
+les dirás que se agarren del balcón"
+Medio Siglo (1979)
+INFO:Total sin publicar: 29
