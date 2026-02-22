@@ -6401,3 +6401,20 @@ INFO:Creating tweet with text:
  "La reflexión de la clase que no trabaja hizo la ciencia."
 Ideas para rodar (Aforismos bicornes) (1963)
 INFO:Total sin publicar: 32
+INFO:***** ***** ***** 2026-02-22 03:35:39 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "No queda más remedio que apretarnos
+la faja y ser geniales...
+O eso, o conformarnos
+con marcar el reloj de la oficina
+viviendo a crédito y muriendo gratis
+y en todo caso hacerse miembro del Partido
+Demócrata-cristiano.
+O eso, o ser geniales y honrados."
+Medio Siglo (1979)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 31
