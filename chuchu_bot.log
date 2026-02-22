@@ -6418,3 +6418,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 31
+INFO:***** ***** ***** 2026-02-22 15:27:14 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "O eso, o ser geniales y honrados. Ya no hay otro camino."
+Medio Siglo (1979)
+INFO:Total sin publicar: 30
