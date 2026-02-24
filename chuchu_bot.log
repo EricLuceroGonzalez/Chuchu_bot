@@ -6464,3 +6464,10 @@ INFO:Creating tweet with text:
  "Sentí que quien faltaba en el mundo era mi padre. Ese dolor ya no me ha abandonado."
 Teoría del vuelo (1979)
 INFO:Total sin publicar: 26
+INFO:***** ***** ***** 2026-02-24 03:35:30 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Tampoco gasto mi tristeza, yo la ahorro."
+Medio Siglo (1979)
+INFO:Total sin publicar: 25
