@@ -6471,3 +6471,16 @@ INFO:Creating tweet with text:
  "Tampoco gasto mi tristeza, yo la ahorro."
 Medio Siglo (1979)
 INFO:Total sin publicar: 25
+INFO:***** ***** ***** 2026-02-24 15:59:46 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Yo ahorré en el banco del cielo.
+ —Los curas se lo robaron todo.
+ Me vendieron el puente de Brooklyn.
+ —Los curas se lo robaron todo.
+ El casero me timó.
+ —Los comerciantes se lo robaron todo.
+ Me hicieron trampa en la subasta."
+Medio Siglo (1979)
+INFO:Total sin publicar: 24
