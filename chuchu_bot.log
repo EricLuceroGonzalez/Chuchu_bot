@@ -6505,3 +6505,13 @@ INFO:Creating tweet with text:
  "La grandeza del amor se mide hacia abajo, no hacia arriba."
 Ideas para rodar (Aforismos bicornes) (1963)
 INFO:Total sin publicar: 21
+INFO:***** ***** ***** 2026-02-26 15:54:23 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "La idea del pan puede aplacar sólo a la idea del hambre, no al hambre misma. (Kant, paráfrasis)."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 20
