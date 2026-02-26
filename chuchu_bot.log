@@ -6515,3 +6515,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 20
+INFO:***** ***** ***** 2026-02-26 21:32:24 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ 📌"Me resto, me quito, me ahorro, me sumo..."
+ 📖Medio Siglo (1979).
+INFO:Total sin publicar: 19
