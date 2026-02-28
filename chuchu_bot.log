@@ -6569,3 +6569,10 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 14
+INFO:***** ***** ***** 2026-02-28 21:20:26 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Recordándote, pasándote inventario..."
+Medio Siglo (1979)
+INFO:Total sin publicar: 13
