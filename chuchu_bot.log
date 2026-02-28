@@ -6552,3 +6552,10 @@ INFO:Creating tweet with text:
  "Con una mano, un pie, con eso basta."
 Medio Siglo (1979)
 INFO:Total sin publicar: 16
+INFO:***** ***** ***** 2026-02-28 03:08:58 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "El amor íntegro y culto no tiene piezas: es una sola mirada que toca y aprieta, o una sola mano que ve e inspecciona."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Total sin publicar: 15
