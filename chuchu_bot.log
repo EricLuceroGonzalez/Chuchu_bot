@@ -6559,3 +6559,13 @@ INFO:Creating tweet with text:
  "El amor íntegro y culto no tiene piezas: es una sola mirada que toca y aprieta, o una sola mano que ve e inspecciona."
 Ideas para rodar (Aforismos bicornes) (1963)
 INFO:Total sin publicar: 15
+INFO:***** ***** ***** 2026-02-28 15:24:13 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Sólo puede haber caridad si hay a quienes les sobre y a quienes les falte."
+Ideas para rodar (Aforismos bicornes) (1963)
+INFO:Downloading image from Cloud..
+INFO:Uploading image to Twitter...
+INFO:Temporary image file removed.
+INFO:Total sin publicar: 14
