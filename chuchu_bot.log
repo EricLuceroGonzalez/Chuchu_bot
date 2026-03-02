@@ -6586,3 +6586,14 @@ INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
 INFO:Total sin publicar: 12
+INFO:***** ***** ***** 2026-03-02 03:29:47 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "—Déjenlo ya, está loco. Vámonos.
+Nos deja el tren, la chiva,
+nos deja el tiempo, la mujer, nos botan del trabajo.
+Es un bandido, mírenlo,
+¡ahora se ha sentado!"
+Medio Siglo (1979)
+INFO:Total sin publicar: 11
