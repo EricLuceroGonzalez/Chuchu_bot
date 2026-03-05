@@ -6672,3 +6672,15 @@ INFO:Creating tweet with text:
  "Todos los hombres sabrían que para todos alcanza."
 Amor No A Ti, Contigo (1965)
 INFO:Total sin publicar: 3
+INFO:***** ***** ***** 2026-03-05 03:28:26 ***** ***** *****
+INFO:Connected to db successfully!
+INFO:Connected to Twitter successfully!
+INFO:Creating tweet with text:
+ "Este es el ser que tú debes amar,
+perdón, que usted, señor Martínez, debe amar.
+Es éste el que se está muriendo,
+el que le da vergüenza ir a empeñar,
+el que es preciso salvar a toda costa
+y el que siente unas ganas dentadas de morirse"
+Medio Siglo (1979)
+INFO:Total sin publicar: 2
