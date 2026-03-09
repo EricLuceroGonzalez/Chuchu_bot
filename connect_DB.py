@@ -15,6 +15,7 @@ def get_mongo_collection():
     try:
         client = pymongo.MongoClient(uri)
         logging.info("Connected to db successfully!")
+        print("Connected to db successfully!")
         db = client["Bots"]
         collection = db["Chuchu"]
         return collection

@@ -4343,6 +4343,7 @@ Amor No A Ti, Contigo (1965)
 INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
+<<<<<<< HEAD
 INFO:Total sin publicar: 266
 INFO:***** ***** ***** 2025-11-29 02:40:07 ***** ***** *****
 INFO:Connected to db successfully!
@@ -6701,3 +6702,6 @@ INFO:Creating tweet with text:
  "El cielo es mi subjetividad. El tiempo son pirañas que me decoran."
 Teoría del vuelo (1979)
 INFO:Total sin publicar: 0
+=======
+INFO:Total sin publicar: 266
+>>>>>>> 8351989 ((fix): Update the item selection from db, now can publish the True items, and adds one to the enviado atributte)
