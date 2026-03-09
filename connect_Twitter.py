@@ -43,10 +43,6 @@ def connect_to_twitter():
 
         api = tweepy.API(auth)
         logging.info("Connected to Twitter successfully!")
-        print("Connected to Twitter successfully!")
         return client, api
     except tweepy.errors.TweepyException as e:
         logging.error(f"Tweepy error on: {e}")
-
-
-connect_to_twitter()

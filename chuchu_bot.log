@@ -4343,7 +4343,6 @@ Amor No A Ti, Contigo (1965)
 INFO:Downloading image from Cloud..
 INFO:Uploading image to Twitter...
 INFO:Temporary image file removed.
-<<<<<<< HEAD
 INFO:Total sin publicar: 266
 INFO:***** ***** ***** 2025-11-29 02:40:07 ***** ***** *****
 INFO:Connected to db successfully!
@@ -6702,6 +6701,17 @@ INFO:Creating tweet with text:
  "El cielo es mi subjetividad. El tiempo son pirañas que me decoran."
 Teoría del vuelo (1979)
 INFO:Total sin publicar: 0
-=======
-INFO:Total sin publicar: 266
->>>>>>> 8351989 ((fix): Update the item selection from db, now can publish the True items, and adds one to the enviado atributte)
+2026-03-09 13:01:30,877 - INFO - ***** ***** ***** 2026-03-09 13:01:30 ***** ***** *****
+2026-03-09 13:01:30,878 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-03-09 13:01:31,036 - INFO - Connected to db successfully!
+2026-03-09 13:01:31,037 - INFO - Connected to Twitter successfully!
+2026-03-09 13:01:31,037 - INFO - Iniciando búsqueda de tuit...
+2026-03-09 13:01:32,553 - INFO - Candidato hallado: ID 68472571d46fb54fd972c5df | Intentos: 1
+2026-03-09 13:01:32,553 - INFO - ✅ Tuit válido: Ábrame usted su frente pensando en prima...
+2026-03-09 13:01:32,553 - INFO - Creating tweet with text:
+ "Ábrame usted su frente pensando en primaveras
+y en cosas así de tristes y de lejos,
+y ya le diré al oído lo que podemos hacer juntos
+por este nombre que hemos heredado."
+Medio Siglo (1979)
+2026-03-09 13:01:33,266 - INFO - --- FIN DE LA EJECUCIÓN ---
