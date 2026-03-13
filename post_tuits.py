@@ -14,9 +14,7 @@ logging.basicConfig(
     level=logging.INFO,
     handlers=[
         logging.FileHandler(log_file, encoding="utf-8"),
-        logging.StreamHandler(
-            sys.stdout
-        ),  # <--- ESTO hará que lo veas en la consola también
+        logging.StreamHandler(sys.stdout),
     ],
 )
 logger = logging.getLogger(__name__)
@@ -24,8 +22,8 @@ today = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 logger.info(f"***** ***** ***** {today} ***** ***** *****")
 
 
-def get_one_document(collection, x_client, x_api):  # Añade los parámetros aquí
-    logger.info("Iniciando búsqueda de tuit...")  # Para saber que la función arrancó
+def get_one_document(collection, x_client, x_api):
+    logger.info("Iniciando búsqueda de tuit...")
     intentos = 0
     max_intentos = 10
 
