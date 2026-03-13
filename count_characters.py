@@ -27,6 +27,3 @@ print(df)
 print(f"por cortar: {len(results)}")
 for item in near_limit:
     print(item)
-
-
-# Look for: \s*\n\s* and replace by: \\n
