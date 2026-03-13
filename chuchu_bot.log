@@ -6889,3 +6889,20 @@ Medio Siglo (1979)
  "Con este amor agitado que sin embargo no cansa, que tiene el peso al revés y aplastándonos nos alza."
 Amor No A Ti, Contigo (1965)
 2026-03-13 15:43:41,849 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-03-13 21:33:01,480 - INFO - ***** ***** ***** 2026-03-13 21:33:01 ***** ***** *****
+2026-03-13 21:33:01,480 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-03-13 21:33:02,034 - INFO - Connected to db successfully!
+2026-03-13 21:33:02,034 - INFO - Connected to Twitter successfully!
+2026-03-13 21:33:02,034 - INFO - Iniciando búsqueda de tuit...
+2026-03-13 21:33:02,310 - INFO - Candidato hallado: ID 68472578d46fb54fd972c605 | Intentos: 1
+2026-03-13 21:33:02,310 - INFO - ✅ Tuit válido: Nos vamos a morir sin darnos cuenta,
+sin...
+2026-03-13 21:33:02,310 - INFO - Creating tweet with text:
+ "Nos vamos a morir sin darnos cuenta,
+sin haber existido, el mundo se va a ir, lo van a ahogar,
+sin haberlo nosotros conocido, estrujado,
+comprobado.
+Y ahora te pregunto: ¿Cómo quieres que lo toque?
+¿Con qué mano, con qué alma sólida, apretada?"
+Medio Siglo (1979)
+2026-03-13 21:33:02,564 - INFO - --- FIN DE LA EJECUCIÓN ---
