@@ -1,5 +1,9 @@
 import json
 import os
+import sys
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
 from connect_DB import get_mongo_collection
 
 collection = get_mongo_collection()
@@ -17,14 +21,19 @@ def insert_json_to_mongo():
         data = json.load(f)
 
     # If data is a list of documents:
+    old_docs = 0
+    new_docs = 0
     if isinstance(data, list):
         # Optionally, avoid duplicates (e.g., by "texto")
         for item in data:
             if not collection.find_one({"texto": item.get("texto")}):
+                new_docs += 1
                 collection.insert_one(item)
-                # print(f"Inserted: {item.get('texto')}")
+                print(f"{new_docs}/{old_docs+new_docs} Inserted: {item.get('texto')}")
             else:
-                print(f"Already exists: {item.get('texto')}")
+                old_docs += 1
+
+        print(f"{old_docs}/{old_docs+new_docs} Already exists: {item.get('texto')}")
     else:
         print("JSON file does not contain a list of documents.")
 
@@ -52,5 +61,5 @@ def update_text_by_id():
     print(f"Total updated: {updated}")
 
 
-update_text_by_id()
-# insert_json_to_mongo()
+# update_text_by_id()
+insert_json_to_mongo()
