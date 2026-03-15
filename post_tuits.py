@@ -29,12 +29,20 @@ def get_one_document(collection, x_client, x_api):
 
     while intentos < max_intentos:
         try:
-            pipeline = [{"$match": {"enviado": {"$lt": 3}}}, {"$sample": {"size": 1}}]
+            # Pipeline optimizado para prioridad a los de 1 o 0
+            pipeline = [
+                {
+                    "$match": {"enviado": {"$lt": 2}}
+                },  # Aquellos con valor "enviado" menor a 2
+                {"$sort": {"enviado": 1}},  # De menor a Mayor
+                {"$limit": 20},  # "top 20"
+                {"$sample": {"size": 1}},
+            ]
             random_item = list(collection.aggregate(pipeline))
 
             if not random_item:
                 logger.warning(
-                    "Consulta a MongoDB vacía. Revisa si quedan documentos con enviado < 3."
+                    "Consulta a MongoDB vacía. Revisa si quedan documentos con enviado < 2."
                 )
                 return None
 
@@ -47,7 +55,7 @@ def get_one_document(collection, x_client, x_api):
             # Cálculo de longitud (ajusta según formato de string en create_tweet)
             longitud_texto = len(item.get("texto", "")) + len(item.get("libro", "")) + 6
 
-            if longitud_texto < 280:
+            if longitud_texto < 281:
                 logger.info(f"✅ Tuit válido: {item['texto'][:40]}...")
                 create_tweet(item, x_client, x_api)
                 # Actualización en db
@@ -67,50 +75,8 @@ def get_one_document(collection, x_client, x_api):
     return None
 
 
-def get_one_documents():
-    max_intentos = 10
-    intentos = 0
-
-    while intentos < max_intentos:
-        # Filtramos directamente en la base de datos por los que no han superado el límite de envíos
-        pipeline = [{"$match": {"enviado": {"$lt": 3}}}, {"$sample": {"size": 1}}]
-        random_item = list(collection.aggregate(pipeline))
-
-        if not random_item:
-            logger.warning(
-                "No quedan ítems disponibles para publicar (todos enviados 3 veces)."
-            )
-            return None
-
-        item = random_item[0]
-        # Cálculo de longitud (ajusta según tu formato de string en create_tweet)
-        longitud_texto = len(item.get("texto", "")) + len(item.get("libro", "")) + 6
-
-        if longitud_texto < 280:
-            try:
-                logger.info(f"(TEST)Publicando: {item['texto'][:30]}...")
-                # create_tweet(item, x_client, x_api)
-
-                # # Actualización atómica
-                # collection.update_one(
-                #     {"_id": item["_id"]},
-                #     {"$set": {"publicado": True}, "$inc": {"enviado": 1}},
-                # )
-                return item
-            except Exception as e:
-                logger.error(f"Fallo en la comunicación con X: {e}")
-                break  # Salimos para evitar bucles de error de red
-
-        intentos += 1
-        logger.info(f"Documento muy largo, reintentando... (Intento {intentos})")
-
-    logger.error("Se alcanzó el máximo de intentos sin encontrar un tuit válido.")
-    return None
-
-
 if __name__ == "__main__":
     try:
-        # Ahora el log se iniciará ANTES de intentar conectar
         logger.info("--- INICIANDO PROCESO DEL BOT ---")
 
         # Conectamos dentro del try para capturar errores en el log
