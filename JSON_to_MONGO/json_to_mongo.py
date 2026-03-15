@@ -33,7 +33,7 @@ def insert_json_to_mongo():
             else:
                 old_docs += 1
 
-        print(f"{old_docs}/{old_docs+new_docs} Already exists: {item.get('texto')}")
+        print(f"{old_docs}/{old_docs+new_docs} Already exists.")
     else:
         print("JSON file does not contain a list of documents.")
 
