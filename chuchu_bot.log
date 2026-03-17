@@ -7060,3 +7060,14 @@ El caso Dios (1975)
  "La ciudad no es un sitio, es una manera de ser."
 La Ciudad (1961)
 2026-03-17 03:33:08,072 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-03-17 16:06:16,057 - INFO - ***** ***** ***** 2026-03-17 16:06:16 ***** ***** *****
+2026-03-17 16:06:16,058 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-03-17 16:06:16,347 - INFO - Connected to db successfully!
+2026-03-17 16:06:16,347 - INFO - Connected to Twitter successfully!
+2026-03-17 16:06:16,348 - INFO - Iniciando búsqueda de tuit...
+2026-03-17 16:06:16,590 - INFO - Candidato hallado: ID 69b732574aa08bd8beaaf7c4 | Intentos: 1
+2026-03-17 16:06:16,590 - INFO - ✅ Tuit válido: Uno no se va de aquí, uno se huye....
+2026-03-17 16:06:16,590 - INFO - Creating tweet with text:
+ "Uno no se va de aquí, uno se huye."
+La Ciudad (1961)
+2026-03-17 16:06:16,866 - INFO - --- FIN DE LA EJECUCIÓN ---
