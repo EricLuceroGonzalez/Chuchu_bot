@@ -7082,3 +7082,14 @@ La Ciudad (1961)
  "La ley es como la lluvia: moja a todos, pero no a todos por igual."
 La Ciudad (1961)
 2026-03-17 21:37:25,219 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-03-18 03:39:55,373 - INFO - ***** ***** ***** 2026-03-18 03:39:55 ***** ***** *****
+2026-03-18 03:39:55,373 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-03-18 03:39:55,489 - INFO - Connected to db successfully!
+2026-03-18 03:39:55,489 - INFO - Connected to Twitter successfully!
+2026-03-18 03:39:55,489 - INFO - Iniciando búsqueda de tuit...
+2026-03-18 03:39:56,201 - INFO - Candidato hallado: ID 69b732584aa08bd8beaaf7c9 | Intentos: 1
+2026-03-18 03:39:56,201 - INFO - ✅ Tuit válido: La ciudad es un monstruo que se alimenta...
+2026-03-18 03:39:56,201 - INFO - Creating tweet with text:
+ "La ciudad es un monstruo que se alimenta de la gente del campo."
+La Ciudad (1961)
+2026-03-18 03:39:56,463 - INFO - --- FIN DE LA EJECUCIÓN ---
