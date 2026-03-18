@@ -7104,3 +7104,14 @@ La Ciudad (1961)
  "El miedo es el mejor policía del mundo."
 La Ciudad (1961)
 2026-03-18 16:08:12,195 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-03-18 21:34:36,232 - INFO - ***** ***** ***** 2026-03-18 21:34:36 ***** ***** *****
+2026-03-18 21:34:36,232 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-03-18 21:34:36,414 - INFO - Connected to db successfully!
+2026-03-18 21:34:36,414 - INFO - Connected to Twitter successfully!
+2026-03-18 21:34:36,414 - INFO - Iniciando búsqueda de tuit...
+2026-03-18 21:34:36,612 - INFO - Candidato hallado: ID 69b72ee27de3d42bad7668cf | Intentos: 1
+2026-03-18 21:34:36,612 - INFO - ✅ Tuit válido: Tenemos anestesiada la sensibilidad, ten...
+2026-03-18 21:34:36,612 - INFO - Creating tweet with text:
+ "Tenemos anestesiada la sensibilidad, tenemos callos en el corazón. Nadie se va a impresionar con unos meros 60,000 muertos."
+El caso Dios (1975)
+2026-03-18 21:34:36,830 - INFO - --- FIN DE LA EJECUCIÓN ---
