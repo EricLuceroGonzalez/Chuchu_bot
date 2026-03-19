@@ -7137,3 +7137,14 @@ El caso Dios (1975)
  "Justificar significa hacer justo."
 El caso Dios (1975)
 2026-03-19 15:55:56,260 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-03-19 21:53:48,959 - INFO - ***** ***** ***** 2026-03-19 21:53:48 ***** ***** *****
+2026-03-19 21:53:48,961 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-03-19 21:53:49,062 - INFO - Connected to db successfully!
+2026-03-19 21:53:49,063 - INFO - Connected to Twitter successfully!
+2026-03-19 21:53:49,063 - INFO - Iniciando búsqueda de tuit...
+2026-03-19 21:53:50,417 - INFO - Candidato hallado: ID 69b72ee27de3d42bad7668d2 | Intentos: 1
+2026-03-19 21:53:50,418 - INFO - ✅ Tuit válido: Si Dios puede evitar el mal y no quiere ...
+2026-03-19 21:53:50,418 - INFO - Creating tweet with text:
+ "Si Dios puede evitar el mal y no quiere evitarlo, entonces Dios es malo."
+El caso Dios (1975)
+2026-03-19 21:53:50,950 - INFO - --- FIN DE LA EJECUCIÓN ---

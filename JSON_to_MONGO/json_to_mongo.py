@@ -19,21 +19,24 @@ def insert_json_to_mongo():
     # Load JSON file
     with open(file, "r", encoding="utf-8") as f:
         data = json.load(f)
-
-    # If data is a list of documents:
+    
+    # If data is a list of documents: 188.42 | 407.47
     old_docs = 0
     new_docs = 0
     if isinstance(data, list):
+        print("instance check")
         # Optionally, avoid duplicates (e.g., by "texto")
         for item in data:
+            # collection.update_many({}, {"$unset": {"text": ""}})
             if not collection.find_one({"texto": item.get("texto")}):
                 new_docs += 1
                 collection.insert_one(item)
                 print(f"{new_docs}/{old_docs+new_docs} Inserted: {item.get('texto')}")
             else:
                 old_docs += 1
-
-        print(f"{old_docs}/{old_docs+new_docs} Already exists.")
+                print(f"{old_docs}/{old_docs+new_docs} Already exists.")    
+        
+        print(f"{new_docs}/{old_docs+new_docs} New documents updated.")
     else:
         print("JSON file does not contain a list of documents.")
 
