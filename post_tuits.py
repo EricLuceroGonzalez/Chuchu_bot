@@ -61,7 +61,11 @@ def get_one_document(collection, x_client, x_api):
                 # Actualización en db
                 collection.update_one(
                     {"_id": item["_id"]},
-                    {"$set": {"publicado": True}, "$inc": {"enviado": 1}},
+                    {
+                        "$set": {"publicado": True}, 
+                        "$inc": {"enviado": 1},
+                        "$currentDate": {"fecha_ultimo_post": True}
+                        },
                 )
                 return item
             else:
