@@ -7192,3 +7192,18 @@ La Retreta (1963)
  "No conviene que nos acostumbremos a ser felices. ¿Comprendes?"
 La Retreta (1963)
 2026-03-20 21:30:24,814 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-03-21 03:21:32,056 - INFO - ***** ***** ***** 2026-03-21 03:21:32 ***** ***** *****
+2026-03-21 03:21:32,057 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-03-21 03:21:32,297 - INFO - Connected to db successfully!
+2026-03-21 03:21:32,297 - INFO - Connected to Twitter successfully!
+2026-03-21 03:21:32,297 - INFO - Iniciando búsqueda de tuit...
+2026-03-21 03:21:32,599 - INFO - Candidato hallado: ID 69b732564aa08bd8beaaf7c1 | Intentos: 1
+2026-03-21 03:21:32,600 - INFO - ✅ Tuit válido: Para ser libre, hay que tener un sitio d...
+2026-03-21 03:21:32,600 - INFO - Creating tweet with text:
+ 🎞️"Para ser libre, hay que tener un sitio donde serlo."
+ 📚La Ciudad (1961).
+2026-03-21 03:21:32,600 - INFO - Downloading image from Cloud..
+2026-03-21 03:21:32,601 - ERROR - On writing image file: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2026-03-21 03:21:32,705 - ERROR - Error crítico: 400 Bad Request
+$.media.media_ids[0]: does not match the regex pattern ^[0-9]{1,19}$
+2026-03-21 03:21:32,705 - INFO - --- FIN DE LA EJECUCIÓN ---
