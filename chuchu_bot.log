@@ -7207,3 +7207,14 @@ La Retreta (1963)
 2026-03-21 03:21:32,705 - ERROR - Error crítico: 400 Bad Request
 $.media.media_ids[0]: does not match the regex pattern ^[0-9]{1,19}$
 2026-03-21 03:21:32,705 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-03-21 15:27:36,456 - INFO - ***** ***** ***** 2026-03-21 15:27:36 ***** ***** *****
+2026-03-21 15:27:36,456 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-03-21 15:27:36,562 - INFO - Connected to db successfully!
+2026-03-21 15:27:36,562 - INFO - Connected to Twitter successfully!
+2026-03-21 15:27:36,562 - INFO - Iniciando búsqueda de tuit...
+2026-03-21 15:27:37,339 - INFO - Candidato hallado: ID 69b732594aa08bd8beaaf7d2 | Intentos: 1
+2026-03-21 15:27:37,339 - INFO - ✅ Tuit válido: La caridad es el insulto que el rico le ...
+2026-03-21 15:27:37,340 - INFO - Creating tweet with text:
+ "La caridad es el insulto que el rico le hace al pobre."
+La Ciudad (1961)
+2026-03-21 15:27:37,616 - INFO - --- FIN DE LA EJECUCIÓN ---
