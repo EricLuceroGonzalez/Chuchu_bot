@@ -7251,3 +7251,14 @@ El caso Dios (1975)
  🌀"Hay silencios que gritan más que un trueno."
  📝La Ciudad (1961).
 2026-03-22 15:28:04,188 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-03-22 21:26:33,958 - INFO - ***** ***** ***** 2026-03-22 21:26:33 ***** ***** *****
+2026-03-22 21:26:33,958 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-03-22 21:26:34,256 - INFO - Connected to db successfully!
+2026-03-22 21:26:34,257 - INFO - Connected to Twitter successfully!
+2026-03-22 21:26:34,257 - INFO - Iniciando búsqueda de tuit...
+2026-03-22 21:26:34,475 - INFO - Candidato hallado: ID 69b7325b4aa08bd8beaaf7d8 | Intentos: 1
+2026-03-22 21:26:34,475 - INFO - ✅ Tuit válido: ¿No tienes la sensación de que todo se e...
+2026-03-22 21:26:34,475 - INFO - Creating tweet with text:
+ 📌"¿No tienes la sensación de que todo se está gastando, cambiando, poco a poco, para que no nos demos cuenta?"
+ 📕La Retreta (1963).
+2026-03-22 21:26:34,728 - INFO - --- FIN DE LA EJECUCIÓN ---
