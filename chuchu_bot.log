@@ -7284,3 +7284,14 @@ La Ciudad (1961)
  🎞️"No pasará el tiempo en mi memoria. Será jueves todos los días, hasta que me muera."
  📖La Retreta (1963).
 2026-03-23 16:00:39,464 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-03-23 21:36:35,379 - INFO - ***** ***** ***** 2026-03-23 21:36:35 ***** ***** *****
+2026-03-23 21:36:35,380 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-03-23 21:36:35,543 - INFO - Connected to db successfully!
+2026-03-23 21:36:35,543 - INFO - Connected to Twitter successfully!
+2026-03-23 21:36:35,543 - INFO - Iniciando búsqueda de tuit...
+2026-03-23 21:36:36,192 - INFO - Candidato hallado: ID 69b7325b4aa08bd8beaaf7dc | Intentos: 1
+2026-03-23 21:36:36,192 - INFO - ✅ Tuit válido: Todos han muerto, menos yo. Pero ellos s...
+2026-03-23 21:36:36,192 - INFO - Creating tweet with text:
+ "Todos han muerto, menos yo. Pero ellos son todos muy buenos y no han querido abandonarme, dejarme sola aquí."
+La Retreta (1963)
+2026-03-23 21:36:36,510 - INFO - --- FIN DE LA EJECUCIÓN ---
