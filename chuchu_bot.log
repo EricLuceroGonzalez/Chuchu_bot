@@ -7427,3 +7427,12 @@ La Retreta (1963)
  🎯"No puedo perder lo que no tengo, hijo. Ya estoy casi ciega."
  📝La Retreta (1963).
 2026-03-27 15:54:09,328 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-03-27 21:34:06,876 - INFO - ***** ***** ***** 2026-03-27 21:34:06 ***** ***** *****
+2026-03-27 21:34:06,876 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-03-27 21:34:07,048 - INFO - Connected to db successfully!
+2026-03-27 21:34:07,048 - INFO - Connected to Twitter successfully!
+2026-03-27 21:34:07,048 - INFO - Iniciando búsqueda de tuit...
+2026-03-27 21:34:07,411 - INFO - Candidato hallado: ID 69b7325d4aa08bd8beaaf7e7 | Intentos: 1
+2026-03-27 21:34:07,411 - INFO - ✅ Tuit válido: Espinoza se atrevió a confesar lo que se...
+2026-03-27 21:34:07,411 - ERROR - Error crítico: 'año'
+2026-03-27 21:34:07,411 - INFO - --- FIN DE LA EJECUCIÓN ---
