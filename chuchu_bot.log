@@ -7405,3 +7405,14 @@ La Ciudad (1961)
  👀"Ya no se reconocerían si se vieran. Se recuerdan alguna que otra vez. Pero no lo suficiente para venir a buscarse."
  📓La Retreta (1963).
 2026-03-26 21:31:47,597 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-03-27 03:48:54,106 - INFO - ***** ***** ***** 2026-03-27 03:48:54 ***** ***** *****
+2026-03-27 03:48:54,106 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-03-27 03:48:54,334 - INFO - Connected to db successfully!
+2026-03-27 03:48:54,334 - INFO - Connected to Twitter successfully!
+2026-03-27 03:48:54,334 - INFO - Iniciando búsqueda de tuit...
+2026-03-27 03:48:55,006 - INFO - Candidato hallado: ID 69b7325b4aa08bd8beaaf7da | Intentos: 1
+2026-03-27 03:48:55,006 - INFO - ✅ Tuit válido: Todo se acaba, se gasta. El sol se está ...
+2026-03-27 03:48:55,006 - INFO - Creating tweet with text:
+ "Todo se acaba, se gasta. El sol se está apagando."
+La Retreta (1963)
+2026-03-27 03:48:55,363 - INFO - --- FIN DE LA EJECUCIÓN ---
