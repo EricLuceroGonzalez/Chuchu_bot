@@ -7460,3 +7460,12 @@ La Ciudad (1961)
 2026-03-28 15:33:02,889 - ERROR - Error crítico: 400 Bad Request
 $.media.media_ids[0]: does not match the regex pattern ^[0-9]{1,19}$
 2026-03-28 15:33:02,889 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-03-28 21:29:26,257 - INFO - ***** ***** ***** 2026-03-28 21:29:26 ***** ***** *****
+2026-03-28 21:29:26,257 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-03-28 21:29:26,359 - INFO - Connected to db successfully!
+2026-03-28 21:29:26,360 - INFO - Connected to Twitter successfully!
+2026-03-28 21:29:26,360 - INFO - Iniciando búsqueda de tuit...
+2026-03-28 21:29:26,653 - INFO - Candidato hallado: ID 69b7325e4aa08bd8beaaf7e8 | Intentos: 1
+2026-03-28 21:29:26,653 - INFO - ✅ Tuit válido: Tan ágilmente se mueve la razón en ese m...
+2026-03-28 21:29:26,653 - ERROR - Error crítico: 'año'
+2026-03-28 21:29:26,653 - INFO - --- FIN DE LA EJECUCIÓN ---
