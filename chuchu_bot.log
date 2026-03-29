@@ -7489,3 +7489,12 @@ $.media.media_ids[0]: does not match the regex pattern ^[0-9]{1,19}$
  🎯"La libertad es un peso muy grande para el que no sabe a dónde ir."
  📚La Ciudad (1961).
 2026-03-29 15:34:02,134 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-03-29 21:32:10,205 - INFO - ***** ***** ***** 2026-03-29 21:32:10 ***** ***** *****
+2026-03-29 21:32:10,206 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-03-29 21:32:10,644 - INFO - Connected to db successfully!
+2026-03-29 21:32:10,645 - INFO - Connected to Twitter successfully!
+2026-03-29 21:32:10,645 - INFO - Iniciando búsqueda de tuit...
+2026-03-29 21:32:10,846 - INFO - Candidato hallado: ID 69b7325e4aa08bd8beaaf7ea | Intentos: 1
+2026-03-29 21:32:10,846 - INFO - ✅ Tuit válido: Poesía, Filosofía y Matemática se dan la...
+2026-03-29 21:32:10,846 - ERROR - Error crítico: 'año'
+2026-03-29 21:32:10,846 - INFO - --- FIN DE LA EJECUCIÓN ---
