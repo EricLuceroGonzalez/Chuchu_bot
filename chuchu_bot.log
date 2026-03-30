@@ -7518,3 +7518,14 @@ $.media.media_ids[0]: does not match the regex pattern ^[0-9]{1,19}$
  "Nunca he podido averiguar qué fue de mí. Aunque estoy seguro de que me he visto. Que me ve. Y no me reconoce."
 La Retreta (1963)
 2026-03-30 16:06:38,072 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-03-30 21:41:34,080 - INFO - ***** ***** ***** 2026-03-30 21:41:34 ***** ***** *****
+2026-03-30 21:41:34,080 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-03-30 21:41:34,276 - INFO - Connected to db successfully!
+2026-03-30 21:41:34,277 - INFO - Connected to Twitter successfully!
+2026-03-30 21:41:34,277 - INFO - Iniciando búsqueda de tuit...
+2026-03-30 21:41:34,904 - INFO - Candidato hallado: ID 69b732574aa08bd8beaaf7c3 | Intentos: 1
+2026-03-30 21:41:34,905 - INFO - ✅ Tuit válido: Aquí las cosas no cambian, solo se ponen...
+2026-03-30 21:41:34,905 - INFO - Creating tweet with text:
+ "Aquí las cosas no cambian, solo se ponen más viejas."
+La Ciudad (1961)
+2026-03-30 21:41:35,206 - INFO - --- FIN DE LA EJECUCIÓN ---
