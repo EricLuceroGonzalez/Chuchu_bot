@@ -7529,3 +7529,12 @@ La Retreta (1963)
  "Aquí las cosas no cambian, solo se ponen más viejas."
 La Ciudad (1961)
 2026-03-30 21:41:35,206 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-03-31 03:49:34,779 - INFO - ***** ***** ***** 2026-03-31 03:49:34 ***** ***** *****
+2026-03-31 03:49:34,779 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-03-31 03:49:35,028 - INFO - Connected to db successfully!
+2026-03-31 03:49:35,029 - INFO - Connected to Twitter successfully!
+2026-03-31 03:49:35,029 - INFO - Iniciando búsqueda de tuit...
+2026-03-31 03:49:35,452 - INFO - Candidato hallado: ID 69b7325e4aa08bd8beaaf7e9 | Intentos: 1
+2026-03-31 03:49:35,452 - INFO - ✅ Tuit válido: Lo que esta teoría da que pensar... es l...
+2026-03-31 03:49:35,452 - ERROR - Error crítico: 'año'
+2026-03-31 03:49:35,452 - INFO - --- FIN DE LA EJECUCIÓN ---
