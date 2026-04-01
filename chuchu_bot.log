@@ -7558,3 +7558,12 @@ La Ciudad (1961)
  "Yo tengo a Dios, pero ellos sólo me tienen a mí."
 La Retreta (1963)
 2026-03-31 21:38:40,246 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-04-01 04:11:25,209 - INFO - ***** ***** ***** 2026-04-01 04:11:25 ***** ***** *****
+2026-04-01 04:11:25,209 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-04-01 04:11:25,528 - INFO - Connected to db successfully!
+2026-04-01 04:11:25,528 - INFO - Connected to Twitter successfully!
+2026-04-01 04:11:25,528 - INFO - Iniciando búsqueda de tuit...
+2026-04-01 04:11:25,795 - INFO - Candidato hallado: ID 69b7325e4aa08bd8beaaf7e9 | Intentos: 1
+2026-04-01 04:11:25,795 - INFO - ✅ Tuit válido: Lo que esta teoría da que pensar... es l...
+2026-04-01 04:11:25,795 - ERROR - Error crítico: 'año'
+2026-04-01 04:11:25,796 - INFO - --- FIN DE LA EJECUCIÓN ---
