@@ -7578,3 +7578,12 @@ La Retreta (1963)
  "Uno nace donde puede, pero vive donde lo dejan."
 La Ciudad (1961)
 2026-04-01 16:06:21,983 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-04-01 21:41:26,595 - INFO - ***** ***** ***** 2026-04-01 21:41:26 ***** ***** *****
+2026-04-01 21:41:26,596 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-04-01 21:41:26,684 - INFO - Connected to db successfully!
+2026-04-01 21:41:26,684 - INFO - Connected to Twitter successfully!
+2026-04-01 21:41:26,684 - INFO - Iniciando búsqueda de tuit...
+2026-04-01 21:41:27,014 - INFO - Candidato hallado: ID 69b7325f4aa08bd8beaaf7f1 | Intentos: 1
+2026-04-01 21:41:27,014 - INFO - ✅ Tuit válido: Si el hombre no hiciera nada grande en e...
+2026-04-01 21:41:27,014 - ERROR - Error crítico: 'año'
+2026-04-01 21:41:27,014 - INFO - --- FIN DE LA EJECUCIÓN ---
