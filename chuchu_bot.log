@@ -7567,3 +7567,14 @@ La Retreta (1963)
 2026-04-01 04:11:25,795 - INFO - ✅ Tuit válido: Lo que esta teoría da que pensar... es l...
 2026-04-01 04:11:25,795 - ERROR - Error crítico: 'año'
 2026-04-01 04:11:25,796 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-04-01 16:06:21,113 - INFO - ***** ***** ***** 2026-04-01 16:06:21 ***** ***** *****
+2026-04-01 16:06:21,113 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-04-01 16:06:21,523 - INFO - Connected to db successfully!
+2026-04-01 16:06:21,523 - INFO - Connected to Twitter successfully!
+2026-04-01 16:06:21,523 - INFO - Iniciando búsqueda de tuit...
+2026-04-01 16:06:21,725 - INFO - Candidato hallado: ID 69b732594aa08bd8beaaf7ce | Intentos: 1
+2026-04-01 16:06:21,725 - INFO - ✅ Tuit válido: Uno nace donde puede, pero vive donde lo...
+2026-04-01 16:06:21,725 - INFO - Creating tweet with text:
+ "Uno nace donde puede, pero vive donde lo dejan."
+La Ciudad (1961)
+2026-04-01 16:06:21,983 - INFO - --- FIN DE LA EJECUCIÓN ---
