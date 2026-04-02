@@ -7607,3 +7607,14 @@ La Ciudad (1961)
  "El pecado del pobre es la paciencia."
 La Ciudad (1961)
 2026-04-02 16:01:08,756 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-04-02 21:37:45,737 - INFO - ***** ***** ***** 2026-04-02 21:37:45 ***** ***** *****
+2026-04-02 21:37:45,737 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-04-02 21:37:45,984 - INFO - Connected to db successfully!
+2026-04-02 21:37:45,984 - INFO - Connected to Twitter successfully!
+2026-04-02 21:37:45,984 - INFO - Iniciando búsqueda de tuit...
+2026-04-02 21:37:46,230 - INFO - Candidato hallado: ID 69b72ee47de3d42bad7668d8 | Intentos: 1
+2026-04-02 21:37:46,230 - INFO - ✅ Tuit válido: ¡Dios ha muerto! ¡Por fin sois libres y ...
+2026-04-02 21:37:46,230 - INFO - Creating tweet with text:
+ 🎯"¡Dios ha muerto! ¡Por fin sois libres y además responsables!"
+ 🔖El caso Dios (1975).
+2026-04-02 21:37:46,444 - INFO - --- FIN DE LA EJECUCIÓN ---
