@@ -7814,3 +7814,14 @@ Aleph-Cero (1971)
 2026-04-09 16:18:48,190 - INFO - ✅ Tuit válido: Tan ágilmente se mueve la razón en ese m...
 2026-04-09 16:18:48,190 - ERROR - Error crítico: 'año'
 2026-04-09 16:18:48,190 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-04-09 21:44:53,526 - INFO - ***** ***** ***** 2026-04-09 21:44:53 ***** ***** *****
+2026-04-09 21:44:53,526 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-04-09 21:44:53,709 - INFO - Connected to db successfully!
+2026-04-09 21:44:53,710 - INFO - Connected to Twitter successfully!
+2026-04-09 21:44:53,710 - INFO - Iniciando búsqueda de tuit...
+2026-04-09 21:44:54,315 - INFO - Candidato hallado: ID 69b732594aa08bd8beaaf7d0 | Intentos: 1
+2026-04-09 21:44:54,315 - INFO - ✅ Tuit válido: El tiempo no cura nada, solo nos acostum...
+2026-04-09 21:44:54,315 - INFO - Creating tweet with text:
+ "El tiempo no cura nada, solo nos acostumbra al dolor."
+La Ciudad (1961)
+2026-04-09 21:44:54,588 - INFO - --- FIN DE LA EJECUCIÓN ---
