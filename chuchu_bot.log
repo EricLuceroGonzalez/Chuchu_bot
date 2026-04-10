@@ -7843,3 +7843,12 @@ La Ciudad (1961)
 2026-04-10 15:55:01,364 - INFO - ✅ Tuit válido: Si el hombre no hiciera nada grande en e...
 2026-04-10 15:55:01,364 - ERROR - Error crítico: 'año'
 2026-04-10 15:55:01,364 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-04-10 21:37:08,488 - INFO - ***** ***** ***** 2026-04-10 21:37:08 ***** ***** *****
+2026-04-10 21:37:08,488 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-04-10 21:37:08,713 - INFO - Connected to db successfully!
+2026-04-10 21:37:08,713 - INFO - Connected to Twitter successfully!
+2026-04-10 21:37:08,713 - INFO - Iniciando búsqueda de tuit...
+2026-04-10 21:37:08,949 - INFO - Candidato hallado: ID 69b7325e4aa08bd8beaaf7eb | Intentos: 1
+2026-04-10 21:37:08,949 - INFO - ✅ Tuit válido: El infinito no es una cantidad, sino una...
+2026-04-10 21:37:08,949 - ERROR - Error crítico: 'año'
+2026-04-10 21:37:08,949 - INFO - --- FIN DE LA EJECUCIÓN ---
