@@ -7933,3 +7933,12 @@ La Ciudad (1961)
 2026-04-13 21:50:17,533 - INFO - ✅ Tuit válido: El Aleph-Cero es la puerta de entrada a ...
 2026-04-13 21:50:17,533 - ERROR - Error crítico: 'año'
 2026-04-13 21:50:17,533 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-04-14 04:08:52,422 - INFO - ***** ***** ***** 2026-04-14 04:08:52 ***** ***** *****
+2026-04-14 04:08:52,422 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-04-14 04:08:52,648 - INFO - Connected to db successfully!
+2026-04-14 04:08:52,648 - INFO - Connected to Twitter successfully!
+2026-04-14 04:08:52,648 - INFO - Iniciando búsqueda de tuit...
+2026-04-14 04:08:53,035 - INFO - Candidato hallado: ID 69b7325d4aa08bd8beaaf7e7 | Intentos: 1
+2026-04-14 04:08:53,035 - INFO - ✅ Tuit válido: Espinoza se atrevió a confesar lo que se...
+2026-04-14 04:08:53,035 - ERROR - Error crítico: 'año'
+2026-04-14 04:08:53,035 - INFO - --- FIN DE LA EJECUCIÓN ---
