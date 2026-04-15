@@ -7978,3 +7978,12 @@ La Ciudad (1961)
 2026-04-15 16:06:28,864 - INFO - ✅ Tuit válido: El cero es el silencio absoluto; el infi...
 2026-04-15 16:06:28,864 - ERROR - Error crítico: 'año'
 2026-04-15 16:06:28,865 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-04-15 21:52:05,844 - INFO - ***** ***** ***** 2026-04-15 21:52:05 ***** ***** *****
+2026-04-15 21:52:05,844 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-04-15 21:52:06,025 - INFO - Connected to db successfully!
+2026-04-15 21:52:06,025 - INFO - Connected to Twitter successfully!
+2026-04-15 21:52:06,026 - INFO - Iniciando búsqueda de tuit...
+2026-04-15 21:52:06,679 - INFO - Candidato hallado: ID 69b7325d4aa08bd8beaaf7e6 | Intentos: 1
+2026-04-15 21:52:06,679 - INFO - ✅ Tuit válido: Difícilmente encontraremos en otra disci...
+2026-04-15 21:52:06,679 - ERROR - Error crítico: 'año'
+2026-04-15 21:52:06,679 - INFO - --- FIN DE LA EJECUCIÓN ---
