@@ -8034,3 +8034,12 @@ Aleph-Cero (1971)
 2026-04-17 16:02:13,507 - INFO - ✅ Tuit válido: El cero es el silencio absoluto; el infi...
 2026-04-17 16:02:13,508 - ERROR - Error crítico: 'año'
 2026-04-17 16:02:13,508 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-04-17 21:41:06,517 - INFO - ***** ***** ***** 2026-04-17 21:41:06 ***** ***** *****
+2026-04-17 21:41:06,517 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-04-17 21:41:06,661 - INFO - Connected to db successfully!
+2026-04-17 21:41:06,661 - INFO - Connected to Twitter successfully!
+2026-04-17 21:41:06,661 - INFO - Iniciando búsqueda de tuit...
+2026-04-17 21:41:07,358 - INFO - Candidato hallado: ID 69b7325e4aa08bd8beaaf7ec | Intentos: 1
+2026-04-17 21:41:07,358 - INFO - ✅ Tuit válido: La matemática es el único lenguaje donde...
+2026-04-17 21:41:07,358 - ERROR - Error crítico: 'año'
+2026-04-17 21:41:07,358 - INFO - --- FIN DE LA EJECUCIÓN ---
