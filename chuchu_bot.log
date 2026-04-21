@@ -8150,3 +8150,12 @@ Aleph-Cero (1971)
  📌"Le es esencial a la inteligencia unir, sintetizar, atar cabos, ordenar, y en consecuencia embellecer."
  👓Aleph-Cero (1971).
 2026-04-21 16:10:59,435 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-04-21 21:45:25,610 - INFO - ***** ***** ***** 2026-04-21 21:45:25 ***** ***** *****
+2026-04-21 21:45:25,610 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-04-21 21:45:25,706 - INFO - Connected to db successfully!
+2026-04-21 21:45:25,706 - INFO - Connected to Twitter successfully!
+2026-04-21 21:45:25,706 - INFO - Iniciando búsqueda de tuit...
+2026-04-21 21:45:26,398 - INFO - Candidato hallado: ID 69b7325d4aa08bd8beaaf7e6 | Intentos: 1
+2026-04-21 21:45:26,398 - INFO - ✅ Tuit válido: Difícilmente encontraremos en otra disci...
+2026-04-21 21:45:26,398 - ERROR - Error crítico: 'año'
+2026-04-21 21:45:26,398 - INFO - --- FIN DE LA EJECUCIÓN ---
