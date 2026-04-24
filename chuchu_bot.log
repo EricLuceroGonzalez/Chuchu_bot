@@ -8239,3 +8239,12 @@ Aleph-Cero (1971)
  "Lo finito es la negación de lo infinito."
 Aleph-Cero (1971)
 2026-04-24 16:04:53,295 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-04-24 21:47:58,423 - INFO - ***** ***** ***** 2026-04-24 21:47:58 ***** ***** *****
+2026-04-24 21:47:58,423 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-04-24 21:47:58,736 - INFO - Connected to db successfully!
+2026-04-24 21:47:58,736 - INFO - Connected to Twitter successfully!
+2026-04-24 21:47:58,736 - INFO - Iniciando búsqueda de tuit...
+2026-04-24 21:47:59,241 - INFO - Candidato hallado: ID 69b7325d4aa08bd8beaaf7e7 | Intentos: 1
+2026-04-24 21:47:59,241 - INFO - ✅ Tuit válido: Espinoza se atrevió a confesar lo que se...
+2026-04-24 21:47:59,241 - ERROR - Error crítico: 'año'
+2026-04-24 21:47:59,242 - INFO - --- FIN DE LA EJECUCIÓN ---
