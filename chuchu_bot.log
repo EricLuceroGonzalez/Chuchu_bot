@@ -8326,3 +8326,12 @@ Aleph-Cero (1971)
  🎯"Uno no puede ser todo lo que puede ser."
  📚Aleph-Cero (1971).
 2026-04-27 16:26:45,226 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-04-27 21:53:07,888 - INFO - ***** ***** ***** 2026-04-27 21:53:07 ***** ***** *****
+2026-04-27 21:53:07,888 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-04-27 21:53:08,177 - INFO - Connected to db successfully!
+2026-04-27 21:53:08,178 - INFO - Connected to Twitter successfully!
+2026-04-27 21:53:08,178 - INFO - Iniciando búsqueda de tuit...
+2026-04-27 21:53:08,438 - INFO - Candidato hallado: ID 69b7325f4aa08bd8beaaf7f1 | Intentos: 1
+2026-04-27 21:53:08,438 - INFO - ✅ Tuit válido: Si el hombre no hiciera nada grande en e...
+2026-04-27 21:53:08,438 - ERROR - Error crítico: 'año'
+2026-04-27 21:53:08,438 - INFO - --- FIN DE LA EJECUCIÓN ---
