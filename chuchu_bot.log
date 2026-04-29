@@ -8375,3 +8375,12 @@ Aleph-Cero (1971)
  "Lo infinito puede terminar perfectamente."
 Aleph-Cero (1971)
 2026-04-29 04:29:16,162 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-04-29 16:27:45,344 - INFO - ***** ***** ***** 2026-04-29 16:27:45 ***** ***** *****
+2026-04-29 16:27:45,344 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-04-29 16:27:45,605 - INFO - Connected to db successfully!
+2026-04-29 16:27:45,606 - INFO - Connected to Twitter successfully!
+2026-04-29 16:27:45,606 - INFO - Iniciando búsqueda de tuit...
+2026-04-29 16:27:46,218 - INFO - Candidato hallado: ID 69b7325d4aa08bd8beaaf7e7 | Intentos: 1
+2026-04-29 16:27:46,218 - INFO - ✅ Tuit válido: Espinoza se atrevió a confesar lo que se...
+2026-04-29 16:27:46,218 - ERROR - Error crítico: 'año'
+2026-04-29 16:27:46,218 - INFO - --- FIN DE LA EJECUCIÓN ---
