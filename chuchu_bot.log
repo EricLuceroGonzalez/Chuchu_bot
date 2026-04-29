@@ -8384,3 +8384,12 @@ Aleph-Cero (1971)
 2026-04-29 16:27:46,218 - INFO - ✅ Tuit válido: Espinoza se atrevió a confesar lo que se...
 2026-04-29 16:27:46,218 - ERROR - Error crítico: 'año'
 2026-04-29 16:27:46,218 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-04-29 21:58:12,115 - INFO - ***** ***** ***** 2026-04-29 21:58:12 ***** ***** *****
+2026-04-29 21:58:12,115 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-04-29 21:58:12,366 - INFO - Connected to db successfully!
+2026-04-29 21:58:12,367 - INFO - Connected to Twitter successfully!
+2026-04-29 21:58:12,367 - INFO - Iniciando búsqueda de tuit...
+2026-04-29 21:58:12,962 - INFO - Candidato hallado: ID 69b732604aa08bd8beaaf7f2 | Intentos: 1
+2026-04-29 21:58:12,962 - INFO - ✅ Tuit válido: En la teoría del infinito, la intuición ...
+2026-04-29 21:58:12,962 - ERROR - Error crítico: 'año'
+2026-04-29 21:58:12,962 - INFO - --- FIN DE LA EJECUCIÓN ---
