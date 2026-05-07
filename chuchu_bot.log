@@ -8610,3 +8610,12 @@ Aleph-Cero (1971)
 2026-05-07 16:51:25,613 - INFO - ✅ Tuit válido: La belleza de una demostración reside en...
 2026-05-07 16:51:25,613 - ERROR - Error crítico: 'año'
 2026-05-07 16:51:25,613 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-05-07 21:58:00,947 - INFO - ***** ***** ***** 2026-05-07 21:58:00 ***** ***** *****
+2026-05-07 21:58:00,947 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-05-07 21:58:01,225 - INFO - Connected to db successfully!
+2026-05-07 21:58:01,225 - INFO - Connected to Twitter successfully!
+2026-05-07 21:58:01,225 - INFO - Iniciando búsqueda de tuit...
+2026-05-07 21:58:01,702 - INFO - Candidato hallado: ID 69b7325f4aa08bd8beaaf7ee | Intentos: 1
+2026-05-07 21:58:01,702 - INFO - ✅ Tuit válido: El cero es el silencio absoluto; el infi...
+2026-05-07 21:58:01,702 - ERROR - Error crítico: 'año'
+2026-05-07 21:58:01,702 - INFO - --- FIN DE LA EJECUCIÓN ---
