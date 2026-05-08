@@ -8639,3 +8639,12 @@ Aleph-Cero (1971)
 2026-05-08 16:13:56,200 - INFO - ✅ Tuit válido: Si el hombre no hiciera nada grande en e...
 2026-05-08 16:13:56,200 - ERROR - Error crítico: 'año'
 2026-05-08 16:13:56,200 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-05-08 21:58:27,017 - INFO - ***** ***** ***** 2026-05-08 21:58:27 ***** ***** *****
+2026-05-08 21:58:27,017 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-05-08 21:58:27,248 - INFO - Connected to db successfully!
+2026-05-08 21:58:27,248 - INFO - Connected to Twitter successfully!
+2026-05-08 21:58:27,249 - INFO - Iniciando búsqueda de tuit...
+2026-05-08 21:58:27,735 - INFO - Candidato hallado: ID 69b7325f4aa08bd8beaaf7f1 | Intentos: 1
+2026-05-08 21:58:27,735 - INFO - ✅ Tuit válido: Si el hombre no hiciera nada grande en e...
+2026-05-08 21:58:27,736 - ERROR - Error crítico: 'año'
+2026-05-08 21:58:27,736 - INFO - --- FIN DE LA EJECUCIÓN ---
