@@ -8731,3 +8731,12 @@ Aleph-Cero (1971)
  "Un muerto no está cada vez más muerto. A los cinco minutos de morirse está tan muerto como el que tiene cinco siglos."
 Aleph-Cero (1971)
 2026-05-11 17:25:46,079 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-05-11 22:06:58,120 - INFO - ***** ***** ***** 2026-05-11 22:06:58 ***** ***** *****
+2026-05-11 22:06:58,120 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-05-11 22:06:58,322 - INFO - Connected to db successfully!
+2026-05-11 22:06:58,323 - INFO - Connected to Twitter successfully!
+2026-05-11 22:06:58,323 - INFO - Iniciando búsqueda de tuit...
+2026-05-11 22:06:58,668 - INFO - Candidato hallado: ID 69b7325f4aa08bd8beaaf7f0 | Intentos: 1
+2026-05-11 22:06:58,668 - INFO - ✅ Tuit válido: El Aleph-Cero es la puerta de entrada a ...
+2026-05-11 22:06:58,668 - ERROR - Error crítico: 'año'
+2026-05-11 22:06:58,668 - INFO - --- FIN DE LA EJECUCIÓN ---
