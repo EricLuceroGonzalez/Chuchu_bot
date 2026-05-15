@@ -8843,3 +8843,12 @@ Aleph-Cero (1971)
  "Lo infinito puede darse el lujo de ser infinitamente generoso, sin que sus dádivas le merme en lo más mínimo."
 Aleph-Cero (1971)
 2026-05-15 16:51:33,290 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-05-15 21:59:09,583 - INFO - ***** ***** ***** 2026-05-15 21:59:09 ***** ***** *****
+2026-05-15 21:59:09,583 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-05-15 21:59:09,703 - INFO - Connected to db successfully!
+2026-05-15 21:59:09,703 - INFO - Connected to Twitter successfully!
+2026-05-15 21:59:09,703 - INFO - Iniciando búsqueda de tuit...
+2026-05-15 21:59:10,453 - INFO - Candidato hallado: ID 69b7325f4aa08bd8beaaf7f0 | Intentos: 1
+2026-05-15 21:59:10,453 - INFO - ✅ Tuit válido: El Aleph-Cero es la puerta de entrada a ...
+2026-05-15 21:59:10,454 - ERROR - Error crítico: 'año'
+2026-05-15 21:59:10,454 - INFO - --- FIN DE LA EJECUCIÓN ---
