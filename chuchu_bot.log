@@ -8888,3 +8888,12 @@ Aleph-Cero (1971)
 2026-05-17 04:52:51,412 - INFO - ✅ Tuit válido: El cero es el silencio absoluto; el infi...
 2026-05-17 04:52:51,412 - ERROR - Error crítico: 'año'
 2026-05-17 04:52:51,412 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-05-17 15:59:14,230 - INFO - ***** ***** ***** 2026-05-17 15:59:14 ***** ***** *****
+2026-05-17 15:59:14,231 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-05-17 15:59:14,476 - INFO - Connected to db successfully!
+2026-05-17 15:59:14,477 - INFO - Connected to Twitter successfully!
+2026-05-17 15:59:14,477 - INFO - Iniciando búsqueda de tuit...
+2026-05-17 15:59:15,334 - INFO - Candidato hallado: ID 69b7325f4aa08bd8beaaf7ed | Intentos: 1
+2026-05-17 15:59:15,334 - INFO - ✅ Tuit válido: Contar es ya una forma de eternidad, pue...
+2026-05-17 15:59:15,334 - ERROR - Error crítico: 'año'
+2026-05-17 15:59:15,334 - INFO - --- FIN DE LA EJECUCIÓN ---
