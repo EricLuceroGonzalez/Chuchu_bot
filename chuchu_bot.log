@@ -8915,3 +8915,12 @@ Aleph-Cero (1971)
 2026-05-18 05:05:51,315 - INFO - ✅ Tuit válido: Contar es ya una forma de eternidad, pue...
 2026-05-18 05:05:51,315 - ERROR - Error crítico: 'año'
 2026-05-18 05:05:51,315 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-05-18 17:29:09,864 - INFO - ***** ***** ***** 2026-05-18 17:29:09 ***** ***** *****
+2026-05-18 17:29:09,864 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-05-18 17:29:10,161 - INFO - Connected to db successfully!
+2026-05-18 17:29:10,161 - INFO - Connected to Twitter successfully!
+2026-05-18 17:29:10,162 - INFO - Iniciando búsqueda de tuit...
+2026-05-18 17:29:10,568 - INFO - Candidato hallado: ID 69b732604aa08bd8beaaf7f2 | Intentos: 1
+2026-05-18 17:29:10,568 - INFO - ✅ Tuit válido: En la teoría del infinito, la intuición ...
+2026-05-18 17:29:10,568 - ERROR - Error crítico: 'año'
+2026-05-18 17:29:10,568 - INFO - --- FIN DE LA EJECUCIÓN ---
