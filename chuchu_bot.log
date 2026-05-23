@@ -9072,3 +9072,12 @@ Aleph-Cero (1971)
 2026-05-23 16:02:11,283 - INFO - ✅ Tuit válido: El Aleph-Cero es la puerta de entrada a ...
 2026-05-23 16:02:11,283 - ERROR - Error crítico: 'año'
 2026-05-23 16:02:11,283 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-05-23 21:54:28,404 - INFO - ***** ***** ***** 2026-05-23 21:54:28 ***** ***** *****
+2026-05-23 21:54:28,404 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-05-23 21:54:28,652 - INFO - Connected to db successfully!
+2026-05-23 21:54:28,652 - INFO - Connected to Twitter successfully!
+2026-05-23 21:54:28,652 - INFO - Iniciando búsqueda de tuit...
+2026-05-23 21:54:28,900 - INFO - Candidato hallado: ID 69b7325d4aa08bd8beaaf7e5 | Intentos: 1
+2026-05-23 21:54:28,900 - INFO - ✅ Tuit válido: La teoría del infinito es triplemente be...
+2026-05-23 21:54:28,900 - ERROR - Error crítico: 'año'
+2026-05-23 21:54:28,900 - INFO - --- FIN DE LA EJECUCIÓN ---
