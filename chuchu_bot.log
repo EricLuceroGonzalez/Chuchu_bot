@@ -9128,3 +9128,12 @@ Aleph-Cero (1971)
 2026-05-25 17:06:36,612 - INFO - ✅ Tuit válido: Contar es ya una forma de eternidad, pue...
 2026-05-25 17:06:36,612 - ERROR - Error crítico: 'año'
 2026-05-25 17:06:36,612 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-05-25 22:07:59,776 - INFO - ***** ***** ***** 2026-05-25 22:07:59 ***** ***** *****
+2026-05-25 22:07:59,776 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-05-25 22:07:59,982 - INFO - Connected to db successfully!
+2026-05-25 22:07:59,982 - INFO - Connected to Twitter successfully!
+2026-05-25 22:07:59,982 - INFO - Iniciando búsqueda de tuit...
+2026-05-25 22:08:00,645 - INFO - Candidato hallado: ID 69b7325d4aa08bd8beaaf7e7 | Intentos: 1
+2026-05-25 22:08:00,645 - INFO - ✅ Tuit válido: Espinoza se atrevió a confesar lo que se...
+2026-05-25 22:08:00,645 - ERROR - Error crítico: 'año'
+2026-05-25 22:08:00,645 - INFO - --- FIN DE LA EJECUCIÓN ---
