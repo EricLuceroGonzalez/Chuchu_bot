@@ -9157,3 +9157,12 @@ Aleph-Cero (1971)
  "A esas alturas las verdades son totalmente distintas de las terrestres. No podríamos reconocerlas."
 Aleph-Cero (1971)
 2026-05-26 17:55:39,339 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-05-26 22:19:03,959 - INFO - ***** ***** ***** 2026-05-26 22:19:03 ***** ***** *****
+2026-05-26 22:19:03,959 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-05-26 22:19:04,196 - INFO - Connected to db successfully!
+2026-05-26 22:19:04,197 - INFO - Connected to Twitter successfully!
+2026-05-26 22:19:04,197 - INFO - Iniciando búsqueda de tuit...
+2026-05-26 22:19:04,494 - INFO - Candidato hallado: ID 69b7325e4aa08bd8beaaf7eb | Intentos: 1
+2026-05-26 22:19:04,494 - INFO - ✅ Tuit válido: El infinito no es una cantidad, sino una...
+2026-05-26 22:19:04,494 - ERROR - Error crítico: 'año'
+2026-05-26 22:19:04,494 - INFO - --- FIN DE LA EJECUCIÓN ---
