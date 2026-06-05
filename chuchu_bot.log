@@ -9434,3 +9434,12 @@ Aleph-Cero (1971)
 2026-06-05 05:17:01,089 - INFO - ✅ Tuit válido: Tan ágilmente se mueve la razón en ese m...
 2026-06-05 05:17:01,089 - ERROR - Error crítico: 'año'
 2026-06-05 05:17:01,090 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-06-05 17:19:43,173 - INFO - ***** ***** ***** 2026-06-05 17:19:43 ***** ***** *****
+2026-06-05 17:19:43,173 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-06-05 17:19:43,415 - INFO - Connected to db successfully!
+2026-06-05 17:19:43,415 - INFO - Connected to Twitter successfully!
+2026-06-05 17:19:43,415 - INFO - Iniciando búsqueda de tuit...
+2026-06-05 17:19:44,073 - INFO - Candidato hallado: ID 69b7325e4aa08bd8beaaf7e9 | Intentos: 1
+2026-06-05 17:19:44,073 - INFO - ✅ Tuit válido: Lo que esta teoría da que pensar... es l...
+2026-06-05 17:19:44,073 - ERROR - Error crítico: 'año'
+2026-06-05 17:19:44,073 - INFO - --- FIN DE LA EJECUCIÓN ---
