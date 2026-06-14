@@ -9694,3 +9694,12 @@ Ideas para rodar (Aforismos bicornes) (1963)
 2026-06-14 16:22:40,986 - INFO - Iniciando búsqueda de tuit...
 2026-06-14 16:23:11,125 - ERROR - Error crítico: cluster0-shard-00-00.j4waz.mongodb.net:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),cluster0-shard-00-02.j4waz.mongodb.net:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms),cluster0-shard-00-01.j4waz.mongodb.net:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 6a2ed550cc78fab61d03660a, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('cluster0-shard-00-00.j4waz.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('cluster0-shard-00-00.j4waz.mongodb.net:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('cluster0-shard-00-01.j4waz.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('cluster0-shard-00-01.j4waz.mongodb.net:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>, <ServerDescription ('cluster0-shard-00-02.j4waz.mongodb.net', 27017) server_type: Unknown, rtt: None, error=NetworkTimeout('cluster0-shard-00-02.j4waz.mongodb.net:27017: timed out (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
 2026-06-14 16:23:11,126 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-06-14 22:08:37,834 - INFO - ***** ***** ***** 2026-06-14 22:08:37 ***** ***** *****
+2026-06-14 22:08:37,834 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-06-14 22:08:38,301 - INFO - Connected to db successfully!
+2026-06-14 22:08:38,301 - INFO - Connected to Twitter successfully!
+2026-06-14 22:08:38,301 - INFO - Iniciando búsqueda de tuit...
+2026-06-14 22:08:38,506 - INFO - Candidato hallado: ID 69b7325e4aa08bd8beaaf7eb | Intentos: 1
+2026-06-14 22:08:38,506 - INFO - ✅ Tuit válido: El infinito no es una cantidad, sino una...
+2026-06-14 22:08:38,506 - ERROR - Error crítico: 'año'
+2026-06-14 22:08:38,506 - INFO - --- FIN DE LA EJECUCIÓN ---
