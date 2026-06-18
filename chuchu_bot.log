@@ -9808,3 +9808,12 @@ Aleph-Cero (1971)
 2026-06-18 18:05:01,901 - INFO - ✅ Tuit válido: El infinito no es una cantidad, sino una...
 2026-06-18 18:05:01,901 - ERROR - Error crítico: 'año'
 2026-06-18 18:05:01,901 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-06-18 22:55:17,545 - INFO - ***** ***** ***** 2026-06-18 22:55:17 ***** ***** *****
+2026-06-18 22:55:17,546 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-06-18 22:55:17,937 - INFO - Connected to db successfully!
+2026-06-18 22:55:17,938 - INFO - Connected to Twitter successfully!
+2026-06-18 22:55:17,938 - INFO - Iniciando búsqueda de tuit...
+2026-06-18 22:55:18,233 - INFO - Candidato hallado: ID 69b7325d4aa08bd8beaaf7e7 | Intentos: 1
+2026-06-18 22:55:18,233 - INFO - ✅ Tuit válido: Espinoza se atrevió a confesar lo que se...
+2026-06-18 22:55:18,233 - ERROR - Error crítico: 'año'
+2026-06-18 22:55:18,233 - INFO - --- FIN DE LA EJECUCIÓN ---
