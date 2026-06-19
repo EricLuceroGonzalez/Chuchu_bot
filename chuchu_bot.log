@@ -9826,3 +9826,14 @@ Aleph-Cero (1971)
 2026-06-19 06:19:58,433 - INFO - ✅ Tuit válido: La matemática nos enseña que hay grados ...
 2026-06-19 06:19:58,433 - ERROR - Error crítico: 'año'
 2026-06-19 06:19:58,434 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-06-19 17:19:23,645 - INFO - ***** ***** ***** 2026-06-19 17:19:23 ***** ***** *****
+2026-06-19 17:19:23,645 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-06-19 17:19:23,743 - INFO - Connected to db successfully!
+2026-06-19 17:19:23,743 - INFO - Connected to Twitter successfully!
+2026-06-19 17:19:23,743 - INFO - Iniciando búsqueda de tuit...
+2026-06-19 17:19:24,477 - INFO - Candidato hallado: ID 68472513d46fb54fd972c3f3 | Intentos: 1
+2026-06-19 17:19:24,477 - INFO - ✅ Tuit válido: Ir en contra de la razón, por seguir al ...
+2026-06-19 17:19:24,477 - INFO - Creating tweet with text:
+ "Ir en contra de la razón, por seguir al corazón, o en contra del corazón, por seguir a la razón, es recomendable sólo para los impotentes de corazón o inteligencia, que necesitan afrodisíacos intelectuales..."
+Ideas para rodar (Aforismos bicornes) (1963)
+2026-06-19 17:19:24,786 - INFO - --- FIN DE LA EJECUCIÓN ---
