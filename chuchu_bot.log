@@ -10110,3 +10110,14 @@ Ideas para rodar (Aforismos bicornes) (1963)
 2026-06-29 05:50:32,438 - INFO - ✅ Tuit válido: La matemática nos enseña que hay grados ...
 2026-06-29 05:50:32,439 - ERROR - Error crítico: 'año'
 2026-06-29 05:50:32,439 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-06-29 17:37:16,308 - INFO - ***** ***** ***** 2026-06-29 17:37:16 ***** ***** *****
+2026-06-29 17:37:16,308 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-06-29 17:37:16,411 - INFO - Connected to db successfully!
+2026-06-29 17:37:16,411 - INFO - Connected to Twitter successfully!
+2026-06-29 17:37:16,412 - INFO - Iniciando búsqueda de tuit...
+2026-06-29 17:37:17,180 - INFO - Candidato hallado: ID 68472510d46fb54fd972c3e6 | Intentos: 1
+2026-06-29 17:37:17,180 - INFO - ✅ Tuit válido: El resentimiento de la clase que trabaja...
+2026-06-29 17:37:17,180 - INFO - Creating tweet with text:
+ "El resentimiento de la clase que trabaja hace la revolución."
+Ideas para rodar (Aforismos bicornes) (1963)
+2026-06-29 17:37:17,489 - INFO - --- FIN DE LA EJECUCIÓN ---
