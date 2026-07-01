@@ -10177,3 +10177,14 @@ Ideas para rodar (Aforismos bicornes) (1963)
 2026-07-01 05:21:02,971 - INFO - Uploading image to Twitter...
 2026-07-01 05:21:02,971 - INFO - Temporary image file removed.
 2026-07-01 05:21:03,378 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-07-01 17:14:21,616 - INFO - ***** ***** ***** 2026-07-01 17:14:21 ***** ***** *****
+2026-07-01 17:14:21,616 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-07-01 17:14:21,929 - INFO - Connected to db successfully!
+2026-07-01 17:14:21,929 - INFO - Connected to Twitter successfully!
+2026-07-01 17:14:21,929 - INFO - Iniciando búsqueda de tuit...
+2026-07-01 17:14:22,121 - INFO - Candidato hallado: ID 6847250fd46fb54fd972c3e1 | Intentos: 1
+2026-07-01 17:14:22,121 - INFO - ✅ Tuit válido: En un principio, la naturaleza hostil, e...
+2026-07-01 17:14:22,121 - INFO - Creating tweet with text:
+ "En un principio, la naturaleza hostil, el trabajo fuerte, dividió a los hombres en dos clases: la de los que trabajan y sufren y la de los que no trabajan y piensan."
+Ideas para rodar (Aforismos bicornes) (1963)
+2026-07-01 17:14:22,412 - INFO - --- FIN DE LA EJECUCIÓN ---
