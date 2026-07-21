@@ -10740,3 +10740,12 @@ Ideas para rodar (Aforismos bicornes) (1963)
 2026-07-21 04:14:44,962 - INFO - Uploading image to Twitter...
 2026-07-21 04:14:44,963 - INFO - Temporary image file removed.
 2026-07-21 04:14:45,396 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-07-21 16:22:52,543 - INFO - ***** ***** ***** 2026-07-21 16:22:52 ***** ***** *****
+2026-07-21 16:22:52,543 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-07-21 16:22:52,822 - INFO - Connected to db successfully!
+2026-07-21 16:22:52,822 - INFO - Connected to Twitter successfully!
+2026-07-21 16:22:52,822 - INFO - Iniciando búsqueda de tuit...
+2026-07-21 16:22:53,280 - INFO - Candidato hallado: ID 69b7325e4aa08bd8beaaf7e8 | Intentos: 1
+2026-07-21 16:22:53,281 - INFO - ✅ Tuit válido: Tan ágilmente se mueve la razón en ese m...
+2026-07-21 16:22:53,281 - ERROR - Error crítico: 'año'
+2026-07-21 16:22:53,281 - INFO - --- FIN DE LA EJECUCIÓN ---
