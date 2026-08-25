@@ -11729,3 +11729,12 @@ Ideas para rodar (Aforismos bicornes) (1963)
  "En la sociedad íntegra no habrá compasión inmoral."
 Ideas para rodar (Aforismos bicornes) (1963)
 2026-08-24 21:27:44,918 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-08-25 02:17:17,096 - INFO - ***** ***** ***** 2026-08-25 02:17:17 ***** ***** *****
+2026-08-25 02:17:17,096 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-08-25 02:17:17,244 - INFO - Connected to db successfully!
+2026-08-25 02:17:17,244 - INFO - Connected to Twitter successfully!
+2026-08-25 02:17:17,244 - INFO - Iniciando búsqueda de tuit...
+2026-08-25 02:17:17,962 - INFO - Candidato hallado: ID 69b7325f4aa08bd8beaaf7f1 | Intentos: 1
+2026-08-25 02:17:17,962 - INFO - ✅ Tuit válido: Si el hombre no hiciera nada grande en e...
+2026-08-25 02:17:17,962 - ERROR - Error crítico: 'año'
+2026-08-25 02:17:17,962 - INFO - --- FIN DE LA EJECUCIÓN ---
