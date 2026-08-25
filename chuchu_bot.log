@@ -11738,3 +11738,14 @@ Ideas para rodar (Aforismos bicornes) (1963)
 2026-08-25 02:17:17,962 - INFO - ✅ Tuit válido: Si el hombre no hiciera nada grande en e...
 2026-08-25 02:17:17,962 - ERROR - Error crítico: 'año'
 2026-08-25 02:17:17,962 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-08-25 15:41:38,385 - INFO - ***** ***** ***** 2026-08-25 15:41:38 ***** ***** *****
+2026-08-25 15:41:38,385 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-08-25 15:41:38,651 - INFO - Connected to db successfully!
+2026-08-25 15:41:38,652 - INFO - Connected to Twitter successfully!
+2026-08-25 15:41:38,652 - INFO - Iniciando búsqueda de tuit...
+2026-08-25 15:41:39,257 - INFO - Candidato hallado: ID 6847251bd46fb54fd972c41f | Intentos: 1
+2026-08-25 15:41:39,257 - INFO - ✅ Tuit válido: La justicia se exige; la caridad se mend...
+2026-08-25 15:41:39,257 - INFO - Creating tweet with text:
+ "La justicia se exige; la caridad se mendiga."
+Ideas para rodar (Aforismos bicornes) (1963)
+2026-08-25 15:41:39,818 - INFO - --- FIN DE LA EJECUCIÓN ---
