@@ -12129,3 +12129,12 @@ Ideas para rodar (Aforismos bicornes) (1963)
  "Las ilusiones son abstractas; los misterios, concretos."
 Ideas para rodar (Aforismos bicornes) (1963)
 2026-09-07 23:17:21,998 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-09-08 05:38:57,326 - INFO - ***** ***** ***** 2026-09-08 05:38:57 ***** ***** *****
+2026-09-08 05:38:57,326 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-09-08 05:38:57,667 - INFO - Connected to db successfully!
+2026-09-08 05:38:57,667 - INFO - Connected to Twitter successfully!
+2026-09-08 05:38:57,667 - INFO - Iniciando búsqueda de tuit...
+2026-09-08 05:38:57,840 - INFO - Candidato hallado: ID 69b7325d4aa08bd8beaaf7e7 | Intentos: 1
+2026-09-08 05:38:57,840 - INFO - ✅ Tuit válido: Espinoza se atrevió a confesar lo que se...
+2026-09-08 05:38:57,840 - ERROR - Error crítico: 'año'
+2026-09-08 05:38:57,840 - INFO - --- FIN DE LA EJECUCIÓN ---
