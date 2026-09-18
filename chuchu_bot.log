@@ -12460,3 +12460,12 @@ credits depleted
 2026-09-18 18:06:06,585 - INFO - ✅ Tuit válido: El Aleph-Cero es la puerta de entrada a ...
 2026-09-18 18:06:06,585 - ERROR - Error crítico: 'año'
 2026-09-18 18:06:06,585 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-09-18 23:02:22,501 - INFO - ***** ***** ***** 2026-09-18 23:02:22 ***** ***** *****
+2026-09-18 23:02:22,502 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-09-18 23:02:22,645 - INFO - Connected to db successfully!
+2026-09-18 23:02:22,645 - INFO - Connected to Twitter successfully!
+2026-09-18 23:02:22,645 - INFO - Iniciando búsqueda de tuit...
+2026-09-18 23:02:23,378 - INFO - Candidato hallado: ID 69b732604aa08bd8beaaf7f2 | Intentos: 1
+2026-09-18 23:02:23,378 - INFO - ✅ Tuit válido: En la teoría del infinito, la intuición ...
+2026-09-18 23:02:23,378 - ERROR - Error crítico: 'año'
+2026-09-18 23:02:23,378 - INFO - --- FIN DE LA EJECUCIÓN ---
