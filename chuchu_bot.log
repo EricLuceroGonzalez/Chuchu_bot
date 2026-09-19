@@ -12478,3 +12478,12 @@ credits depleted
 2026-09-19 05:30:50,645 - INFO - ✅ Tuit válido: El cero es el silencio absoluto; el infi...
 2026-09-19 05:30:50,645 - ERROR - Error crítico: 'año'
 2026-09-19 05:30:50,645 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-09-19 17:48:35,351 - INFO - ***** ***** ***** 2026-09-19 17:48:35 ***** ***** *****
+2026-09-19 17:48:35,351 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-09-19 17:48:35,539 - INFO - Connected to db successfully!
+2026-09-19 17:48:35,540 - INFO - Connected to Twitter successfully!
+2026-09-19 17:48:35,540 - INFO - Iniciando búsqueda de tuit...
+2026-09-19 17:48:35,889 - INFO - Candidato hallado: ID 69b7325e4aa08bd8beaaf7eb | Intentos: 1
+2026-09-19 17:48:35,889 - INFO - ✅ Tuit válido: El infinito no es una cantidad, sino una...
+2026-09-19 17:48:35,889 - ERROR - Error crítico: 'año'
+2026-09-19 17:48:35,889 - INFO - --- FIN DE LA EJECUCIÓN ---
