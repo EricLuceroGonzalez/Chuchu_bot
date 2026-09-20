@@ -12514,3 +12514,12 @@ credits depleted
 2026-09-20 18:02:01,996 - INFO - ✅ Tuit válido: La belleza de una demostración reside en...
 2026-09-20 18:02:01,997 - ERROR - Error crítico: 'año'
 2026-09-20 18:02:01,997 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-09-20 23:00:56,876 - INFO - ***** ***** ***** 2026-09-20 23:00:56 ***** ***** *****
+2026-09-20 23:00:56,876 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-09-20 23:00:57,166 - INFO - Connected to db successfully!
+2026-09-20 23:00:57,166 - INFO - Connected to Twitter successfully!
+2026-09-20 23:00:57,166 - INFO - Iniciando búsqueda de tuit...
+2026-09-20 23:00:57,419 - INFO - Candidato hallado: ID 69b7325e4aa08bd8beaaf7e9 | Intentos: 1
+2026-09-20 23:00:57,419 - INFO - ✅ Tuit válido: Lo que esta teoría da que pensar... es l...
+2026-09-20 23:00:57,419 - ERROR - Error crítico: 'año'
+2026-09-20 23:00:57,419 - INFO - --- FIN DE LA EJECUCIÓN ---
