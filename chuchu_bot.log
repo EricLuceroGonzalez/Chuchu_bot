@@ -12621,3 +12621,12 @@ credits depleted
 2026-09-24 05:53:10,275 - INFO - ✅ Tuit válido: Contar es ya una forma de eternidad, pue...
 2026-09-24 05:53:10,275 - ERROR - Error crítico: 'año'
 2026-09-24 05:53:10,275 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-09-24 18:50:51,515 - INFO - ***** ***** ***** 2026-09-24 18:50:51 ***** ***** *****
+2026-09-24 18:50:51,515 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-09-24 18:50:51,823 - INFO - Connected to db successfully!
+2026-09-24 18:50:51,823 - INFO - Connected to Twitter successfully!
+2026-09-24 18:50:51,823 - INFO - Iniciando búsqueda de tuit...
+2026-09-24 18:50:52,243 - INFO - Candidato hallado: ID 69b7325d4aa08bd8beaaf7e7 | Intentos: 1
+2026-09-24 18:50:52,243 - INFO - ✅ Tuit válido: Espinoza se atrevió a confesar lo que se...
+2026-09-24 18:50:52,243 - ERROR - Error crítico: 'año'
+2026-09-24 18:50:52,243 - INFO - --- FIN DE LA EJECUCIÓN ---
