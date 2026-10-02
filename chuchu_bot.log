@@ -12835,3 +12835,19 @@ credits depleted
 2026-10-01 20:09:50,742 - INFO - ✅ Tuit válido: Lo que esta teoría da que pensar... es l...
 2026-10-01 20:09:50,742 - ERROR - Error crítico: 'año'
 2026-10-01 20:09:50,742 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-10-02 00:33:30,882 - INFO - ***** ***** ***** 2026-10-02 00:33:30 ***** ***** *****
+2026-10-02 00:33:30,882 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-10-02 00:33:31,226 - INFO - Connected to db successfully!
+2026-10-02 00:33:31,226 - INFO - Connected to Twitter successfully!
+2026-10-02 00:33:31,227 - INFO - Iniciando búsqueda de tuit...
+2026-10-02 00:33:31,350 - INFO - Candidato hallado: ID 6847251ad46fb54fd972c418 | Intentos: 1
+2026-10-02 00:33:31,350 - INFO - ✅ Tuit válido: La compasión es un dolor de mentira....
+2026-10-02 00:33:31,350 - INFO - Creating tweet with text:
+ 🎞️"La compasión es un dolor de mentira."
+ 👓Ideas para rodar (Aforismos bicornes) (1963).
+2026-10-02 00:33:31,350 - INFO - Downloading image from Cloud..
+2026-10-02 00:33:32,612 - INFO - Uploading image to Twitter...
+2026-10-02 00:33:32,612 - INFO - Temporary image file removed.
+2026-10-02 00:33:32,820 - ERROR - Error crítico: 402 Payment Required
+credits depleted
+2026-10-02 00:33:32,820 - INFO - --- FIN DE LA EJECUCIÓN ---
