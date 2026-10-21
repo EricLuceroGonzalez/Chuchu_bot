@@ -13408,3 +13408,16 @@ credits depleted
 2026-10-20 23:37:58,399 - INFO - ✅ Tuit válido: Contar es ya una forma de eternidad, pue...
 2026-10-20 23:37:58,399 - ERROR - Error crítico: 'año'
 2026-10-20 23:37:58,399 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-10-21 05:45:15,052 - INFO - ***** ***** ***** 2026-10-21 05:45:15 ***** ***** *****
+2026-10-21 05:45:15,052 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-10-21 05:45:15,263 - INFO - Connected to db successfully!
+2026-10-21 05:45:15,264 - INFO - Connected to Twitter successfully!
+2026-10-21 05:45:15,264 - INFO - Iniciando búsqueda de tuit...
+2026-10-21 05:45:15,839 - INFO - Candidato hallado: ID 6847251dd46fb54fd972c429 | Intentos: 1
+2026-10-21 05:45:15,839 - INFO - ✅ Tuit válido: La sociedad íntegra es una sociedad just...
+2026-10-21 05:45:15,839 - INFO - Creating tweet with text:
+ "La sociedad íntegra es una sociedad justa, no caritativa."
+Ideas para rodar (Aforismos bicornes) (1963)
+2026-10-21 05:45:16,000 - ERROR - Error crítico: 402 Payment Required
+credits depleted
+2026-10-21 05:45:16,000 - INFO - --- FIN DE LA EJECUCIÓN ---
