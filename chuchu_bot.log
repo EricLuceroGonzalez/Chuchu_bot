@@ -13452,3 +13452,12 @@ Ideas para rodar (Aforismos bicornes) (1963)
 2026-10-22 05:47:10,502 - ERROR - Error crítico: 402 Payment Required
 credits depleted
 2026-10-22 05:47:10,503 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-10-22 19:03:32,030 - INFO - ***** ***** ***** 2026-10-22 19:03:32 ***** ***** *****
+2026-10-22 19:03:32,031 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-10-22 19:03:32,182 - INFO - Connected to db successfully!
+2026-10-22 19:03:32,182 - INFO - Connected to Twitter successfully!
+2026-10-22 19:03:32,182 - INFO - Iniciando búsqueda de tuit...
+2026-10-22 19:03:32,821 - INFO - Candidato hallado: ID 69b7325d4aa08bd8beaaf7e7 | Intentos: 1
+2026-10-22 19:03:32,821 - INFO - ✅ Tuit válido: Espinoza se atrevió a confesar lo que se...
+2026-10-22 19:03:32,821 - ERROR - Error crítico: 'año'
+2026-10-22 19:03:32,821 - INFO - --- FIN DE LA EJECUCIÓN ---
