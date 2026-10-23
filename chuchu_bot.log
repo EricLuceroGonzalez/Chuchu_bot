@@ -13479,3 +13479,12 @@ credits depleted
 2026-10-23 05:46:28,858 - INFO - ✅ Tuit válido: Espinoza se atrevió a confesar lo que se...
 2026-10-23 05:46:28,858 - ERROR - Error crítico: 'año'
 2026-10-23 05:46:28,858 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-10-23 18:53:41,731 - INFO - ***** ***** ***** 2026-10-23 18:53:41 ***** ***** *****
+2026-10-23 18:53:41,731 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-10-23 18:53:42,010 - INFO - Connected to db successfully!
+2026-10-23 18:53:42,010 - INFO - Connected to Twitter successfully!
+2026-10-23 18:53:42,010 - INFO - Iniciando búsqueda de tuit...
+2026-10-23 18:53:42,442 - INFO - Candidato hallado: ID 69b7325f4aa08bd8beaaf7f0 | Intentos: 1
+2026-10-23 18:53:42,443 - INFO - ✅ Tuit válido: El Aleph-Cero es la puerta de entrada a ...
+2026-10-23 18:53:42,443 - ERROR - Error crítico: 'año'
+2026-10-23 18:53:42,443 - INFO - --- FIN DE LA EJECUCIÓN ---
