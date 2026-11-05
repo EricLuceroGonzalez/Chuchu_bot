@@ -29,8 +29,6 @@ jobs:
           ENABLED_PLATFORMS: bluesky          # añade ",mastodon" cuando tengas sus secrets
           BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
           BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
-          # MASTODON_BASE_URL: ${{ secrets.MASTODON_BASE_URL }}
-          # MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
           MONGO_USER: ${{ secrets.MONGO_USER }}
           MONGO_PASSWORD: ${{ secrets.MONGO_PASSWORD }}
           MONGO_CLUSTER: ${{ secrets.MONGO_CLUSTER }}
