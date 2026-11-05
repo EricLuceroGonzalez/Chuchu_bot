@@ -1,9 +1,7 @@
 name: Daily Post
 on:
   schedule:
-    - cron: "00 01 * * *" # Runs at 01:00 UTC daily
-    - cron: "00 15 * * *" # Runs at 15:00 UTC daily
-    - cron: "00 21 * * *" # Runs at 21:00 UTC daily
+     - cron: "0 8,14,20 * * *"   # en UTC (9, 15 y 21 h en Madrid en invierno)
   workflow_dispatch:
 
 jobs:
@@ -13,14 +11,11 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - uses: astral-sh/setup-uv@v6
         with:
-          python-version: "3.12"
-
-      - name: Install dependencies
-        run: pip install -r requirements.txt
+          enable-cache: true
+      - run: uv sync --locked
+      - run: uv run post_citas.py
 
       - name: Run script
         env:
@@ -32,7 +27,10 @@ jobs:
           MONGO_USER: ${{ secrets.MONGO_USER }}
           MONGO_PASSWORD: ${{ secrets.MONGO_PASSWORD }}
           MONGO_CLUSTER: ${{ secrets.MONGO_CLUSTER }}
-        run: python post_tuits.py
+          BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
+          BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
+          BSKY_SERVICE: ${{ secrets.BSKY_SERVICE }}
+        run: uv run post_citas.py
 
       - name: Commit and push changes
         if: success()
