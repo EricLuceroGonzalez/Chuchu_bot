@@ -13968,3 +13968,29 @@ Aleph-Cero (year)
 2026-11-05 22:39:31,717 - ERROR - Error crítico: 402 Payment Required
 credits depleted
 2026-11-05 22:39:31,718 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-11-05 22:51:51,270 - INFO - ***** 2026-11-05 22:51:51 — INICIANDO BOT *****
+2026-11-05 22:51:51,270 - INFO - Redes activas: ['bluesky'] (DRY-RUN)
+2026-11-05 22:51:52,139 - INFO - Connected to db successfully!
+2026-11-05 22:51:53,269 - INFO - Candidato ID 6847251dd46fb54fd972c429 | intento 1 | 104 chars
+2026-11-05 22:51:53,269 - INFO - [DRY-RUN][bluesky] Publicaría:
+"La sociedad íntegra es una sociedad justa, no caritativa."
+Ideas para rodar (Aforismos bicornes) (1963)
+2026-11-05 22:51:53,270 - INFO - DRY-RUN: no se actualiza MongoDB.
+2026-11-05 22:51:53,270 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-11-05 23:04:42,096 - INFO - ***** 2026-11-05 23:04:42 — INICIANDO BOT *****
+2026-11-05 23:04:42,096 - INFO - Redes activas: ['bluesky'] (DRY-RUN)
+2026-11-05 23:04:42,257 - INFO - Connected to db successfully!
+2026-11-05 23:04:43,850 - INFO - Candidato ID 69b7325f4aa08bd8beaaf7f1 | intento 1 | 132 chars
+2026-11-05 23:04:44,738 - INFO - [DRY-RUN][bluesky] Publicaría + imagen (263 KB):
+"Si el hombre no hiciera nada grande en el mundo, le bastaría haber concebido el infinito para justificar su existencia."
+Aleph-Cero
+2026-11-05 23:04:44,738 - INFO - DRY-RUN: no se actualiza MongoDB.
+2026-11-05 23:04:44,738 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-11-05 23:04:51,494 - INFO - ***** 2026-11-05 23:04:51 — INICIANDO BOT *****
+2026-11-05 23:04:51,494 - INFO - Redes activas: ['bluesky']
+2026-11-05 23:04:53,525 - INFO - Bluesky: conectado como chuchumartinez.bsky.social.
+2026-11-05 23:04:53,589 - INFO - Connected to db successfully!
+2026-11-05 23:04:54,692 - INFO - Candidato ID 69b7325f4aa08bd8beaaf7f1 | intento 1 | 132 chars
+2026-11-05 23:04:54,914 - INFO - ✅ [bluesky] publicado: at://did:plc:22xa6t4sh5lkdduubrz5rzhg/app.bsky.feed.post/3mzlurs73yg2p
+2026-11-05 23:04:55,102 - INFO - MongoDB actualizado: 69b7325f4aa08bd8beaaf7f1 → ['bluesky']
+2026-11-05 23:04:55,102 - INFO - --- FIN DE LA EJECUCIÓN ---

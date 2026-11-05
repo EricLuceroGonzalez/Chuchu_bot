@@ -1,17 +1,20 @@
 [project]
-name = "bot-chuchu"
-version = "0.1.0"
+name = "chuchu-bot"
+version = "0.2.0"
+description = "Bot de citas literarias para Bluesky y Mastodon (X desactivado)"
+readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "certifi==2025.4.26 ; python_full_version >= '3.6'",
-    "charset-normalizer==3.4.2 ; python_full_version >= '3.7'",
-    "dnspython==2.7.0 ; python_full_version >= '3.9'",
-    "idna==3.10 ; python_full_version >= '3.6'",
-    "oauthlib==3.2.2 ; python_full_version >= '3.6'",
-    "pymongo==4.13.0 ; python_full_version >= '3.9'",
-    "python-dotenv==1.1.0 ; python_full_version >= '3.9'",
-    "requests==2.32.4 ; python_full_version >= '3.8'",
-    "requests-oauthlib==2.0.0 ; python_full_version >= '3.4'",
-    "tweepy==4.15.0 ; python_full_version >= '3.9'",
-    "urllib3==2.4.0 ; python_full_version >= '3.9'",
+    "atproto>=0.0.61",
+    "mastodon-py>=2.0",
+    "pillow>=11.0",
+    "pymongo>=4.8",
+    "python-dotenv>=1.0",
 ]
+
+[project.optional-dependencies]
+# X está apagado. Para reactivarlo: uv sync --extra x
+x = ["tweepy>=4.14"]
+
+[tool.uv]
+package = false
