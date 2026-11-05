@@ -13,6 +13,7 @@ logger = logging.getLogger(__name__)
 class MastodonPublisher(Publisher):
     name = "mastodon"
     MAX_CHARS = 500  # valor por defecto; algunas instancias permiten más
+    MAX_TAGS = 4     # en Mastodon los hashtags son la vía principal de descubrimiento
 
     def connect(self) -> None:
         from mastodon import Mastodon

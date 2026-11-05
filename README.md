@@ -31,6 +31,23 @@ Se eligen con `ENABLED_PLATFORMS` en el `.env` (p. ej. `bluesky,mastodon`).
 Se elige una cita que quepa en **todas** las redes activas, así el texto es idéntico en cada una.
 Si una red falla (sin créditos, rate limit…), se registra un aviso y se sigue con las demás.
 
+## Formato de los posts
+
+```
+"texto de la cita"
+
+— Autor, Libro (año)
+
+#citas #Autor
+```
+
+- Campos usados: `texto`, `autor`, `libro`, `año`, `portada` (los vacíos se omiten).
+- Hashtags por prioridad: `#citas`, `#Autor`, `#libros`, `#Libro`, `#literatura`.
+  Bluesky lleva hasta 2 y Mastodon hasta 4; se quitan si no caben.
+- En Bluesky los hashtags se envían como *facets* para que sean clicables.
+- El 20 % de los posts lleva emojis; el estilo es el mismo en todas las redes.
+- Texto alternativo de la portada: «Portada del libro «Libro», de Autor (año).»
+
 ## MongoDB
 
 Tras publicar se actualiza el documento:

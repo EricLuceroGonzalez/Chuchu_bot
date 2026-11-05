@@ -1,44 +1,51 @@
 name: Daily Post
+
 on:
   schedule:
-     - cron: "0 8,14,20 * * *"   # en UTC (9, 15 y 21 h en Madrid en invierno)
+    - cron: "0 8,14,20 * * *"   # en UTC (9, 15 y 21 h en Madrid en invierno)
   workflow_dispatch:
+
+concurrency:
+  group: daily-post          # evita dos ejecuciones a la vez (doble post / push en conflicto)
+  cancel-in-progress: false
 
 jobs:
   run-bot:
     runs-on: ubuntu-latest
-    permissions:
+    permissions: 
       contents: write
     steps:
       - uses: actions/checkout@v4
+
       - uses: astral-sh/setup-uv@v6
         with:
           enable-cache: true
-      - run: uv sync --locked
-      - run: uv run post_citas.py
 
-      - name: Run script
+      - name: Install dependencies
+        run: uv sync --locked
+
+      - name: Run bot
         env:
-          X_API_KEY: ${{ secrets.X_API_KEY }}
-          X_API_KEY_SECRET: ${{ secrets.X_API_KEY_SECRET }}
-          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
-          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
-          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+          ENABLED_PLATFORMS: bluesky          # añade ",mastodon" cuando tengas sus secrets
+          BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
+          BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
+          # MASTODON_BASE_URL: ${{ secrets.MASTODON_BASE_URL }}
+          # MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
           MONGO_USER: ${{ secrets.MONGO_USER }}
           MONGO_PASSWORD: ${{ secrets.MONGO_PASSWORD }}
           MONGO_CLUSTER: ${{ secrets.MONGO_CLUSTER }}
-          BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
-          BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
-          BSKY_SERVICE: ${{ secrets.BSKY_SERVICE }}
         run: uv run post_citas.py
 
-      - name: Commit and push changes
-        if: success()
+      - name: Commit log
+        if: always()                          # guarda el log también cuando el bot falla
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add chuchu_bot.log
+          git add -f chuchu_bot.log           # -f: el .gitignore ignora *.log
+          if git diff --cached --quiet; then
+            echo "Sin cambios en el log."
+            exit 0
+          fi
           git commit -m "Daily update"
+          git pull --rebase
           git push
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

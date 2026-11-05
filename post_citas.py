@@ -9,7 +9,7 @@ from datetime import datetime, timezone
 
 from dotenv import load_dotenv
 
-from formatter import build_text
+from formatter import alt_text, base_text, choose_style, compose
 from images import load_cover
 from publishers import PublisherUnavailable, build_publishers
 
@@ -38,37 +38,39 @@ PIPELINE = [
 ]
 
 
-def pick_quote(collection, max_len: int, max_intentos: int = 10):
-    """Devuelve (item, texto) de una cita que quepa en todas las redes activas."""
+def pick_quote(collection, style, max_len: int, max_intentos: int = 10):
+    """Devuelve un documento cuya cita (sin hashtags) quepa en todas las redes activas."""
     for intento in range(1, max_intentos + 1):
         candidatos = list(collection.aggregate(PIPELINE))
         if not candidatos:
             logger.warning("Consulta a MongoDB vacía. ¿Quedan documentos con enviado < 2?")
-            return None, None
+            return None
         item = candidatos[0]
-        texto = build_text(item)
-        logger.info(f"Candidato ID {item.get('_id')} | intento {intento} | {len(texto)} chars")
-        if len(texto) <= max_len:
-            return item, texto
-        logger.info(f"❌ Descartado por largo ({len(texto)} > {max_len}).")
+        largo = len(base_text(item, style))
+        logger.info(f"Candidato ID {item.get('_id')} | intento {intento} | {largo} chars")
+        if largo <= max_len:
+            return item
+        logger.info(f"❌ Descartado por largo ({largo} > {max_len}).")
     logger.warning(f"Ninguna cita válida tras {max_intentos} intentos.")
-    return None, None
+    return None
 
 
 def run(collection, publishers, dry_run: bool = False) -> dict[str, str]:
+    style = choose_style()  # mismo estilo (emojis) en todas las redes
     max_len = min(p.MAX_CHARS for p in publishers)
-    item, texto = pick_quote(collection, max_len)
+    item = pick_quote(collection, style, max_len)
     if item is None:
         return {}
 
     media = None
     prob = float(os.getenv("PROB_IMAGEN", "0.1"))
     if item.get("portada") and random.random() < prob:
-        media = load_cover(item["portada"], alt=f"Portada de {item.get('libro', 'libro')}")
+        media = load_cover(item["portada"], alt=alt_text(item))
 
     resultados: dict[str, str] = {}
     for p in publishers:
         try:
+            texto = compose(item, style, p.MAX_CHARS, p.MAX_TAGS)
             resultados[p.name] = p.publish(texto, media)
         except PublisherUnavailable as e:
             logger.warning(f"⚠️ [{p.name}] omitido: {e}")

@@ -24,6 +24,7 @@ class PublisherUnavailable(Exception):
 class Publisher(ABC):
     name: str = "base"
     MAX_CHARS: int = 280
+    MAX_TAGS: int = 2  # hashtags máximos por post
 
     def __init__(self, dry_run: bool = False):
         self.dry_run = dry_run

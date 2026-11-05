@@ -2,6 +2,7 @@
 
 import logging
 import os
+import re
 from pathlib import Path
 
 from .base import Media, Publisher, PublisherUnavailable
@@ -11,6 +12,7 @@ logger = logging.getLogger(__name__)
 # La sesión se guarda en disco para no hacer login en cada ejecución
 # (Bluesky limita la creación de sesiones: 30 cada 5 min / 300 al día).
 SESSION_FILE = Path(__file__).resolve().parent.parent / ".bsky_session"
+HASHTAG_RE = re.compile(r"(?<!\w)#(\w+)")
 
 
 class BlueskyPublisher(Publisher):
@@ -19,6 +21,7 @@ class BlueskyPublisher(Publisher):
     # >= grafemas (un emoji como 🎞️ son 2 code points), así que es conservador.
     MAX_CHARS = 300
     MAX_BYTES = 3000
+    MAX_TAGS = 2
 
     def connect(self) -> None:
         from atproto import Client
@@ -49,6 +52,20 @@ class BlueskyPublisher(Publisher):
         except Exception as e:
             logger.warning(f"Bluesky: no se pudo guardar la sesión: {e}")
 
+    @staticmethod
+    def _rich_text(text: str):
+        """En Bluesky los #hashtags solo son clicables si van como 'facets'."""
+        from atproto import client_utils
+
+        tb = client_utils.TextBuilder()
+        pos = 0
+        for m in HASHTAG_RE.finditer(text):
+            tb.text(text[pos:m.start()])
+            tb.tag(m.group(0), m.group(1))
+            pos = m.end()
+        tb.text(text[pos:])
+        return tb
+
     def fits(self, text: str) -> bool:
         return super().fits(text) and len(text.encode("utf-8")) <= self.MAX_BYTES
 
@@ -56,6 +73,7 @@ class BlueskyPublisher(Publisher):
         from atproto import models
         from atproto_client.exceptions import RequestException
 
+        rich = self._rich_text(text)
         try:
             if media:
                 aspect = None
@@ -64,14 +82,14 @@ class BlueskyPublisher(Publisher):
                         width=media.width, height=media.height
                     )
                 r = self.client.send_image(
-                    text=text,
+                    text=rich,
                     image=media.data,
                     image_alt=media.alt,
                     image_aspect_ratio=aspect,
                     langs=["es"],
                 )
             else:
-                r = self.client.send_post(text=text, langs=["es"])
+                r = self.client.send_post(text=rich, langs=["es"])
         except RequestException as e:
             status = getattr(getattr(e, "response", None), "status_code", None)
             if status == 429:

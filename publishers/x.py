@@ -20,6 +20,7 @@ def _cred(name: str) -> str:
 class XPublisher(Publisher):
     name = "x"
     MAX_CHARS = 280
+    MAX_TAGS = 1
 
     def connect(self) -> None:
         import tweepy
