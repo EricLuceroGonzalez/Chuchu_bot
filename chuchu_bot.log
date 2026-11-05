@@ -14002,3 +14002,11 @@ Aleph-Cero
 2026-11-05 23:26:09,597 - INFO - ✅ [bluesky] publicado: at://did:plc:22xa6t4sh5lkdduubrz5rzhg/app.bsky.feed.post/3mzlvxrtlyh2t
 2026-11-05 23:26:09,792 - INFO - MongoDB actualizado: 6847251ad46fb54fd972c418 → ['bluesky']
 2026-11-05 23:26:09,793 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-11-05 22:36:55,287 - INFO - ***** 2026-11-05 22:36:55 — INICIANDO BOT *****
+2026-11-05 22:36:55,287 - INFO - Redes activas: ['bluesky']
+2026-11-05 22:36:56,531 - INFO - Bluesky: sesión reutilizada.
+2026-11-05 22:36:57,068 - INFO - Connected to db successfully!
+2026-11-05 22:36:57,364 - INFO - Candidato ID 69b7325e4aa08bd8beaaf7e9 | intento 1 | 154 chars
+2026-11-05 22:36:59,350 - INFO - ✅ [bluesky] publicado: at://did:plc:22xa6t4sh5lkdduubrz5rzhg/app.bsky.feed.post/3mzlwl4wdgc2j
+2026-11-05 22:36:59,392 - INFO - MongoDB actualizado: 69b7325e4aa08bd8beaaf7e9 → ['bluesky']
+2026-11-05 22:36:59,392 - INFO - --- FIN DE LA EJECUCIÓN ---
