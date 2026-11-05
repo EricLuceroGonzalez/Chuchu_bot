@@ -4,3 +4,4 @@
 __pycache__/
 *.log
 temp_image.jpg
+.bsky_session
