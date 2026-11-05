@@ -13874,3 +13874,97 @@ credits depleted
 2026-11-05 22:19:41,107 - INFO - ✅ Tuit válido: El infinito no es una cantidad, sino una...
 2026-11-05 22:19:41,107 - ERROR - Error crítico: 'año'
 2026-11-05 22:19:41,107 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-11-05 22:29:22,823 - INFO - ***** ***** ***** 2026-11-05 22:29:22 ***** ***** *****
+2026-11-05 22:29:22,823 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-11-05 22:29:22,869 - INFO - Connected to db successfully!
+2026-11-05 22:29:22,869 - INFO - Connected to Twitter successfully!
+2026-11-05 22:29:22,869 - INFO - Iniciando búsqueda de tuit...
+2026-11-05 22:29:24,030 - INFO - Candidato hallado: ID 6847251dd46fb54fd972c428 | Intentos: 1
+2026-11-05 22:29:24,030 - INFO - ✅ Tuit válido: La revolución no tendrá compasión ni car...
+2026-11-05 22:29:24,031 - ERROR - Error crítico: 'year'
+2026-11-05 22:29:24,031 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-11-05 22:29:51,690 - INFO - ***** ***** ***** 2026-11-05 22:29:51 ***** ***** *****
+2026-11-05 22:29:51,690 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-11-05 22:29:51,727 - INFO - Connected to db successfully!
+2026-11-05 22:29:51,727 - INFO - Connected to Twitter successfully!
+2026-11-05 22:29:51,727 - INFO - Iniciando búsqueda de tuit...
+2026-11-05 22:29:52,707 - INFO - Candidato hallado: ID 69b7325f4aa08bd8beaaf7f1 | Intentos: 1
+2026-11-05 22:29:52,707 - INFO - ✅ Tuit válido: Si el hombre no hiciera nada grande en e...
+2026-11-05 22:29:52,707 - ERROR - Error crítico: 'año'
+2026-11-05 22:29:52,707 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-11-05 22:30:58,857 - INFO - ***** ***** ***** 2026-11-05 22:30:58 ***** ***** *****
+2026-11-05 22:30:58,857 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-11-05 22:30:58,899 - INFO - Connected to db successfully!
+2026-11-05 22:30:58,899 - INFO - Connected to Twitter successfully!
+2026-11-05 22:30:58,899 - INFO - Iniciando búsqueda de tuit...
+2026-11-05 22:30:59,950 - INFO - Candidato hallado: ID 68472515d46fb54fd972c3ff | Intentos: 1
+2026-11-05 22:30:59,950 - INFO - ✅ Tuit válido: Lo honrado es golpear el mundo, no uno m...
+2026-11-05 22:30:59,950 - ERROR - Error crítico: 'year'
+2026-11-05 22:30:59,950 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-11-05 22:32:47,311 - INFO - ***** ***** ***** 2026-11-05 22:32:47 ***** ***** *****
+2026-11-05 22:32:47,311 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-11-05 22:32:47,348 - INFO - Connected to db successfully!
+2026-11-05 22:32:47,348 - INFO - Connected to Twitter successfully!
+2026-11-05 22:32:47,348 - INFO - Iniciando búsqueda de tuit...
+2026-11-05 22:32:48,374 - INFO - Candidato hallado: ID 69b7325f4aa08bd8beaaf7ef | Intentos: 1
+2026-11-05 22:32:48,374 - INFO - ✅ Tuit válido: La belleza de una demostración reside en...
+2026-11-05 22:32:48,374 - ERROR - Error crítico: 'año'
+2026-11-05 22:32:48,375 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-11-05 22:33:20,932 - INFO - ***** ***** ***** 2026-11-05 22:33:20 ***** ***** *****
+2026-11-05 22:33:20,932 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-11-05 22:33:20,972 - INFO - Connected to db successfully!
+2026-11-05 22:33:20,972 - INFO - Connected to Twitter successfully!
+2026-11-05 22:33:20,972 - INFO - Iniciando búsqueda de tuit...
+2026-11-05 22:33:21,922 - INFO - Candidato hallado: ID 69b7325e4aa08bd8beaaf7ec | Intentos: 1
+2026-11-05 22:33:21,922 - INFO - ✅ Tuit válido: La matemática es el único lenguaje donde...
+2026-11-05 22:33:21,922 - ERROR - Error crítico: 'año'
+2026-11-05 22:33:21,922 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-11-05 22:33:29,369 - INFO - ***** ***** ***** 2026-11-05 22:33:29 ***** ***** *****
+2026-11-05 22:33:29,369 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-11-05 22:33:29,406 - INFO - Connected to db successfully!
+2026-11-05 22:33:29,407 - INFO - Connected to Twitter successfully!
+2026-11-05 22:33:29,407 - INFO - Iniciando búsqueda de tuit...
+2026-11-05 22:33:30,403 - INFO - Candidato hallado: ID 69b7325d4aa08bd8beaaf7e6 | Intentos: 1
+2026-11-05 22:33:30,403 - INFO - ✅ Tuit válido: Difícilmente encontraremos en otra disci...
+2026-11-05 22:33:30,403 - ERROR - Error crítico: 'año'
+2026-11-05 22:33:30,403 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-11-05 22:33:35,379 - INFO - ***** ***** ***** 2026-11-05 22:33:35 ***** ***** *****
+2026-11-05 22:33:35,379 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-11-05 22:33:35,416 - INFO - Connected to db successfully!
+2026-11-05 22:33:35,417 - INFO - Connected to Twitter successfully!
+2026-11-05 22:33:35,417 - INFO - Iniciando búsqueda de tuit...
+2026-11-05 22:33:36,362 - INFO - Candidato hallado: ID 69b7325f4aa08bd8beaaf7f1 | Intentos: 1
+2026-11-05 22:33:36,362 - INFO - ✅ Tuit válido: Si el hombre no hiciera nada grande en e...
+2026-11-05 22:33:36,362 - ERROR - Error crítico: 'año'
+2026-11-05 22:33:36,362 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-11-05 22:33:38,517 - INFO - ***** ***** ***** 2026-11-05 22:33:38 ***** ***** *****
+2026-11-05 22:33:38,517 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-11-05 22:33:38,551 - INFO - Connected to db successfully!
+2026-11-05 22:33:38,551 - INFO - Connected to Twitter successfully!
+2026-11-05 22:33:38,551 - INFO - Iniciando búsqueda de tuit...
+2026-11-05 22:33:39,622 - INFO - Candidato hallado: ID 68472515d46fb54fd972c3ff | Intentos: 1
+2026-11-05 22:33:39,622 - INFO - ✅ Tuit válido: Lo honrado es golpear el mundo, no uno m...
+2026-11-05 22:33:39,623 - ERROR - Error crítico: 'year'
+2026-11-05 22:33:39,623 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-11-05 22:37:34,517 - INFO - ***** ***** ***** 2026-11-05 22:37:34 ***** ***** *****
+2026-11-05 22:37:34,518 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-11-05 22:37:34,566 - INFO - Connected to db successfully!
+2026-11-05 22:37:34,566 - INFO - Connected to Twitter successfully!
+2026-11-05 22:37:34,566 - INFO - Iniciando búsqueda de tuit...
+2026-11-05 22:37:35,760 - INFO - Candidato hallado: ID 69b7325f4aa08bd8beaaf7ed | Intentos: 1
+2026-11-05 22:37:35,761 - INFO - ✅ Tuit válido: Contar es ya una forma de eternidad, pue...
+2026-11-05 22:37:35,761 - ERROR - Error crítico: 'año'
+2026-11-05 22:37:35,761 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-11-05 22:39:30,329 - INFO - ***** ***** ***** 2026-11-05 22:39:30 ***** ***** *****
+2026-11-05 22:39:30,329 - INFO - --- INICIANDO PROCESO DEL BOT ---
+2026-11-05 22:39:30,400 - INFO - Connected to db successfully!
+2026-11-05 22:39:30,400 - INFO - Connected to Twitter successfully!
+2026-11-05 22:39:30,400 - INFO - Iniciando búsqueda de tuit...
+2026-11-05 22:39:31,469 - INFO - Candidato hallado: ID 69b7325f4aa08bd8beaaf7f1 | Intentos: 1
+2026-11-05 22:39:31,470 - INFO - ✅ Tuit válido: Si el hombre no hiciera nada grande en e...
+2026-11-05 22:39:31,470 - INFO - Creating tweet with text:
+ "Si el hombre no hiciera nada grande en el mundo, le bastaría haber concebido el infinito para justificar su existencia."
+Aleph-Cero (year)
+2026-11-05 22:39:31,717 - ERROR - Error crítico: 402 Payment Required
+credits depleted
+2026-11-05 22:39:31,718 - INFO - --- FIN DE LA EJECUCIÓN ---
