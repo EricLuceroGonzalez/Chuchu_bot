@@ -14282,3 +14282,11 @@ Aleph-Cero
 2026-11-22 16:03:43,828 - INFO - ✅ [bluesky] publicado: at://did:plc:22xa6t4sh5lkdduubrz5rzhg/app.bsky.feed.post/3n2vyjlxi6g2d
 2026-11-22 16:03:43,916 - INFO - MongoDB actualizado: 68472515d46fb54fd972c400 → ['bluesky']
 2026-11-22 16:03:43,917 - INFO - --- FIN DE LA EJECUCIÓN ---
+2026-11-23 00:38:52,340 - INFO - ***** 2026-11-23 00:38:52 — INICIANDO BOT *****
+2026-11-23 00:38:52,341 - INFO - Redes activas: ['bluesky']
+2026-11-23 00:38:53,448 - INFO - Bluesky: conectado como chuchumartinez.bsky.social.
+2026-11-23 00:38:53,730 - INFO - Connected to db successfully!
+2026-11-23 00:38:53,841 - INFO - Candidato ID 6847251dd46fb54fd972c42a | intento 1 | 136 chars
+2026-11-23 00:38:53,943 - INFO - ✅ [bluesky] publicado: at://did:plc:22xa6t4sh5lkdduubrz5rzhg/app.bsky.feed.post/3n2wvcs4ac72w
+2026-11-23 00:38:53,975 - INFO - MongoDB actualizado: 6847251dd46fb54fd972c42a → ['bluesky']
+2026-11-23 00:38:53,975 - INFO - --- FIN DE LA EJECUCIÓN ---
